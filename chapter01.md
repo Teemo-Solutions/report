@@ -157,3 +157,50 @@ Para ello, se ha definido dos segmentos objetivo: Gamers Entusiastas y Empresas 
     </td>
   </tr>
 </table>
+
+<table>
+  <tr>
+    <th colspan="2">Empresas Desarrolladoras de Videojuegos</th>
+  </tr>
+  <tr>
+    <th>Segmento</th>
+    <th>Descripción</th>
+  </tr>
+  <tr>
+    <td><b>Geográfico</b></td>
+    <td>
+      <ul>
+        <li><b>Ubicación:</b> Desarrolladoras de videojuegos de tamaño pequeño a mediano en Perú, con enfoque en Lima, y otras regiones donde la industria está creciendo.</li>
+        <li><b>Expansión potencial:</b> Desarrolladoras de otras partes de Latinoamérica interesadas en el mercado peruano y en acceder a una base de usuarios activos.</li>
+        <li><b>Acceso a la plataforma:</b> Necesitan un fácil acceso a la plataforma para gestionar campañas y analizar resultados en tiempo real.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Demográfico</b></td>
+    <td>
+      <ul>
+        <li><b>Tamaño de la empresa:</b> Pequeñas y medianas empresas de desarrollo de videojuegos, que buscan formas eficientes y rentables de promocionar sus productos.</li>
+        <li><b>Presupuesto:</b> Empresas con presupuestos de marketing limitados, que buscan maximizar el retorno de inversión en campañas.</li>
+        <li><b>Tipo de desarrolladoras:</b> Estudios independientes o "indies", así como desarrolladoras medianas que buscan aumentar su visibilidad.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Psicográfico</b></td>
+    <td>
+      <b>Valores y necesidades:</b>
+      <ul>
+        <li><b>Innovadores:</b> Buscan nuevas y creativas maneras de alcanzar a su audiencia objetivo.</li>
+        <li><b>Enfocados en el rendimiento:</b> Valoran plataformas que ofrezcan métricas claras y detalladas sobre el rendimiento de sus campañas.</li>
+        <li><b>Dispuestos a experimentar:</b> Abiertos a probar nuevas herramientas y técnicas para mejorar la efectividad de sus campañas de marketing.</li>
+      </ul>
+      <b>Estilo de vida empresarial:</b>
+      <ul>
+        <li><b>Agilidad:</b> Necesitan plataformas que les permitan lanzar y ajustar campañas rápidamente.</li>
+        <li><b>Comunicación directa:</b> Prefieren plataformas que faciliten la interacción directa con sus audiencias.</li>
+        <li><b>Colaboración:</b> Dispuestos a colaborar con plataformas que ofrezcan un valor añadido, como análisis de datos o soporte en la gestión de campañas.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
