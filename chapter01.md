@@ -33,6 +33,11 @@
 ## 1.1. Startup Profile
 **Teemo Solutions** es una startup que conecta a los gamers con los videojuegos que realmente les interesan. Con nuestro producto principal, **Vortex**, hemos creado una plataforma web donde los jugadores pueden descubrir nuevos títulos basados en sus gustos, conectar con amigos y recibir recomendaciones personalizadas.
 
+<p align="center">
+  <img src="assets/logos/teemo_solutions_icon.jpg"  style="width:150px; height:auto;" alt="">
+  <img src="assets/logos/vortex_icon.svg"  style="width:150px; height:auto;" alt="">
+</p>
+
 Además, las empresas desarrolladoras pueden promocionar sus juegos directamente a una audiencia apasionada. Vortex también ofrece una opción de suscripción para acceder a características avanzadas que mejoran la experiencia de los usuarios. En Teemo Solutions, nos apasionan los videojuegos y queremos ayudar a los gamers a encontrar su próximo juego favorito.
 
 ### 1.1.1. Description de la Startup
