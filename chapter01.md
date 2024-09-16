@@ -84,5 +84,14 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
 #### 1.2.2.3. Lean UX Hypothesis Statements
+**Creemos que** el sistema de recomendaciones personalizadas de videojuegos basado en preferencias y conexiones sociales proporcionará una experiencia más atractiva a los gamers. **Sabremos que** esto es cierto cuando el 60% de los usuarios interactúen con las recomendaciones y encuentren nuevos juegos para descargar o jugar.
+
+**Creemos que** la posibilidad de que las empresas desarrolladoras promocionen sus títulos directamente en la plataforma proporcionará mayor visibilidad a los desarrolladores de videojuegos independientes. **Sabremos que** esto es cierto cuando las empresas vean un aumento del 25% en clics en los juegos promocionados a través de nuestra plataforma.
+
+**Creemos que** permitir a los usuarios crear perfiles detallados y conectarse con amigos en la plataforma proporcionará una mayor interacción social a los gamers. **Sabremos que** esto es cierto cuando al menos el 40% de los usuarios interactúen regularmente con sus amigos y compartan recomendaciones de juegos.
+
+**Creemos que** el sistema de suscripciones premium que ofrece acceso a funcionalidades avanzadas, como recomendaciones más precisas y acceso anticipado a lanzamientos de videojuegos, proporcionará un valor adicional a los gamers frecuentes. **Sabremos que** esto es cierto cuando el 20% de los usuarios opten por la suscripción premium en los primeros 6 meses.
+
+**Creemos que** al ofrecer una estructura de ingresos donde el 90% del pago por cada videojuego va para el desarrollador y el 10% para la plataforma proporcionará un incentivo atractivo a los desarrolladores para publicar y promocionar sus juegos en nuestra plataforma. **Sabremos que** esto es cierto cuando al menos el 30% de los desarrolladores de videojuegos independientes elijan nuestra plataforma para vender sus títulos y generemos ingresos extra a partir de estas transacciones.
 #### 1.2.2.4. Lean UX Canvas
 ## 1.3. Segmentos Objetivos
