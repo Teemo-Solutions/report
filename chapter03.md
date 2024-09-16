@@ -265,6 +265,60 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
     </td>
   </tr>
 </table>
+
+<!-- USER STORY 9 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US09</th>
+    <th>EPIC ID</th>
+    <th>EPIC01</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Recomendaciones Basadas en Juegos Anteriores</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer entusiasta, <strong>quiero</strong> recibir recomendaciones de juegos basadas en los juegos que he jugado anteriormente <strong>para</strong> descubrir nuevos juegos que se ajusten a mis gustos.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Recomendaciones basadas en historial de juegos<br>
+      <strong>Given</strong> que he jugado varios juegos,<br>
+      <strong>When</strong> accedo a la sección de recomendaciones,<br>
+      <strong>Then</strong> veo una lista de juegos recomendados que se basan en mi historial de juegos previos.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORY 10 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US24</th>
+    <th>EPIC ID</th>
+    <th>EPIC01</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Recomendaciones Basadas en Preferencias de Género</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer entusiasta, <strong>quiero</strong> recibir recomendaciones de juegos basadas en mis preferencias de género <strong>para</strong> encontrar juegos que coincidan con mis intereses.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Recomendaciones basadas en preferencias de género<br>
+      <strong>Given</strong> que he definido mis géneros de juegos preferidos,<br>
+      <strong>When</strong> accedo a la sección de recomendaciones,<br>
+      <strong>Then</strong> veo una lista de juegos recomendados que pertenecen a mis géneros preferidos.
+    </td>
+  </tr>
+</table>
 <br>
 
 ---
@@ -285,11 +339,11 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
-<!-- USER STORY 9 -->
+<!-- USER STORY 11 -->
 <table>
   <tr>
     <th>USER STORY ID</th>
-    <th>US09</th>
+    <th>US11</th>
     <th>EPIC ID</th>
     <th>EPIC02</th>
   </tr>
@@ -312,11 +366,11 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
-<!-- USER STORY 10 -->
+<!-- USER STORY 12 -->
 <table>
   <tr>
     <th>USER STORY ID</th>
-    <th>US10</th>
+    <th>US12</th>
     <th>EPIC ID</th>
     <th>EPIC02</th>
   </tr>
@@ -339,11 +393,11 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
-<!-- USER STORY 11 -->
+<!-- USER STORY 13 -->
 <table>
   <tr>
     <th>USER STORY ID</th>
-    <th>US11</th>
+    <th>US13</th>
     <th>EPIC ID</th>
     <th>EPIC02</th>
   </tr>
@@ -366,11 +420,11 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
-<!-- USER STORY 12 -->
+<!-- USER STORY 14 -->
 <table>
   <tr>
     <th>USER STORY ID</th>
-    <th>US12</th>
+    <th>US14</th>
     <th>EPIC ID</th>
     <th>EPIC02</th>
   </tr>
@@ -393,11 +447,11 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
-<!-- USER STORY 13 -->
+<!-- USER STORY 15 -->
 <table>
   <tr>
     <th>USER STORY ID</th>
-    <th>US13</th>
+    <th>US15</th>
     <th>EPIC ID</th>
     <th>EPIC02</th>
   </tr>
@@ -420,11 +474,11 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
-<!-- USER STORY 14 -->
+<!-- USER STORY 16 -->
 <table>
   <tr>
     <th>USER STORY ID</th>
-    <th>US14</th>
+    <th>US16</th>
     <th>EPIC ID</th>
     <th>EPIC02</th>
   </tr>
@@ -447,11 +501,11 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
-<!-- USER STORY 15 -->
+<!-- USER STORY 17 -->
 <table>
   <tr>
     <th>USER STORY ID</th>
-    <th>US15</th>
+    <th>US17</th>
     <th>EPIC ID</th>
     <th>EPIC02</th>
   </tr>
@@ -474,11 +528,11 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
-<!-- USER STORY 16 -->
+<!-- USER STORY 18 -->
 <table>
   <tr>
     <th>USER STORY ID</th>
-    <th>US16</th>
+    <th>US18</th>
     <th>EPIC ID</th>
     <th>EPIC02</th>
   </tr>
@@ -497,6 +551,60 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
       <strong>Given</strong> que estoy conectado a la plataforma,<br>
       <strong>When</strong> un amigo comienza un juego,<br>
       <strong>Then</strong> recibo una notificación con la opción de unirme.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORY 19 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US24</th>
+    <th>EPIC ID</th>
+    <th>EPIC01</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Recomendaciones Basadas en Preferencias de Género</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer entusiasta, <strong>quiero</strong> recibir recomendaciones de juegos basadas en mis preferencias de género <strong>para</strong> encontrar juegos que coincidan con mis intereses.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Recomendaciones basadas en preferencias de género<br>
+      <strong>Given</strong> que he definido mis géneros de juegos preferidos,<br>
+      <strong>When</strong> accedo a la sección de recomendaciones,<br>
+      <strong>Then</strong> veo una lista de juegos recomendados que pertenecen a mis géneros preferidos.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORY 20 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US25</th>
+    <th>EPIC ID</th>
+    <th>EPIC02</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Seguimiento de Actividad de Amigos</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> seguir la actividad de mis amigos en la plataforma <strong>para</strong> ver qué juegos están jugando y compartir nuestras experiencias.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Ver actividad de amigos<br>
+      <strong>Given</strong> que estoy en mi perfil de usuario,<br>
+      <strong>When</strong> accedo a la sección de amigos,<br>
+      <strong>Then</strong> puedo ver qué juegos están jugando mis amigos y cuándo se conectaron por última vez.
     </td>
   </tr>
 </table>
@@ -520,11 +628,11 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
-<!-- USER STORY 17 -->
+<!-- USER STORY 21 -->
 <table>
   <tr>
     <th>USER STORY ID</th>
-    <th>US17</th>
+    <th>US21</th>
     <th>EPIC ID</th>
     <th>EPIC03</th>
   </tr>
@@ -547,11 +655,11 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
-<!-- USER STORY 18 -->
+<!-- USER STORY 22 -->
 <table>
   <tr>
     <th>USER STORY ID</th>
-    <th>US18</th>
+    <th>US22</th>
     <th>EPIC ID</th>
     <th>EPIC03</th>
   </tr>
@@ -574,59 +682,15 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
-<!-- USER STORY 19 -->
-<table>
-  <tr>
-    <th>USER STORY ID</th>
-    <th>US19</th>
-    <th>EPIC ID</th>
-    <th>EPIC03</th>
-  </tr>
-  <tr>
-    <th>TITLE</th>
-    <td colspan="3">Subir Actualizaciones de Juegos</td>
-  </tr>
-  <tr>
-    <th>DESCRIPTION</th>
-    <td colspan="3">Como desarrollador, <strong>quiero</strong> subir actualizaciones para mi juego publicado <strong>para</strong> corregir errores y mejorar la experiencia del usuario.</td>
-  </tr>
-  <tr>
-    <th>ACCEPTANCE CRITERIA</th>
-    <td colspan="3">
-      <strong>Scenario:</strong> Subir una actualización para un juego<br>
-      <strong>Given</strong> que el desarrollador ha publicado un juego,<br>
-      <strong>When</strong> sube un parche o actualización,<br>
-      <strong>Then</strong> el juego se actualiza para todos los usuarios.
-    </td>
-  </tr>
-</table>
+<!-- USER STORY 23 -->
+<!-- USER STORY 24 -->
+<!-- USER STORY 25 -->
+<!-- USER STORY 26 -->
+<!-- USER STORY 27 -->
+<!-- USER STORY 28 -->
+<!-- USER STORY 29 -->
+<!-- USER STORY 30 -->
 
-<!-- USER STORY 20 -->
-<table>
-  <tr>
-    <th>USER STORY ID</th>
-    <th>US20</th>
-    <th>EPIC ID</th>
-    <th>EPIC03</th>
-  </tr>
-  <tr>
-    <th>TITLE</th>
-    <td colspan="3">Creación de Torneos</td>
-  </tr>
-  <tr>
-    <th>DESCRIPTION</th>
-    <td colspan="3">Como desarrollador, <strong>quiero</strong> crear torneos para mi juego <strong>para</strong> fomentar la competencia entre los jugadores.</td>
-  </tr>
-  <tr>
-    <th>ACCEPTANCE CRITERIA</th>
-    <td colspan="3">
-      <strong>Scenario:</strong> Crear torneos para un juego<br>
-      <strong>Given</strong> que el desarrollador ha publicado un juego,<br>
-      <strong>When</strong> crea un torneo en la plataforma,<br>
-      <strong>Then</strong> los jugadores pueden unirse y competir por premios.
-    </td>
-  </tr>
-</table>
 <br>
 
 ---
@@ -648,60 +712,48 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
-<!-- USER STORY 21 -->
+<!-- USER STORY 31 -->
+<!-- USER STORY 32 -->
+<!-- USER STORY 33 -->
+<!-- USER STORY 34 -->
+<!-- USER STORY 35 -->
+<!-- USER STORY 36 -->
+<!-- USER STORY 37 -->
+<!-- USER STORY 38 -->
+<!-- USER STORY 39 -->
+<!-- USER STORY 40 -->
+
+<br>
+
+---
+
+<!-- EPIC 5 -->
 <table>
   <tr>
-    <th>USER STORY ID</th>
-    <th>US21</th>
     <th>EPIC ID</th>
-    <th>EPIC04</th>
+    <th>05</th>
+    <th>TITLE: Comunidad para Compartir Logros</th>
   </tr>
   <tr>
-    <th>TITLE</th>
-    <td colspan="3">Visualización de Métricas de Jugadores</td>
-  </tr>
-  <tr>
-    <th>DESCRIPTION</th>
-    <td colspan="3">Como desarrollador, <strong>quiero</strong> ver métricas detalladas sobre cómo los jugadores interactúan con mi juego <strong>para</strong> mejorar la experiencia del usuario.</td>
-  </tr>
-  <tr>
-    <th>ACCEPTANCE CRITERIA</th>
     <td colspan="3">
-      <strong>Scenario:</strong> Ver métricas de jugadores<br>
-      <strong>Given</strong> que he publicado un juego,<br>
-      <strong>When</strong> accedo a la sección de estadísticas,<br>
-      <strong>Then</strong> veo datos sobre el tiempo jugado, número de jugadores y porcentaje de finalización.
+      <strong>Cómo</strong> gamer,
+      <strong>quiero</strong> contar con una comunidad donde pueda compartir mis logros y éxitos en los juegos
+      <strong>para</strong> celebrar mis avances, recibir reconocimiento y conectarme con otros jugadores que comparten mis intereses.
     </td>
   </tr>
 </table>
 
-<!-- USER STORY 22 -->
-<table>
-  <tr>
-    <th>USER STORY ID</th>
-    <th>US22</th>
-    <th>EPIC ID</th>
-    <th>EPIC04</th>
-  </tr>
-  <tr>
-    <th>TITLE</th>
-    <td colspan="3">Análisis de Comportamiento de Jugadores</td>
-  </tr>
-  <tr>
-    <th>DESCRIPTION</th>
-    <td colspan="3">Como desarrollador, <strong>quiero</strong> analizar el comportamiento de los jugadores <strong>para</strong> identificar puntos de fricción en mi juego.</td>
-  </tr>
-  <tr>
-    <th>ACCEPTANCE CRITERIA</th>
-    <td colspan="3">
-      <strong>Scenario:</strong> Analizar el comportamiento de los jugadores<br>
-      <strong>Given</strong> que el desarrollador accede al panel de estadísticas,<br>
-      <strong>When</strong> revisa las métricas de nivel de dificultad o tasa de abandono,<br>
-      <strong>Then</strong> puede identificar puntos de mejora en el diseño del juego.
-    </td>
-  </tr>
-</table>
-
+<!-- USER STORY 40 -->
+<!-- USER STORY 41 -->
+<!-- USER STORY 42 -->
+<!-- USER STORY 43 -->
+<!-- USER STORY 44 -->
+<!-- USER STORY 45 -->
+<!-- USER STORY 46 -->
+<!-- USER STORY 47 -->
+<!-- USER STORY 48 -->
+<!-- USER STORY 49 -->
+<!-- USER STORY 50 -->
 
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
