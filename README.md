@@ -212,3 +212,67 @@ Puedes acceder al contenido del repositorio pulsando sobre el siguiente ícono:
 - [Anexos](/chapter05.md#anexos)
 
 ---
+# Student Outcome
+El curso tiene el Student Outcome 3, el cual consiste en la capacidad de comunicarse efectivamente con un rango de audiencias.
+
+En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuyen al cumplimiento de los aspectos que maneja el Outcome y las conclusiones realizadas de manera grupal.
+
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #333; color: #fff;">Criterío Específico</th>
+      <th style="background-color: #333; color: #fff;">Acciones Realizadas</th>
+      <th style="background-color: #333; color: #fff;">Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
+      <td>
+        TB1:   
+        <br><br>
+        Quijandría, Vicente:
+        insert text here
+        <br><br>
+        Lizano, Fernando:
+        insert text here
+        <br><br>
+        Renteria, Yasser:
+        insert text here
+        <br><br>
+        Riega, José: 
+        insert text here
+        Torres, Andrés:
+        insert text here
+        <br><br>
+        Riega, José:
+      </td>
+      <td>insert text here</td>
+    </tr>
+      <tr>
+      <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+      <td>
+        TB1:   
+        <br><br>
+        Quijandría, Vicente:
+        insert text here
+        <br><br>
+        Lizano, Fernando:
+        insert text here
+        <br><br>
+        Renteria, Yasser:
+        insert text here
+        <br><br>
+        Riega, José: 
+        insert text here
+        Torres, Andrés:
+        insert text here
+        <br><br>
+        Riega, José:
+      </td>
+      <td>insert text here</td>
+    </tr>   
+  </tbody>
+</table>
+
+---
