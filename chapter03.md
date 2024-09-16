@@ -500,7 +500,7 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
     </td>
   </tr>
 </table>
-
+<br>
 
 ---
 
@@ -520,6 +520,115 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
+<!-- USER STORY 17 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US17</th>
+    <th>EPIC ID</th>
+    <th>EPIC03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Publicar Juego Indie</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> poder publicar mi juego indie en la plataforma <strong>para</strong> llegar a una audiencia más amplia.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Publicar un juego indie<br>
+      <strong>Given</strong> que he desarrollado un juego indie,<br>
+      <strong>When</strong> subo los archivos del juego y los detalles de la descripción,<br>
+      <strong>Then</strong> el juego se publica en la sección de juegos indie.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORY 18 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US18</th>
+    <th>EPIC ID</th>
+    <th>EPIC03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Actualización de Juegos Indie</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> poder actualizar la información de mi juego indie <strong>para</strong> corregir errores o agregar nuevas características.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Actualizar un juego indie<br>
+      <strong>Given</strong> que he publicado un juego,<br>
+      <strong>When</strong> hago cambios en la descripción o archivos del juego,<br>
+      <strong>Then</strong> la información se actualiza en tiempo real en la plataforma.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORY 19 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US19</th>
+    <th>EPIC ID</th>
+    <th>EPIC03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Subir Actualizaciones de Juegos</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> subir actualizaciones para mi juego publicado <strong>para</strong> corregir errores y mejorar la experiencia del usuario.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Subir una actualización para un juego<br>
+      <strong>Given</strong> que el desarrollador ha publicado un juego,<br>
+      <strong>When</strong> sube un parche o actualización,<br>
+      <strong>Then</strong> el juego se actualiza para todos los usuarios.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORY 20 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US20</th>
+    <th>EPIC ID</th>
+    <th>EPIC03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Creación de Torneos</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> crear torneos para mi juego <strong>para</strong> fomentar la competencia entre los jugadores.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Crear torneos para un juego<br>
+      <strong>Given</strong> que el desarrollador ha publicado un juego,<br>
+      <strong>When</strong> crea un torneo en la plataforma,<br>
+      <strong>Then</strong> los jugadores pueden unirse y competir por premios.
+    </td>
+  </tr>
+</table>
+<br>
+
 ---
 
 <!-- EPIC 4 -->
@@ -538,6 +647,61 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
     </td>
   </tr>
 </table>
+
+<!-- USER STORY 21 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US21</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Visualización de Métricas de Jugadores</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> ver métricas detalladas sobre cómo los jugadores interactúan con mi juego <strong>para</strong> mejorar la experiencia del usuario.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Ver métricas de jugadores<br>
+      <strong>Given</strong> que he publicado un juego,<br>
+      <strong>When</strong> accedo a la sección de estadísticas,<br>
+      <strong>Then</strong> veo datos sobre el tiempo jugado, número de jugadores y porcentaje de finalización.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORY 22 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US22</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Análisis de Comportamiento de Jugadores</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> analizar el comportamiento de los jugadores <strong>para</strong> identificar puntos de fricción en mi juego.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Analizar el comportamiento de los jugadores<br>
+      <strong>Given</strong> que el desarrollador accede al panel de estadísticas,<br>
+      <strong>When</strong> revisa las métricas de nivel de dificultad o tasa de abandono,<br>
+      <strong>Then</strong> puede identificar puntos de mejora en el diseño del juego.
+    </td>
+  </tr>
+</table>
+
 
 ## 3.3. Impact Mapping
 ## 3.4. Product Backlog
