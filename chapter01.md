@@ -74,7 +74,7 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
   </tr>
   <tr>
     <td><img src="assets/chapter01/team/andres-photo.png" style="width:500px; height:auto;" alt=""></td>
-    <td>descripción
+    <td>Hola, soy Andrés Alberto Torres García, estudiante de 19 años en el quinto ciclo de Ingeniería de Software. Siempre me ha interesado tecnología, siempre me he preguntado cómo funcionan las cosas, lo que me motiva a ir más allá de lo que se me enseña en clase. Esta curiosidad me impulsa a explorar cada detalle, ayundome ampliar mis conocimiento y definir mejor mi enfoque profesional.Además de la tecnología, el fútbol es otra de mis grandes pasiones, lo he practicado durante prácticamente toda mi vida. La dedicación al deporte me ha enseñado el valor del trabajo en equipo, la disciplina y la perseverancia, cualidades que aplico también en mi vida académica y profesional.
   </td>
 </table>
 
