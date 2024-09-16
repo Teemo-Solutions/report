@@ -1,0 +1,97 @@
+<style>
+  body {
+    font-family: 'Times New Roman', sans-serif;
+    text-align: justify;
+    font-size: 12px;
+    margin-left: 2em;
+    margin-right: 2em;
+    line-height: 2;
+  }
+  
+  p {
+    text-indent: 2em; /* Sangría en el primer renglón de cada párrafo */
+  }
+
+  h1 {
+    margin-left: 0; /* No aplica sangría para el título principal */
+  }
+
+  h2 {
+    margin-left: 0; /* No aplica sangría para subtítulos de nivel 2 */
+  }
+
+  h3 {
+    margin-left: 2em; /* Aplica una sangría de 2em para subtítulos de nivel 3 */
+  }
+
+  h4 {
+    margin-left: 4em; /* Aplica una sangría de 4em para subtítulos de nivel 4 */
+  }
+</style>
+
+# **CAPÍTULO I: INTRODUCCIÓN**
+## 1.1. Startup Profile
+### 1.1.1. Description de la Startup
+**Teemo Solutions** es una startup que conecta a los gamers con los videojuegos que realmente les interesan. Con nuestro producto principal, **Vortex**, hemos creado una plataforma web donde los jugadores pueden descubrir nuevos títulos basados en sus gustos, conectar con amigos y recibir recomendaciones personalizadas.
+
+<p align="center">
+  <img src="assets/logos/teemo_solutions_icon.jpg"  style="width:150px; height:auto;" alt="">
+  <img src="assets/logos/vortex_icon.svg"  style="width:150px; height:auto;" alt="">
+</p>
+
+Además, las empresas desarrolladoras pueden promocionar sus juegos directamente a una audiencia apasionada. Vortex también ofrece una opción de suscripción para acceder a características avanzadas que mejoran la experiencia de los usuarios. En Teemo Solutions, nos apasionan los videojuegos y queremos ayudar a los gamers a encontrar su próximo juego favorito.
+
+### 1.1.2. Perfiles de integrantes del equipo
+<table>
+  <tr>
+    <th colspan="2">Quijandria Aranedal, Vicente </th>
+  </tr>
+  <tr>
+    <td><img src="assets/chapter01/team/vicente-photo.png" style="width:500px; height:auto;" alt=""></td>
+    <td>descripción</td>
+  </tr>
+  <tr>
+    <th colspan="2">Lizano Coll Cardenas, Fernando Jesus</th>
+  </tr>
+  <tr>
+    <td><img src="assets/chapter01/team/fernando-photo.png" style="width:500px; height:auto;" alt=""></td>
+    <td>Me llamo Fernando Jesus Lizano Coll Cardenas. A mis 19 años me considero un apasionado por el mundo de la programación y aprendizaje constante. Actualmente tengo conocimientos en el lenguaje de C++, HTML, CSS, JavaScript y Python. Aunque mis conocimientos son todavía básicos. Me identifico como alguien de pensamiento de superación. Busco crecer en cada aspecto de mi vida y enfrentar desafíos con una actitud positiva y resoluta. Espero poder aportar y motivar a mis compañeros durante la elaboración de este proyecto.</td>
+  </tr>
+  <tr>
+    <th colspan="2">Renteria Palacios, Yasser</th>
+  </tr>
+  <td><img src="assets/chapter01/team/yasser-photo.png" style="width:500px; height:auto;" alt=""></td>
+    <td>Soy estudiante de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas (UPC), apasionado por la programación y el aprendizaje continuo de nuevos lenguajes de programación. Mi mayor anhelo es desarrollar un videojuego, combinando mi amor por la tecnología y la creatividad. En mi tiempo libre, disfruto de jugar videojuegos, viajar y sumergirme en nuevas culturas, buscando siempre experiencias que enriquezcan tanto mi vida personal como profesional.</td>
+  <tr>
+    <th colspan="2">Riega Salas, Jose Miguel</th>
+  </tr>
+  <tr>
+    <td><img src="assets/chapter01/team/jose-photo.png" style="width:500px; height:auto;" alt=""></td>
+    <td>descripción</td>
+  <tr>
+    <th colspan="2">Torres García, Andrés Alberto
+  </th>
+  </tr>
+  <tr>
+    <td><img src="assets/chapter01/team/andres-photo.png" style="width:500px; height:auto;" alt=""></td>
+    <td>descripción
+  </td>
+</table>
+
+## 1.2. Solution Profile
+### 1.2.1. Antecedentes y problemática
+### 1.2.2 Lean UX Process
+#### 1.2.2.1. Lean UX Problem Statements
+#### 1.2.2.2. Lean UX Assumptions
+#### 1.2.2.3. Lean UX Hypothesis Statements
+**Creemos que** el sistema de recomendaciones personalizadas de videojuegos basado en preferencias y conexiones sociales proporcionará una experiencia más atractiva a los gamers. **Sabremos que** esto es cierto cuando el 60% de los usuarios interactúen con las recomendaciones y encuentren nuevos juegos para descargar o jugar.
+
+**Creemos que** la posibilidad de que las empresas desarrolladoras promocionen sus títulos directamente en la plataforma proporcionará mayor visibilidad a los desarrolladores de videojuegos independientes. **Sabremos que** esto es cierto cuando las empresas vean un aumento del 25% en clics en los juegos promocionados a través de nuestra plataforma.
+
+**Creemos que** permitir a los usuarios crear perfiles detallados y conectarse con amigos en la plataforma proporcionará una mayor interacción social a los gamers. **Sabremos que** esto es cierto cuando al menos el 40% de los usuarios interactúen regularmente con sus amigos y compartan recomendaciones de juegos.
+
+**Creemos que** el sistema de suscripciones premium que ofrece acceso a funcionalidades avanzadas, como recomendaciones más precisas y acceso anticipado a lanzamientos de videojuegos, proporcionará un valor adicional a los gamers frecuentes. **Sabremos que** esto es cierto cuando el 20% de los usuarios opten por la suscripción premium en los primeros 6 meses.
+
+**Creemos que** al ofrecer una estructura de ingresos donde el 90% del pago por cada videojuego va para el desarrollador y el 10% para la plataforma proporcionará un incentivo atractivo a los desarrolladores para publicar y promocionar sus juegos en nuestra plataforma. **Sabremos que** esto es cierto cuando al menos el 30% de los desarrolladores de videojuegos independientes elijan nuestra plataforma para vender sus títulos y generemos ingresos extra a partir de estas transacciones.
+#### 1.2.2.4. Lean UX Canvas
+## 1.3. Segmentos Objetivos
