@@ -28,3 +28,45 @@
     margin-left: 4em; /* Aplica una sangría de 4em para subtítulos de nivel 4 */
   }
 </style>
+
+# UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
+
+# OPEN SOURCE (SV54)
+## PROFESOR: Mori Paiva, Hugo Allan
+## INFORME TB1
+## START UP: Teemo Solutions
+## PRODUCTO: Vortex
+
+### INTEGRANTES:
+<table>
+  <thead>
+    <tr>
+      <th style="background-color: #333; color: #fff;">Apellidos y Nombres</th>
+      <th style="background-color: #333; color: #fff;">Código de Alumno</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Quijandría Araneda, Vicente</td>
+      <td>u201822697</td>
+    </tr>
+    <tr>
+      <td>Lizano Coll Cardenas, Fernando Jesus</td>
+      <td>u202214522</td>
+    </tr>
+    <tr>
+      <td>Renteria Palacios, Yasser</td>
+      <td>u202214130</td>
+    </tr>
+    <tr>
+      <td>Riega Salas, José Miguel</td>
+      <td>u202211254</td>
+    </tr>
+    <tr>
+      <td> Torres García, Andrés Alberto</td>
+      <td>u202220528</td>
+    </tr>
+  </tbody>
+</table>
+
+--- 
