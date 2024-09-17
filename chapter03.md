@@ -34,7 +34,11 @@
 
 ### Gamers
 
-<img src="/assets//chapter03/to-be-scenario-gamers.png" alt="to-be-scenario-gamers" />
+<img src="/assets/chapter03/to-be-scenario-gamers.png" alt="to-be-scenario-gamers" />
+
+### Desarrolladoras
+
+<img src="/assets/chapter03/to-be-scenario-desarrolladoras.png" alt="to-be-scenario-desarroladoras"/>
 
 ## 3.2. User Stories
 Este documento presenta un conjunto de **User Stories** y **Epics** para la plataforma de videojuegos orientada tanto a **Gamers** como a **Desarrolladores de Videojuegos**. Se incluye el formato de historias de usuario, donde cada una tiene criterios de aceptación en el formato Gherkin, y se presentan tanto las historias para la interfaz del usuario final como las **Technical Stories** para el RESTful API.
