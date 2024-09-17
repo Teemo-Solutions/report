@@ -104,6 +104,17 @@ Este enfoque asegura que se respeten los principios de diseño modernos y que el
   <img src="assets/chapter04/guidelines/typography/spartan.png" style="width:500px; height:auto;" alt="">
 </p>
 
+**Icon:**
+
+Nuestro logo está inspirado en el concepto de vortex, en línea con la temática espacial de la plataforma. Representa un remolino dinámico, evocando movimiento y descubrimiento. El color predominante del logo es el violeta, que es nuestro color principal y representativo, simbolizando creatividad y misterio, mientras mantiene una conexión visual con el espacio y la tecnología.
+
+<p align="center">
+  <img src="assets/logos/vortex_icon.svg" style="width:250px; height:auto;" alt="">
+  <img src="assets/logos/vortex_icon_white.svg" style="width:250px; height:auto;" alt="">
+</p>
+
+Este enfoque resalta la identidad visual del logo y su conexión con la temática del proyecto.
+
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
 ### 4.2.2. Labeling Systems
