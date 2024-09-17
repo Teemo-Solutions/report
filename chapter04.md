@@ -117,8 +117,146 @@ Este enfoque resalta la identidad visual del logo y su conexión con la temátic
 
 ### 4.1.2. Web Style Guidelines
 ## 4.2. Information Architecture
+### 4.2.1. Organization Systems 
 ### 4.2.2. Labeling Systems
+
 ### 4.2.3. SEO Tags and Meta Tags
+En esta sección, abordaremos la implementación de SEO tags y meta tags para optimizar la visibilidad y el rendimiento de nuestra plataforma en los motores de búsqueda. Estas etiquetas son fundamentales para mejorar el posicionamiento de nuestro sitio web, asegurando que los usuarios puedan encontrar fácilmente nuestra plataforma y acceder a su contenido relevante. Exploraremos las mejores prácticas para la inclusión de estas etiquetas en nuestro HTML para maximizar el impacto en el SEO.
+
+    <!DOCTYPE html>: Declara el tipo de documento y la versión de HTML.
+
+    <html>: Elemento raíz del documento HTML. Contiene todos los demás elementos HTML.
+
+    <head>: Contiene metadatos sobre el documento HTML, como el título, enlaces a hojas de estilo, y scripts.
+
+    <meta charset="UTF-8">: Especifica la codificación de caracteres del documento.
+    
+    <title>: Define el título del documento, que aparece en la pestaña del navegador.
+    
+    <meta name="description" content="" />: Proporciona una descripción del contenido del documento para motores de búsqueda.
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1" />: Configura la visualización del documento en dispositivos móviles.
+    
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/logo/vortex_icon.svg" />: Define el icono de la pestaña del navegador.
+    
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />: Enlaza a una hoja de estilo CSS para el marco de trabajo Bootstrap.
+    
+    <link rel="stylesheet" href="assets/css/main.css" />: Enlaza a la hoja de estilo CSS principal.
+    
+    <link rel="stylesheet" href="assets/css/glightbox.min.css" />: Enlaza a una hoja de estilo CSS para GLightbox.
+    
+    <link rel="stylesheet" href="assets/css/LineIcons.3.0.css" />: Enlaza a una hoja de estilo CSS para los íconos de LineIcons.
+    
+    <link rel="stylesheet" href="assets/css/tiny-slider.css" />: Enlaza a una hoja de estilo CSS para Tiny Slider.
+    
+    <body>: Contiene el contenido visible del documento HTML.
+    
+    <div class="preloader">: Contiene el diseño del preloader (pantalla de carga).
+    
+    <header class="header navbar-area">: Define la sección del encabezado del sitio, que incluye la barra de navegación.
+    
+    <nav class="navbar navbar-expand-lg">: Define la barra de navegación principal.
+    
+    <a class="navbar-brand" href="index.html">: Enlace al logotipo o nombre de la marca.
+    
+    <button class="navbar-toggler mobile-menu-btn": Botón para alternar el menú en dispositivos móviles.
+    
+    <div class="collapse navbar-collapse sub-menu-bar">: Contiene el menú de navegación desplegable.
+    
+    <ul id="nav" class="navbar-nav ms-auto">: Lista de elementos de navegación.
+    
+    <li class="nav-item">: Elemento de la lista de navegación.
+    
+    <a href="index.html" class="active">: Enlace de navegación para la página de inicio.
+    
+    <section class="hero-area">: Sección para el área principal de bienvenida (hero section).
+    
+    <h4> y <h1>: Encabezados de la sección principal.
+    
+    <p>: Párrafo de texto.
+    
+    <div class="button">: Botón de llamada a la acción.
+
+    <div class="container">: Contenedor principal para el contenido de la sección.
+
+    <div class="section-title">: Título de la sección.
+
+    <h3 class="wow zoomIn" data-wow-delay=".2s"> text here </h3>: Subtítulo que presenta la sección.
+
+    <h2 class="wow fadeInUp" data-wow-delay=".4s"> text here </h2>: Título principal de la sección.
+
+    <p class="wow fadeInUp" data-wow-delay=".6s"> text here </p>: Descripción de la sección.
+
+    <section id="aboutus" class="freatures section">: Sección para información sobre la empresa.
+    
+    <div class="single-feature">: Contiene características individuales.
+    
+    <i class="lni lni-dashboard"></i>: Icono de la característica.
+    
+    <div class="services section">: Sección de servicios ofrecidos.
+    
+    <div class="single-service">: Servicio individual.
+    
+    <section id="pricing" class="pricing-table section">: Sección para las tablas de precios.
+    
+    <div class="single-table">: Tabla de precios individual.
+    
+    <ul class="table-list">: Lista de características de la tabla de precios.
+    
+    <section class="intro-video-area section">: Sección dedicada al video introductorio.
+
+    <div class="container">: Contenedor principal para el contenido de la sección.
+
+    <div class="inner-content-head">: Contiene el encabezado y el contenido principal de la sección.
+
+    <div class="intro-video-play">: Contenedor para el área de reproducción del video.
+
+    <div class="play-thumb wow zoomIn" data-wow-delay=".2s">: Contenedor para la miniatura de reproducción del video.
+
+    <a src="https://www.youtube.com/embed/hvuojhm02Yk?si=Wu4NtzaLSxQ_w6wH" class="glightbox video"><i class="lni lni-play"></i></a>: Enlace para reproducir el video en YouTube.
+
+    <section id="team" class="team section">: Sección dedicada al equipo.
+
+    <div class="single-team">: Contenedor para un miembro del equipo.
+
+    <div class="team-image">: Contenedor para la imagen del miembro del equipo.
+
+    <section id="testimonial" class="testimonials style2 section">: Sección dedicada a los testimonios de clientes.
+    
+    <div class="row testimonial-slider">: Contenedor para el slider de testimonios.
+    
+    <div class="col-lg-6 col-12 ">: Columna que contiene un testimonio individual.
+    
+    <div class="single-testimonial">: Contenedor para un testimonio individual.
+    
+    <div class="inner-content">: Contenedor para el contenido interno del testimonio.
+    
+    <div class="text">: Contenedor para el texto del testimonio.
+     
+    <div class="author">: Contenedor para la información del autor del testimonio.
+
+    <div class="inner-content">: Contenedor para el contenido interno del testimonio.
+
+De la misma manera se consideran más secciones. Podemos identificar algunas etiquetas principales y que normalmente usamos en nuestra estructura HTML:
+
+    <section class="hero-area">: Sección para el área principal de bienvenida (hero section).
+
+    <h4> y <h1>: Encabezados de la sección principal.
+    
+    <p>: Párrafo de texto.
+    
+    <div class="button">: Botón de llamada a la acción.
+
+    <div class="container">: Contenedor principal para el contenido de la sección.
+
+    <div class="section-title">: Título de la sección.
+
+    <h3 class="wow zoomIn" data-wow-delay=".2s"> text here </h3>: Subtítulo que presenta la sección.
+
+    <h2 class="wow fadeInUp" data-wow-delay=".4s"> text here </h2>: Título principal de la sección.
+
+    <p class="wow fadeInUp" data-wow-delay=".6s"> text here </p>: Descripción de la sección.
+
 ### 4.2.4. Searching Systems
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
