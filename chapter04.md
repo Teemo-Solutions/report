@@ -299,9 +299,23 @@ En esta sección, presentaremos el mock-up de la Landing Page para Vortex, refle
 - **Landing Page Mock-up para Desktop Web Browser**
 
 <p align="center">
-  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/desktop/mockup_desktop1.png" style="width:500px; height:auto;" alt="">
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/desktop/mockup_desktop1.png" style="width:500px; height:auto;" alt=""> <br>
   <img src="assets/chapter04/landing%20page%20ui%20design/mockups/desktop/mockup_desktop2.png" style="width:500px; height:auto;" alt="">
-  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/desktop/mockup_desktop3.png" style="width:500px; height:auto;" alt="">
+</p>
+
+- **Landing Page Mock-up para Mobile Web Browser**
+
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/desktop/mockup_desktop3.png" style="width:500px; height:auto;" alt=""> <br>
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile1.png" style="width:500px; height:auto;" alt=""> <br>
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile2.png" style="width:500px; height:auto;" alt="">
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile3.png" style="width:500px; height:auto;" alt="">
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile4.png" style="width:500px; height:auto;" alt="">
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile5.png" style="width:500px; height:auto;" alt="">
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile6.png" style="width:500px; height:auto;" alt="">
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile7.png" style="width:500px; height:auto;" alt="">
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile8.png" style="width:500px; height:auto;" alt="">
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile9.png" style="width:500px; height:auto;" alt="">
 </p>
 
 ## 4.4. Web Applications UX/UI Design
