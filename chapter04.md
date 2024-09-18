@@ -264,9 +264,46 @@ De la misma manera se consideran más secciones. Podemos identificar algunas eti
     <p class="wow fadeInUp" data-wow-delay=".6s"> text here </p>: Descripción de la sección.
 
 ### 4.2.4. Searching Systems
+
 ## 4.3. Landing Page UI Design
+En esta sección, detallaremos las mejores prácticas y los elementos de diseño que se han implementado para lograr una landing page efectiva y visualmente atractiva para Vortex.
+
 ### 4.3.1. Landing Page Wireframe
+En esta sección, exploraremos el wireframe de la Landing Page para Vortex, que sirve como una guía para el desarrollo y diseño visual posterior. El wireframe incluye elementos clave como la ubicación del encabezado, la navegación, las secciones principales de contenido, las llamadas a la acción y el pie de página. Además, se identifican las áreas destinadas a destacar características importantes, testimonios, y opciones de suscripción.
+
+El propósito de este wireframe es asegurar que la disposición de los elementos sea funcional y que cumpla con los objetivos del sitio web, facilitando una navegación intuitiva y una experiencia de usuario eficiente. La revisión y aprobación de este wireframe es un paso esencial antes de avanzar hacia el diseño detallado y la implementación final de la Landing Page.
+
+- **Landing Page Wireframe para Desktop Web Browser**
+
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20ui%20design/wireframes/desktop/wireframe_desktop.png" style="width:500px; height:auto;" alt="">
+</p>
+
+- **Landing Page Wireframe para Mobile Web Browser**
+
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20ui%20design/wireframes/mobile/wireframe_mobile.png" style="width:500px; height:auto;" alt="">
+</p>
+
+Puedes acceder al contenido del Figma pulsando sobre el siguiente ícono:
+
+<p align="center">
+  <a href="https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=0-1&t=jXqL7Xh7FqLBuM6V-1">
+    <img src="assets/logos/figma_icon.png" style="width:150px; height:auto;" alt="">
+  </a>
+</p>
+
 ### 4.3.2. Landing Page Mock-up
+En esta sección, presentaremos el mock-up de la Landing Page para Vortex, reflejando cómo se integrarán los elementos visuales y el contenido definido en el wireframe. Este diseño detallado incluye la aplicación de la identidad visual de la marca, como el logotipo, esquemas de color, imágenes, iconografía y estilos tipográficos. También se incorporan los detalles interactivos, como botones, enlaces y formularios, para ofrecer una experiencia de usuario más completa y envolvente.
+
+- **Landing Page Mock-up para Desktop Web Browser**
+
+<p align="center">
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/desktop/mockup_desktop1.png" style="width:500px; height:auto;" alt="">
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/desktop/mockup_desktop2.png" style="width:500px; height:auto;" alt="">
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/desktop/mockup_desktop3.png" style="width:500px; height:auto;" alt="">
+</p>
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
