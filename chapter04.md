@@ -536,3 +536,7 @@ Visibilidad: La accesibilidad de los atributos y métodos, especificando si son 
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+
+<img src="/assets/chapter04/diagrama de base de datos.png"  alt="database diagram">
+
+[Enlace del diagrama de Base de datos](https://lucid.app/lucidchart/5b93f4de-6135-4dcb-9f66-3f7f3fb2f005/edit?viewport_loc=-504%2C665%2C4992%2C2421%2C0_0&invitationId=inv_9f021ed4-6889-4f14-a487-05dd6b693eff)
