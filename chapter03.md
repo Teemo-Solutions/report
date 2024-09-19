@@ -728,9 +728,112 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
 <!-- USER STORY 35 -->
 <!-- USER STORY 36 -->
 <!-- USER STORY 37 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US37</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Comparación de Métricas entre Juegos</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> comparar las métricas de diferentes juegos <strong>para</strong> entender qué elementos contribuyen al éxito de un juego en comparación con otros.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Comparar métricas de juegos<br>
+      <strong>Given</strong> que tengo métricas de varios juegos,<br>
+      <strong>When</strong> accedo a la herramienta de comparación,<br>
+      <strong>Then</strong> puedo ver un análisis comparativo de datos como tiempo de juego, tasas de finalización y otros indicadores clave.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 38 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US38</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Evaluación de la Retención de Jugadores</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> evaluar la retención de jugadores <strong>para</strong> entender qué tan bien está manteniendo el interés de los jugadores en mi juego a lo largo del tiempo.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Evaluar retención de jugadores<br>
+      <strong>Given</strong> que tengo acceso a las métricas de retención,<br>
+      <strong>When</strong> reviso las tasas de retención en diferentes periodos,<br>
+      <strong>Then</strong> puedo identificar cómo varía la retención y qué acciones podrían mejorar la permanencia de los jugadores.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 39 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US39</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Reporte de Feedback de Jugadores</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> generar reportes de feedback de jugadores <strong>para</strong> obtener una visión general de las opiniones y sugerencias de los usuarios sobre el juego.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Generar reportes de feedback<br>
+      <strong>Given</strong> que los jugadores dejan comentarios y sugerencias,<br>
+      <strong>When</strong> solicito un reporte de feedback,<br>
+      <strong>Then</strong> recibo un informe que resume las principales opiniones y sugerencias de los jugadores.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 40 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US40</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Análisis de Participación en Eventos del Juego</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> analizar la participación en eventos dentro del juego <strong>para</strong> evaluar el impacto de estos eventos en la actividad de los jugadores y su engagement.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Analizar participación en eventos<br>
+      <strong>Given</strong> que he organizado eventos dentro del juego,<br>
+      <strong>When</strong> reviso las métricas de participación,<br>
+      <strong>Then</strong> puedo ver datos sobre la cantidad de jugadores que participaron y el impacto en la actividad general del juego.
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -844,6 +947,7 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
     </td>
   </tr>
 </table>
+
 <!-- USER STORY 44 -->
 <!-- USER STORY 45 -->
 <!-- USER STORY 46 -->
