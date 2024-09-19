@@ -123,7 +123,58 @@ Uno de los enfoques clave en el diseño de nuestra interfaz es la implementació
 Nuestro diseño adaptable y el uso del patrón en Z garantizan que, independientemente del dispositivo utilizado, la experiencia de usuario sea fluida, intuitiva y centrada en las necesidades tanto de los médicos como de los pacientes. Estas directrices de estilo no solo definen la apariencia de Vortex, sino que también refuerzan nuestra misión de proporcionar un entorno digital accesible y eficaz para la gestión de la salud mental.
 
 ## 4.2. Information Architecture
+La arquitectura de la información de nuestra plataforma establece la estructura y organización de todos los elementos clave, facilitando la navegación eficiente y la experiencia de usuario. Está diseñada para asegurar que los usuarios, tanto desarrolladores como gamers, puedan acceder de manera intuitiva a las funcionalidades principales, como la creación de perfiles, recomendaciones personalizadas, y promoción de videojuegos. La jerarquía de información y los flujos de navegación están optimizados para una interacción fluida, asegurando que cada usuario encuentre lo que busca rápidamente y sin complicaciones.
+
+Como equipo, hemos decidido implementar los patrones de diseño Z y F para optimizar la experiencia del usuario en la plataforma. Estos patrones son conocidos por guiar la vista del usuario de manera eficiente a través del contenido clave. Además, hemos asegurado que la plataforma sea completamente responsive, lo que significa que ofrecerá una experiencia óptima en dispositivos de diferentes tamaños, desde móviles hasta pantallas de escritorio.
+
 ### 4.2.1. Organization Systems 
+**Menú Principal: Home**
+
+1. Home: Punto de inicio para los usuarios, donde podrán acceder a recomendaciones personalizadas y noticias relevantes de la industria de videojuegos.
+2. About us: Información sobre la misión y visión de Vortex, los servicios que ofrecemos, y la historia detrás del proyecto.
+3. Subscriptions: Sección dedicada a las diferentes opciones de suscripción, ofreciendo a los usuarios acceso a características premium.
+4. Comunidad: Espacio donde los usuarios pueden interactuar, compartir experiencias y recomendaciones de videojuegos.
+5. Testimonios: Opiniones y reseñas de usuarios y empresas desarrolladoras sobre el impacto de Vortex en su experiencia.
+6. Contact: Información de contacto para asistencia, soporte técnico y consultas generales.
+7. Login: Para acceder al perfil del usuario y sus funciones personalizadas.
+
+Las secciones Comunidad y About Us contarán con menús desplegables, lo que permitirá a los usuarios acceder a subcategorías y explorar contenido adicional de manera más organizada y eficiente. Esto contribuirá a mejorar la navegación dentro de la plataforma, facilitando una experiencia más intuitiva.
+
+1. **Home:**
+   La página principal será el punto de partida de los usuarios, brindando acceso directo a las secciones más importantes de la plataforma, con un diseño enfocado en la accesibilidad y claridad de la información. Aquí se destacarán los juegos recomendados, las novedades, y cualquier anuncio relevante para los gamers y desarrolladores.
+   <br><br>
+2. **About Us:**
+   Esta sección contará con un menú desplegable que incluirá diferentes subsecciones, tales como la historia de Vortex, la misión y visión de la plataforma, así como el equipo detrás del proyecto. La intención es que los usuarios puedan conocer en detalle el propósito de la plataforma y a las personas que la han hecho posible.
+   <br><br>
+3. **Subscriptions:**
+   En esta sección se ofrecerán diferentes planes de suscripción para acceder a funcionalidades avanzadas, como recomendaciones más precisas, conexión ilimitada con otros gamers, y acceso a juegos exclusivos. Se presentarán de forma clara las diferencias entre los tipos de suscripciones disponibles y sus beneficios.
+   <br><br>
+4. **Comunidad:**
+   La sección de Comunidad incluirá un menú desplegable que permitirá a los usuarios acceder a distintas subcategorías como foros, grupos de discusión, eventos organizados por la comunidad, y noticias sobre la industria de los videojuegos. Este espacio será clave para fomentar la interacción y la colaboración entre gamers y desarrolladores.
+   <br><br>
+5. **Testimonios:**
+   Aquí los usuarios podrán ver reseñas y testimonios de otros gamers y desarrolladores que han utilizado la plataforma. Será una herramienta útil para crear confianza en los nuevos usuarios y destacar la experiencia positiva de la comunidad.
+   <br><br>
+6. **Contact:**
+   La sección de Contact permitirá a los usuarios ponerse en contacto con el equipo de soporte de la plataforma, ya sea para resolver dudas, sugerir mejoras o reportar problemas. Incluirá un formulario de contacto y posiblemente un chatbot para asistencia rápida.
+   <br><br>
+7. **Login:**
+   El Login será el acceso a los perfiles de usuario, permitiendo a los gamers y desarrolladores iniciar sesión, crear cuentas nuevas, o recuperar credenciales. Una vez logueados, los usuarios tendrán acceso a sus recomendaciones personalizadas, listas de amigos y gestión de su suscripción.
+
+**Consideraciones a Implementar:**
+1. **Novedades:** Es esencial incluir una sección dedicada a Novedades, donde los usuarios puedan descubrir los juegos más recientes que han sido lanzados en la plataforma. Esta sección destacará juegos populares, nuevos lanzamientos y actualizaciones de títulos ya disponibles.
+2. **Tienda:** La implementación de una Tienda será clave para permitir la compra de juegos directamente desde la plataforma. Los desarrolladores podrán ofrecer sus títulos a los gamers, quienes podrán adquirirlos utilizando diferentes métodos de pago. Esto no solo proporcionará una nueva fuente de ingresos para los desarrolladores, sino que también facilitará a los usuarios el acceso a nuevos juegos sin salir de la plataforma. Además, se podrían ofrecer ofertas exclusivas y descuentos para aquellos que tengan suscripciones avanzadas.
+3. **Sistema de Puntos**: Para incentivar la participación y fidelización de los usuarios, se debería considerar la implementación de un Sistema de Puntos propio de la plataforma. Los gamers podrían acumular puntos al completar ciertas acciones como recomendar juegos, escribir reseñas, o participar en eventos de la comunidad. Estos puntos podrían ser canjeables por descuentos en la tienda, acceso anticipado a ciertos juegos o contenidos exclusivos, mejorando la experiencia del usuario y fomentando la permanencia en la plataforma.
+
+**Otras Funcionalidades (Posible Expansión):**
+
+Cambio de Perfil: Los usuarios podrán actualizar su información personal, foto de perfil y preferencias desde un panel de configuración fácil de usar.
+
+Manejo de Configuraciones: La plataforma permitirá ajustar configuraciones como el idioma de la interfaz y el fondo del perfil para personalizar la experiencia del usuario de acuerdo con sus preferencias.
+
+Además, se contará con una barra de navegación en todo momento en la parte superior de la página. Además de tener un Botón en el lado derecho. Con la finalidad de ayudar al usuario a ir de manera más rápida a la parte superior de la página.
+
+
 ### 4.2.2. Labeling Systems
 
 ### 4.2.3. SEO Tags and Meta Tags
