@@ -355,6 +355,19 @@ Puedes acceder al contenido del Figma para landing page mock-up mobile web brows
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+Se presenta el diagrama de clases que ilustra la arquitectura del sistema para el proyecto Vortex. Este incluye:
+
+Clases: Definiciones de las entidades principales del sistema, incluyendo sus atributos (datos) y métodos (funciones o procedimientos).
+
+Relaciones: Cómo las clases interactúan entre sí, mostrando asociaciones, herencias y dependencias.
+
+Atributos y Métodos: Información detallada sobre los datos que cada clase maneja y las operaciones que puede realizar.
+
+Visibilidad: La accesibilidad de los atributos y métodos, especificando si son públicos, privados o protegidos.
+
+<img src="/assets/chapter04/diagrama de clase.png"  alt="class diagram">
+
 ### 4.7.2. Class Dictionary
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
