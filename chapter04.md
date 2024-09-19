@@ -344,7 +344,7 @@ El propósito de este wireframe es asegurar que la disposición de los elementos
   <img src="assets/chapter04/landing%20page%20ui%20design/wireframes/desktop/wireframe_desktop.png" style="width:500px; height:auto;" alt="">
 </p>
 
-Puedes acceder al contenido del Figma para landing page wireframe desktop web browser:
+Puedes acceder al contenido del Figma para landing page wireframe desktop web browser, pulsando sobre el icono:
 
 <p align="center">
   <a href="https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=2-426&t=MvRfqB7pJmpJAmBF-1">
@@ -358,7 +358,7 @@ Puedes acceder al contenido del Figma para landing page wireframe desktop web br
   <img src="assets/chapter04/landing%20page%20ui%20design/wireframes/mobile/wireframe_mobile.png" style="width:500px; height:auto;" alt="">
 </p>
 
-Puedes acceder al contenido del Figma para landing page wireframe mobile web browser:
+Puedes acceder al contenido del Figma para landing page wireframe mobile web browser, pulsando sobre el icono:
 
 <p align="center">
   <a href="https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=22-5238&t=MvRfqB7pJmpJAmBF-1">
@@ -376,7 +376,7 @@ En esta sección, presentaremos el mock-up de la Landing Page para Vortex, refle
   <img src="assets/chapter04/landing%20page%20ui%20design/mockups/desktop/mockup_desktop2.png" style="width:500px; height:auto;" alt="">
 </p>
 
-Puedes acceder al contenido del Figma para landing page mock-up desktop web browser:
+Puedes acceder al contenido del Figma para landing page mock-up desktop web browser, pulsando sobre el icono:
 
 <p align="center">
   <a href="https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=52-2&t=MvRfqB7pJmpJAmBF-1">
@@ -399,7 +399,7 @@ Puedes acceder al contenido del Figma para landing page mock-up desktop web brow
   <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile9.png" style="width:500px; height:auto;" alt="">
 </p>
 
-Puedes acceder al contenido del Figma para landing page mock-up mobile web browser:
+Puedes acceder al contenido del Figma para landing page mock-up mobile web browser, pulsando sobre el icono:
 
 <p align="center">
   <a href="https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=35-146&t=MvRfqB7pJmpJAmBF-1">
@@ -431,7 +431,9 @@ Atributos y Métodos: Información detallada sobre los datos que cada clase mane
 
 Visibilidad: La accesibilidad de los atributos y métodos, especificando si son públicos, privados o protegidos.
 
-<img src="/assets/chapter04/diagrama de clase.png"  alt="class diagram">
+<p align="center">
+    <img src="assets/chapter04/POO%20design/class_diagram.png" style="width:700px; height:auto;" alt="">
+</p>
 
 ### 4.7.2. Class Dictionary
 
@@ -551,6 +553,15 @@ Visibilidad: La accesibilidad de los atributos y métodos, especificando si son 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 
-<img src="/assets/chapter04/diagrama de base de datos.png"  alt="database diagram">
+<p align="center">
+    <img src="assets/chapter04/POO%20design/database_diagram.png" style="width:700px; height:auto;" alt="">
+</p>
 
-[Enlace del diagrama de Base de datos](https://lucid.app/lucidchart/5b93f4de-6135-4dcb-9f66-3f7f3fb2f005/edit?viewport_loc=-504%2C665%2C4992%2C2421%2C0_0&invitationId=inv_9f021ed4-6889-4f14-a487-05dd6b693eff)
+Puedes acceder a la visualización del diagrama de base de datos, pulsando sobre el siguiente icono
+<p align="center">
+  <a href="https://lucid.app/lucidchart/5b93f4de-6135-4dcb-9f66-3f7f3fb2f005/edit?viewport_loc=-504%2C665%2C4992%2C2421%2C0_0&invitationId=inv_9f021ed4-6889-4f14-a487-05dd6b693eff">
+    <img src="assets/logos/lucidchart_icon.png" style="width:150px; height:auto;" alt="">
+  </a>
+</p>
+
+
