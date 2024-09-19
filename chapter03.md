@@ -752,10 +752,98 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
-<!-- USER STORY 40 -->
 <!-- USER STORY 41 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US41</th>
+    <th>EPIC ID</th>
+    <th>EPIC05</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Publicar Logros en la Comunidad</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> poder publicar mis logros en una sección dedicada de la comunidad, <strong>para</strong> compartir mis éxitos con otros jugadores y recibir retroalimentación.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Publicar un logro</strong><br>
+      <strong>Given</strong> que estoy en la sección de logros,<br>
+      <strong>When</strong> subo una imagen o descripción de mi logro,<br>
+      <strong>Then</strong> el logro se publica en la comunidad.<br><br>
+      <strong>Scenario 2: Visualización del logro</strong><br>
+      <strong>Given</strong> que un logro ha sido publicado,<br>
+      <strong>When</strong> otros jugadores acceden a la sección de logros,<br>
+      <strong>Then</strong> pueden ver el logro publicado.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 42 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US42</th>
+    <th>EPIC ID</th>
+    <th>EPIC05</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Comentar en Logros de Otros Jugadores</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> poder comentar en los logros publicados por otros jugadores,<strong>para</strong> ofrecer retroalimentación y celebrar sus éxitos.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Publicar un comentario</strong><br>
+      <strong>Given</strong> que estoy viendo un logro publicado por otro jugador,<br>
+      <strong>When</strong> escribo un comentario y lo envío,<br>
+      <strong>Then</strong> el comentario se muestra debajo del logro.<br><br>
+      <strong>Scenario 2: Responder a comentarios</strong><br>
+      <strong>Given</strong> que un comentario está en un logro,<br>
+      <strong>When</strong> escribo una respuesta al comentario,<br>
+      <strong>Then</strong> la respuesta se muestra debajo del comentario original.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 43 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US43</th>
+    <th>EPIC ID</th>
+    <th>EPIC05</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Dar "Me Gusta" a Logros</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> poder dar "me gusta" a los logros publicados por otros jugadores,<strong>para</strong> mostrar mi apreciación por sus éxitos.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Dar "Me Gusta"</strong><br>
+      <strong>Given</strong> que estoy viendo un logro en la comunidad,<br>
+      <strong>When</strong> hago clic en el botón "me gusta",<br>
+      <strong>Then</strong> el número de "me gusta" del logro aumenta.<br><br>
+      <strong>Scenario 2: Ver "Me Gusta"</strong><br>
+      <strong>Given</strong> que un logro tiene "me gusta",<br>
+      <strong>When</strong> otros jugadores ven el logro,<br>
+      <strong>Then</strong> pueden ver el número total de "me gusta".
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 44 -->
 <!-- USER STORY 45 -->
 <!-- USER STORY 46 -->
