@@ -279,16 +279,24 @@ El propósito de este wireframe es asegurar que la disposición de los elementos
   <img src="assets/chapter04/landing%20page%20ui%20design/wireframes/desktop/wireframe_desktop.png" style="width:500px; height:auto;" alt="">
 </p>
 
+Puedes acceder al contenido del Figma para landing page wireframe desktop web browser:
+
+<p align="center">
+  <a href="https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=2-426&t=MvRfqB7pJmpJAmBF-1">
+    <img src="assets/logos/figma_icon.png" style="width:150px; height:auto;" alt="">
+  </a>
+</p>
+
 - **Landing Page Wireframe para Mobile Web Browser**
 
 <p align="center">
   <img src="assets/chapter04/landing%20page%20ui%20design/wireframes/mobile/wireframe_mobile.png" style="width:500px; height:auto;" alt="">
 </p>
 
-Puedes acceder al contenido del Figma pulsando sobre el siguiente ícono:
+Puedes acceder al contenido del Figma para landing page wireframe mobile web browser:
 
 <p align="center">
-  <a href="https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=0-1&t=jXqL7Xh7FqLBuM6V-1">
+  <a href="https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=22-5238&t=MvRfqB7pJmpJAmBF-1">
     <img src="assets/logos/figma_icon.png" style="width:150px; height:auto;" alt="">
   </a>
 </p>
@@ -299,15 +307,23 @@ En esta sección, presentaremos el mock-up de la Landing Page para Vortex, refle
 - **Landing Page Mock-up para Desktop Web Browser**
 
 <p align="center">
-  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/desktop/mockup_desktop1.png" style="width:500px; height:auto;" alt=""> <br>
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/desktop/mockup_desktop1.png" style="width:500px; height:auto;" alt="">
   <img src="assets/chapter04/landing%20page%20ui%20design/mockups/desktop/mockup_desktop2.png" style="width:500px; height:auto;" alt="">
+</p>
+
+Puedes acceder al contenido del Figma para landing page mock-up desktop web browser:
+
+<p align="center">
+  <a href="https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=52-2&t=MvRfqB7pJmpJAmBF-1">
+    <img src="assets/logos/figma_icon.png" style="width:150px; height:auto;" alt="">
+  </a>
 </p>
 
 - **Landing Page Mock-up para Mobile Web Browser**
 
 <p align="center">
-  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/desktop/mockup_desktop3.png" style="width:500px; height:auto;" alt=""> <br>
-  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile1.png" style="width:500px; height:auto;" alt=""> <br>
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/desktop/mockup_desktop3.png" style="width:500px; height:auto;" alt="">
+  <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile1.png" style="width:500px; height:auto;" alt="">
   <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile2.png" style="width:500px; height:auto;" alt="">
   <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile3.png" style="width:500px; height:auto;" alt="">
   <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile4.png" style="width:500px; height:auto;" alt="">
@@ -317,6 +333,15 @@ En esta sección, presentaremos el mock-up de la Landing Page para Vortex, refle
   <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile8.png" style="width:500px; height:auto;" alt="">
   <img src="assets/chapter04/landing%20page%20ui%20design/mockups/mobile/mockup_mobile9.png" style="width:500px; height:auto;" alt="">
 </p>
+
+Puedes acceder al contenido del Figma para landing page mock-up mobile web browser:
+
+<p align="center">
+  <a href="https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=35-146&t=MvRfqB7pJmpJAmBF-1">
+    <img src="assets/logos/figma_icon.png" style="width:150px; height:auto;" alt="">
+  </a>
+</p>
+
 
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
