@@ -315,6 +315,20 @@ De la misma manera se consideran más secciones. Podemos identificar algunas eti
     <p class="wow fadeInUp" data-wow-delay=".6s"> text here </p>: Descripción de la sección.
 
 ### 4.2.4. Searching Systems
+El sistema de búsqueda es un componente esencial de la plataforma Vortex, diseñado para facilitar el acceso rápido a la información relevante. El sistema debe ser intuitivo, rápido y preciso, permitiendo a los usuarios encontrar fácilmente lo que necesitan.
+
+### Características del Sistema de Búsqueda:
+
+- **Barra de Búsqueda:** Ubicada de manera prominente en la parte superior de la página, permitiendo a los usuarios ingresar palabras clave para buscar contenido específico.
+
+- **Búsqueda Predictiva:** A medida que los usuarios escriben, el sistema debe sugerir términos relacionados o resultados potenciales para facilitar la búsqueda.
+
+- **Filtros de Búsqueda:** Permitir a los usuarios filtrar resultados por categorías como "Planes de Suscripción", "Testimonios", "Artículos", "Contacto", etc.
+
+- **Búsqueda Avanzada:** Ofrecer una opción de búsqueda avanzada donde los usuarios puedan especificar criterios más detallados para obtener resultados más precisos.
+
+- **Indexación de Contenidos:** Asegurar que todos los contenidos de la plataforma estén indexados para una rápida recuperación durante la búsqueda.
+
 
 ## 4.3. Landing Page UI Design
 En esta sección, detallaremos las mejores prácticas y los elementos de diseño que se han implementado para lograr una landing page efectiva y visualmente atractiva para Vortex.
