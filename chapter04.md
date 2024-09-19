@@ -420,5 +420,119 @@ Visibilidad: La accesibilidad de los atributos y métodos, especificando si son 
 <img src="/assets/chapter04/diagrama de clase.png"  alt="class diagram">
 
 ### 4.7.2. Class Dictionary
+
+### 1. **Usuario**
+- **Descripción**: Clase base que representa a un usuario de la plataforma, ya sea un gamer o un desarrollador.
+- **Atributos**:
+  - `nombre`: Nombre del usuario (String)
+  - `edad`: Edad del usuario (Int)
+  - `email`: Correo electrónico del usuario (String)
+  - `rol`: Rol del usuario en la plataforma (String) – Gamer o Desarrollador
+  - `listaJuegosFavoritos`: Lista de juegos marcados como favoritos (List<Juego>)
+  - `amigos`: Lista de amigos en la plataforma (List<Amigo>)
+- **Métodos**:
+  - `agregarAmigo()`: Agrega un amigo a la lista de amigos.
+  - `recibirRecomendaciones()`: Devuelve una lista de recomendaciones de juegos.
+
+### 2. **Gamer** (hereda de Usuario)
+- **Descripción**: Clase que representa a un usuario gamer en la plataforma.
+- **Atributos**:
+  - `historialJuegos`: Lista de juegos jugados por el gamer (List<Juego>)
+  - `suscripción`: Información sobre la suscripción del gamer (Suscripción)
+- **Métodos**:
+  - `jugarJuego()`: Registra que el gamer ha jugado un juego.
+  - `reseñarJuego()`: Permite que el gamer deje una reseña de un juego.
+
+### 3. **Desarrollador** (hereda de Usuario)
+- **Descripción**: Clase que representa a un usuario desarrollador de videojuegos en la plataforma.
+- **Atributos**:
+  - `listaJuegosDesarrollados`: Lista de juegos creados por el desarrollador (List<Juego>)
+- **Métodos**:
+  - `publicarJuego()`: Publica un nuevo juego en la plataforma.
+  - `actualizarJuego()`: Actualiza la información o versión de un juego publicado.
+
+### 4. **Juego**
+- **Descripción**: Clase que representa un videojuego en la plataforma.
+- **Atributos**:
+  - `nombre`: Nombre del videojuego (String)
+  - `género`: Género del videojuego (String)
+  - `plataforma`: Plataforma en la que está disponible el juego (String)
+  - `desarrollador`: Desarrollador del videojuego (Desarrollador)
+  - `reseñas`: Lista de reseñas del videojuego (List<Reseña>)
+  - `torneos`: Lista de torneos disponibles para el juego (List<Torneo>)
+- **Métodos**:
+  - `recibirReseña(Reseña)`: Recibe una reseña de un jugador.
+  - `mostrarDetalles()`: Muestra los detalles del videojuego.
+
+### 5. **Recomendación**
+- **Descripción**: Clase que maneja las recomendaciones de juegos a los usuarios.
+- **Atributos**:
+  - `juego`: El juego recomendado (Juego)
+  - `gamer`: El gamer que recibe la recomendación (Gamer)
+  - `algoritmo`: Algoritmo utilizado para generar la recomendación (String)
+- **Métodos**:
+  - `generarRecomendación()`: Genera y retorna una recomendación de juego.
+
+### 6. **Suscripción**
+- **Descripción**: Clase que gestiona las suscripciones de los usuarios.
+- **Atributos**:
+  - `tipo`: Tipo de suscripción (premium, gratuita, etc.) (String)
+  - `costo`: Costo de la suscripción (Float)
+  - `duración`: Duración de la suscripción en meses (Int)
+- **Métodos**:
+  - `actualizarSuscripción()`: Actualiza la suscripción del usuario.
+
+### 7. **Reseña**
+- **Descripción**: Clase que gestiona las reseñas hechas por los gamers sobre los juegos.
+- **Atributos**:
+  - `juego`: El juego reseñado (Juego)
+  - `gamer`: El gamer que realizó la reseña (Gamer)
+  - `puntuación`: Puntuación dada al juego (Int)
+  - `comentario`: Comentario de la reseña (String)
+- **Métodos**:
+  - `publicarReseña()`: Publica la reseña.
+  - `editarReseña()`: Permite al gamer editar su reseña.
+
+### 8. **Perfil**
+- **Descripción**: Clase que representa el perfil personal del usuario.
+- **Atributos**:
+  - `foto`: Foto de perfil del usuario (String)
+  - `bio`: Biografía del usuario (String)
+- **Métodos**:
+  - `personalizarPerfil()`: Permite personalizar el perfil del usuario.
+
+### 9. **Amigo**
+- **Descripción**: Clase que representa una relación de amistad entre usuarios.
+- **Atributos**:
+  - `nombre`: Nombre del amigo (String)
+  - `juegosEnComun`: Lista de juegos que ambos jugadores tienen en común (List<Juego>)
+- **Métodos**:
+  - `enviarSolicitud()`: Envía una solicitud de amistad.
+
+### 10. **Notificación**
+- **Descripción**: Clase que gestiona las notificaciones enviadas a los usuarios.
+- **Atributos**:
+  - `mensaje`: Contenido de la notificación (String)
+  - `fecha`: Fecha de la notificación (Date)
+- **Métodos**:
+  - `mostrarNotificacion()`: Muestra la notificación al usuario.
+
+### 11. **Torneo**
+- **Descripción**: Clase que representa un torneo organizado para un juego en la plataforma.
+- **Atributos**:
+  - `nombre`: Nombre del torneo (String)
+  - `fecha`: Fecha de inicio del torneo (Date)
+- **Métodos**:
+  - `inscribirParticipante(Gamer)`: Inscribe un gamer al torneo.
+  - `iniciarTorneo()`: Inicia el torneo.
+
+### 12. **Pago**
+- **Descripción**: Clase que gestiona los pagos dentro de la plataforma.
+- **Atributos**:
+  - `monto`: Monto del pago (Float)
+  - `fecha`: Fecha del pago (Date)
+- **Métodos**:
+  - `realizarPago()`: Procesa el pago.
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
