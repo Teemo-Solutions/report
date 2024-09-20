@@ -110,7 +110,6 @@ Para analizar los antecedentes y problemáticas del desarrollo nuestro proyecto,
    * **Modelos de ingresos:** A través de suscripciones premium que ofrecen funcionalidades avanzadas y posiblemente publicidad pagada para las empresas desarrolladoras.
 
 Esta estructura nos permite una comprensión clara y detallada de los antecedentes y problemáticas relacionadas con el desarrollo de la aplicación web para recomendaciones de videojuegos.
-### 1.2.2 Lean UX Process.
 
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
@@ -120,6 +119,112 @@ En la actual era digital, los videojuegos se han convertido en una de las princi
 Vortex busca resolver estos problemas proporcionando una plataforma unificada donde los usuarios pueden recibir recomendaciones personalizadas de videojuegos basadas en sus preferencias y listas de favoritos. La plataforma también permite la interacción social, permitiendo agregar amigos y compartir intereses en juegos. Para los desarrolladores, Vortex ofrece la oportunidad de subir y promocionar sus videojuegos directamente a una audiencia segmentada, aumentando la visibilidad y el alcance de sus proyectos. De este modo, Vortex se posiciona como una solución integral tanto para jugadores en busca de su próximo juego favorito, como para desarrolladores que buscan dar a conocer sus innovaciones.
 
 #### 1.2.2.2. Lean UX Assumptions
+
+**Bussiness Assumptions**
+
+1. **Creemos que nuestros clientes tienen la necesidad de:**  
+   Encontrar recomendaciones de juegos que realmente se adapten a lo que el usuario deja indicios de necesitar.
+
+2. **Estas necesidades se pueden satisfacer con:**  
+   una plataforma web que personalice las recomendaciones de juegos, permita la interacción social y ofrezca sugerencias basadas en las preferencias individuales de los gamers.
+
+3. **Nuestros clientes iniciales son (o serán):**  
+   gamers apasionados que buscan recomendaciones personalizadas y conexiones dentro de una comunidad de jugadores.
+
+4. **El valor principal que un cliente quiere obtener de nuestro servicio es:**  
+   encontrar nuevos videojuegos que coincidan con sus intereses y conectarse con otros jugadores de manera eficiente y personalizada.
+
+5. **Los clientes también pueden obtener estos beneficios adicionales:**  
+   promociones exclusivas de juegos, acceso a comunidades dedicadas y recomendaciones que optimicen su experiencia de juego.
+
+6. **Adquiriremos a la mayoría de nuestros clientes a través de:**  
+   campañas de marketing dirigidas en redes sociales, influencers del mundo gaming y colaboraciones con desarrolladores de videojuegos.   
+
+7. **Ganaremos dinero mediante:**  
+   suscripciones premium que ofrezcan características avanzadas, así como acuerdos publicitarios con desarrolladores de videojuegos que promocionen sus títulos en nuestra plataforma.  
+
+8. **Nuestra competencia principal en el mercado será:**  
+   otras plataformas de recomendaciones de videojuegos y redes sociales orientadas a gamers.
+
+9. **Les superaremos debido a:**  
+   nuestras recomendaciones personalizadas y la integración de una comunidad activa que facilita tanto la interacción social como el descubrimiento de juegos.
+
+10. **El mayor riesgo para nuestro producto es:**  
+   que los algoritmos de recomendación no ofrezcan títulos relevantes o que la experiencia social dentro de la plataforma no sea suficientemente atractiva para retener a los usuarios.
+
+
+ ---
+
+**User Assumptions**
+
+1. **¿Quién es el usuario?**  
+   Los usuarios son gamers que buscan nuevas experiencias de juego y que disfrutan de estar al día con los títulos más recientes y populares.
+
+2. **¿Dónde encaja nuestro producto en su trabajo o vida?**  
+   Nuestro producto encaja en su rutina diaria de entretenimiento, ayudándoles a descubrir nuevos juegos y conectarse con otros jugadores con intereses similares.
+
+3. **¿Qué problemas resuelve nuestro producto?**  
+   Resuelve la sobrecarga de opciones de juegos, facilitando la selección de títulos basados en gustos individuales, y ofrece una plataforma social que conecta a gamers.
+
+4. **¿Cuándo y cómo se utiliza nuestro producto?**  
+   Se utiliza cuando los gamers buscan nuevos títulos para jugar o desean interactuar con otros jugadores, ofreciendo recomendaciones personalizadas y herramientas de comunicación.
+
+5. **¿Qué características son importantes?**  
+   Recomendaciones precisas de videojuegos, integración social, capacidad de personalización de preferencias, promociones exclusivas y una experiencia de usuario fluida.
+
+6. **¿Cómo debería verse y comportarse nuestro producto?**  
+   Debe ser visualmente atractivo, con una interfaz intuitiva y características interactivas que fomenten tanto la exploración de juegos como la interacción con otros gamers.
+
+7. **El valor principal que un usuario quiere obtener de nuestra funcionalidad es:**  
+   Recomendaciones de juegos altamente personalizadas que se ajusten a sus intereses específicos.
+
+8. **Los usuarios también pueden obtener estos beneficios adicionales:**  
+   Promociones exclusivas de juegos, acceso a una comunidad activa y conexiones con otros jugadores.
+
+9. **El mayor riesgo para el usuario es:**  
+   Que las recomendaciones de juegos no sean relevantes o que la experiencia de la comunidad no les aporte valor suficiente para seguir usando la plataforma.
+
+
+**User Outcomes:**
+
+**Descubrimiento de Nuevos Juegos:**  Los usuarios desean descubrir fácilmente videojuegos que coincidan con sus preferencias personales y estilos de juego. Este outcome se centra en proporcionar una experiencia de descubrimiento intuitiva y relevante que optimice su tiempo de entretenimiento y les exponga a títulos nuevos y emocionantes.
+
+**Conexión Social entre Gamers:** Los gamers buscan una plataforma donde puedan interactuar con otros jugadores, compartir experiencias de juego y discutir títulos en tendencia. El éxito se mide por la actividad dentro de la comunidad y la cantidad de conexiones creadas entre jugadores con intereses similares.
+
+**Promociones Exclusivas y Personalización:**  Los usuarios valoran el acceso a promociones exclusivas y la posibilidad de personalizar su experiencia dentro de la plataforma, ajustando las recomendaciones y la interfaz según sus preferencias. El éxito se evalúa por la satisfacción del usuario y su nivel de interacción con las características avanzadas.
+
+---
+
+**Business Outcomes:**
+
+**Crecimiento de la Comunidad de Gamers:** Esperamos que el 15% de los usuarios que se registren en la plataforma Vortex utilicen activamente las funciones sociales dentro del primer mes de uso. El éxito se medirá por la cantidad de interacciones dentro de la comunidad y la retención de usuarios activos.
+
+**Incremento de Ingresos por Suscripciones:** Esperamos que al menos el 20% de los usuarios iniciales se suscriban a los servicios premium de la plataforma dentro de los primeros seis meses, obteniendo acceso a características avanzadas y promociones exclusivas. Este éxito se medirá a través de la tasa de conversión de usuarios gratuitos a suscriptores de pago.
+
+**Impulso a la Promoción de Juegos:** Con alianzas estratégicas con desarrolladores, se espera que al menos el 30% de los títulos promocionados en la plataforma experimenten un aumento significativo en el número de jugadores interesados dentro de los primeros tres meses. Este éxito se medirá por el aumento en las ventas y descargas de juegos promovidos en la plataforma.
+
+---
+**Features Assumptions:**
+
+**1. Recomendaciones Personalizadas:**
+
+**- Algoritmo de Recomendación:** Implementar un sistema avanzado de recomendaciones que sugiera juegos a los usuarios en función de sus preferencias de juego, hábitos y títulos previos jugados.
+
+**- Promociones Exclusivas:** Ofrecer promociones exclusivas de juegos que se ajusten a los gustos individuales de cada usuario, incentivando la participación y la compra de nuevos títulos.
+
+**2. Conexión Social entre Gamers:**
+
+**- Comunidad de Gamers:** Desarrollar una funcionalidad que permita a los usuarios conectarse con otros jugadores, unirse a grupos según sus intereses de juegos y compartir experiencias.
+
+**- Chat en Tiempo Real:** Incorporar un sistema de chat en tiempo real para facilitar la comunicación entre jugadores durante la recomendación de juegos y las interacciones dentro de la comunidad.
+
+**3. Generación de Ingresos:**
+
+**- Suscripción Premium:** Ofrecer una suscripción que brinde acceso a funciones avanzadas, como recomendaciones más personalizadas, acceso anticipado a promociones exclusivas y herramientas adicionales para gestionar sus juegos y conexiones.
+
+**- Publicidad Personalizada para Desarrolladores:** Implementar un modelo de publicidad en la plataforma que permita a los desarrolladores promover sus juegos a audiencias segmentadas, con un enfoque en los intereses específicos de los usuarios.
+
+
 #### 1.2.2.3. Lean UX Hypothesis Statements
 **Creemos que** el sistema de recomendaciones personalizadas de videojuegos basado en preferencias y conexiones sociales proporcionará una experiencia más atractiva a los gamers. **Sabremos que** esto es cierto cuando el 60% de los usuarios interactúen con las recomendaciones y encuentren nuevos juegos para descargar o jugar.
 
