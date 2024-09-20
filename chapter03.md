@@ -957,4 +957,10 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
 <!-- USER STORY 50 -->
 
 ## 3.3. Impact Mapping
+
+### Gamers
+
+<img src="/assets/chapter03/impact-mapping-image/Impact-Mapping-gamers.png" alt="impact-mapping-gamers" />
+
+
 ## 3.4. Product Backlog
