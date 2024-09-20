@@ -141,32 +141,44 @@
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
 El "Lenguaje Ubicuo" de Vortex permitirá establecer un vocabulario común entre el equipo de desarrollo y los usuarios, facilitando la comprensión y comunicación de los conceptos clave relacionados con la recomendación de videojuegos y la interacción social dentro de la plataforma.
-<br><br>
-**Videojuego:** Producto de entretenimiento digital que puede ser recomendado, agregado a una lista de favoritos, o subido por un desarrollador a la plataforma Vortex.
-<br><br>
-**Desarrollador:** Usuario de Vortex que crea y publica videojuegos en la plataforma. Los desarrolladores pueden gestionar los videojuegos que suben, interactuar con otros desarrolladores y jugadores, y obtener métricas de popularidad.
-<br><br>
-**Jugador:** Usuario de Vortex que utiliza la plataforma para recibir recomendaciones personalizadas de videojuegos, agregar amigos, ver los videojuegos que sus amigos juegan y agregar títulos a su lista de favoritos.
-<br><br>
-**Recomendación de Videojuegos:** Funcionalidad de Vortex que sugiere videojuegos a los jugadores, basándose en sus preferencias personales, historial de juegos, y las recomendaciones relacionadas con los gustos de sus amigos.
-<br><br>
-**Lista de Favoritos:** Colección personalizada de videojuegos que un jugador marca como favoritos, permitiendo un acceso rápido y fácil a los títulos que le interesan o que desea recordar.
-<br><br>
-**Amigo:** Otro usuario de Vortex con el cual un jugador ha establecido una conexión dentro de la plataforma. Los amigos pueden compartir sus listas de juegos, ver las recomendaciones entre sí y mantenerse al día sobre sus actividades relacionadas con videojuegos.
-<br><br>
-**Perfil de Jugador:** Información relacionada con un jugador en Vortex, que incluye su historial de juegos, preferencias, lista de amigos, y lista de videojuegos favoritos. El perfil también permite personalizar las recomendaciones que recibe.
-<br><br>
-**Publicar Videojuego:** Acción disponible para los desarrolladores, que les permite subir sus videojuegos a la plataforma Vortex, haciéndolos accesibles para los jugadores y ofreciendo la posibilidad de recibir recomendaciones a otros usuarios.
-<br><br>
-**Métricas de Videojuegos:** Herramienta que proporciona a los desarrolladores estadísticas sobre el rendimiento de sus videojuegos en Vortex, como la cantidad de jugadores, calificaciones y popularidad dentro de la plataforma.
-<br><br>
-**Plan para Desarrolladores:** Nivel de suscripción que permite a los desarrolladores subir videojuegos a la plataforma, administrar su contenido, y acceder a métricas avanzadas de desempeño.
-<br><br>
-**Plan para Jugadores:** Nivel de suscripción que ofrece a los jugadores la posibilidad de agregar amigos, recibir recomendaciones de videojuegos, crear listas de favoritos, y disfrutar de una experiencia personalizada basada en sus gustos y los de sus amigos.
-<br><br>
-**Algoritmo de Recomendación:** Motor detrás de Vortex que analiza los gustos de los jugadores y sus amigos para generar recomendaciones de videojuegos. Este algoritmo se ajusta según las interacciones del jugador en la plataforma.
-<br><br>
-**Juego Relacionado:** Videojuego que el sistema de Vortex sugiere a un jugador, basado en los videojuegos que ha jugado previamente o que se encuentran en la lista de favoritos de sus amigos.
-<br><br>
-**Reseña de Videojuego:** Opinión escrita por un jugador sobre un videojuego, que puede ser visible para otros jugadores de la plataforma y ayudar a influir en las recomendaciones y decisiones de compra.
-<br><br>
+
+- **Videojuego:** Producto de entretenimiento digital que puede ser recomendado, agregado a una lista de favoritos, o subido por un desarrollador a la plataforma Vortex.
+
+
+- **Desarrollador:** Usuario de Vortex que crea y publica videojuegos en la plataforma. Los desarrolladores pueden gestionar los videojuegos que suben, interactuar con otros desarrolladores y jugadores, y obtener métricas de popularidad.
+
+
+- **Jugador:** Usuario de Vortex que utiliza la plataforma para recibir recomendaciones personalizadas de videojuegos, agregar amigos, ver los videojuegos que sus amigos juegan y agregar títulos a su lista de favoritos.
+
+
+- **Recomendación de Videojuegos:** Funcionalidad de Vortex que sugiere videojuegos a los jugadores, basándose en sus preferencias personales, historial de juegos, y las recomendaciones relacionadas con los gustos de sus amigos.
+
+
+- **Lista de Favoritos:** Colección personalizada de videojuegos que un jugador marca como favoritos, permitiendo un acceso rápido y fácil a los títulos que le interesan o que desea recordar.
+
+
+- **Amigo:** Otro usuario de Vortex con el cual un jugador ha establecido una conexión dentro de la plataforma. Los amigos pueden compartir sus listas de juegos, ver las recomendaciones entre sí y mantenerse al día sobre sus actividades relacionadas con videojuegos.
+
+
+- **Perfil de Jugador:** Información relacionada con un jugador en Vortex, que incluye su historial de juegos, preferencias, lista de amigos, y lista de videojuegos favoritos. El perfil también permite personalizar las recomendaciones que recibe.
+
+
+- **Publicar Videojuego:** Acción disponible para los desarrolladores, que les permite subir sus videojuegos a la plataforma Vortex, haciéndolos accesibles para los jugadores y ofreciendo la posibilidad de recibir recomendaciones a otros usuarios.
+
+
+- **Métricas de Videojuegos:** Herramienta que proporciona a los desarrolladores estadísticas sobre el rendimiento de sus videojuegos en Vortex, como la cantidad de jugadores, calificaciones y popularidad dentro de la plataforma.
+
+
+- **Plan para Desarrolladores:** Nivel de suscripción que permite a los desarrolladores subir videojuegos a la plataforma, administrar su contenido, y acceder a métricas avanzadas de desempeño.
+
+
+- **Plan para Jugadores:** Nivel de suscripción que ofrece a los jugadores la posibilidad de agregar amigos, recibir recomendaciones de videojuegos, crear listas de favoritos, y disfrutar de una experiencia personalizada basada en sus gustos y los de sus amigos.
+
+
+- **Algoritmo de Recomendación:** Motor detrás de Vortex que analiza los gustos de los jugadores y sus amigos para generar recomendaciones de videojuegos. Este algoritmo se ajusta según las interacciones del jugador en la plataforma.
+ 
+
+- **Juego Relacionado:** Videojuego que el sistema de Vortex sugiere a un jugador, basado en los videojuegos que ha jugado previamente o que se encuentran en la lista de favoritos de sus amigos.
+ 
+
+- **Reseña de Videojuego:** Opinión escrita por un jugador sobre un videojuego, que puede ser visible para otros jugadores de la plataforma y ayudar a influir en las recomendaciones y decisiones de compra.
