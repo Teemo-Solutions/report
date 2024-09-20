@@ -176,6 +176,38 @@ Además, se contará con una barra de navegación en todo momento en la parte su
 
 
 ### 4.2.2. Labeling Systems
+Para los sistemas de etiquetado, hemos implementado una estructura de encabezados que organiza y agrupa el contenido en secciones claras y accesibles. Esto facilita al usuario la identificación de las áreas de interés, proporcionando una navegación intuitiva y eficiente al permitirle hacer clic en los encabezados para acceder rápidamente a las secciones correspondientes.
+
+<table style="text-align:center">
+    <thead>
+        <tr>
+            <th style="text-align:center">Contenido</th>
+            <th style="text-align:center">Definición</th>
+        </tr>
+    </thead>
+    <body>
+        <tr>
+            <td>Home</td>
+            <td>Sección principal a la cual llegará el usuario al entrar al link de la aplicación web.</td>
+        </tr>
+        <tr>
+            <td>About Us</td>
+            <td>En esta sección, se podrán ver información acerca de Teemo Solutions y Vortex</td>
+        </tr>
+        <tr>
+            <td>Subscriptions</td>
+            <td>En esta sección, se podrán ver los planes y tarifas disponibles.</td>
+        </tr>
+        <tr>
+            <td>Community</td>
+            <td>En esta sección, se verá todo lo relacionado a la comunidad gamer.</td>
+        </tr>
+        <tr>
+            <td>Contact</td>
+            <td>Esta es la sección en la cual se le brindará al usuario todos los canales por los cuales nos puede contactar.</td>
+        </tr>
+    </body>
+</table>
 
 ### 4.2.3. SEO Tags and Meta Tags
 En esta sección, abordaremos la implementación de SEO tags y meta tags para optimizar la visibilidad y el rendimiento de nuestra plataforma en los motores de búsqueda. Estas etiquetas son fundamentales para mejorar el posicionamiento de nuestro sitio web, asegurando que los usuarios puedan encontrar fácilmente nuestra plataforma y acceder a su contenido relevante. Exploraremos las mejores prácticas para la inclusión de estas etiquetas en nuestro HTML para maximizar el impacto en el SEO.
