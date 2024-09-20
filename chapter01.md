@@ -80,6 +80,38 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
 
 ## 1.2. Solution Profile
 ### 1.2.1. Antecedentes y problemática
+
+Para analizar los antecedentes y problemáticas del desarrollo nuestro proyecto, estaremos utilizando la técnica de las 5W y 2H (Who, What, When, Where, Why, How, How much). La cual ha sido estructurada de la siguiente manera:
+
+1. **Who (Quién)**
+   * **Gamers:** Jugadores que buscan descubrir nuevos títulos basados en sus preferencias y conexiones sociales.
+   * **Empresar Desarrolladoras:** Equipos de desarrollo de videojuegos que buscan nuevas formas de promocionar sus juegos a audiencias específicas. 
+<br><br>
+2. **What (Qué)**
+   * **Aplicación web open source:** Una plataforma que sirve como un sistema de recomendación de videojuegos. Incluye funcionalidades para la creación de perfiles, recomendaciones personalizadas, conexión con amigos y promoción de juegos por parte de empresas.
+   * **Problemas actuales:** Los gamers enfrentan dificultades para descubrir nuevos juegos que se alineen con sus gustos, mientras que las empresas buscan maneras más efectivas de promocionar sus títulos en el mercado.
+<br><br>
+3. **When (Cuándo)**
+    * **Contexto actual:** En un mercado de videojuegos que está en constante crecimiento, con un flujo continuo de nuevos títulos, surge la necesidad de herramientas que faciliten el descubrimiento y promoción de juegos. La demanda de personalización y conectividad en las plataformas de entretenimiento es más fuerte que nunca.
+<br><br>
+4. **Where (Dónde)**
+   * **Plataforma digital:** La aplicación estará disponible online, accesible desde cualquier lugar con conexión a internet. Dirigida a usuarios de habla hispana, con la posibilidad de expansión a otros idiomas.
+<br><br>
+5. **Why (Por qué)**
+   * **Necesidad del mercado:** La industria de los videojuegos está cada vez más saturada, lo que dificulta que tanto jugadores como desarrolladores se destaquen. Los gamers buscan recomendaciones personalizadas y confiables, mientras que las empresas necesitan una plataforma efectiva para llegar a sus audiencias.
+   * **Beneficio:** Facilitar el descubrimiento de nuevos juegos y mejorar la visibilidad de los títulos de las empresas, fomentando una comunidad más conectada y personalizada.
+<br><br>
+6. **How (Cómo)**
+   * **Desarrollo de la aplicación:** La aplicación será desarrollada como un proyecto open source, permitiendo la colaboración de la comunidad. Incluirá funcionalidades para la creación de perfiles, sistemas de recomendación basados en algoritmos y redes sociales, y herramientas para que las empresas publiquen y promocionen sus juegos.
+   * **Promoción:** Se utilizarán estrategias de marketing digital para atraer tanto a gamers como a empresas desarrolladoras. Se promoverá la plataforma como una solución innovadora para los problemas de descubrimiento y promoción en la industria del gaming.
+<br><br>
+7. **How much (Cuánto)**
+   * **Costos de desarrollo:** Aunque el proyecto será open source, habrá costos asociados a la infraestructura, mantenimiento, y posibles actualizaciones.
+   * **Modelos de ingresos:** A través de suscripciones premium que ofrecen funcionalidades avanzadas y posiblemente publicidad pagada para las empresas desarrolladoras.
+
+Esta estructura nos permite una comprensión clara y detallada de los antecedentes y problemáticas relacionadas con el desarrollo de la aplicación web para recomendaciones de videojuegos.
+### 1.2.2 Lean UX Process.
+
 ### 1.2.2 Lean UX Process
 #### 1.2.2.1. Lean UX Problem Statements
 #### 1.2.2.2. Lean UX Assumptions
