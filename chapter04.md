@@ -379,7 +379,7 @@ El propósito de este wireframe es asegurar que la disposición de los elementos
 Puedes acceder al contenido del Figma para landing page wireframe desktop web browser, pulsando sobre el icono:
 
 <p align="center">
-  <a href="https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=2-426&t=MvRfqB7pJmpJAmBF-1">
+  <a href="https://www.figma.com/design/EYLzLCQ7Q0tj2w1ZfziK7D/TEEMO---FIGMA?node-id=1-16&t=8PRM66M1rfzUwNBA-1">
     <img src="assets/logos/figma_icon.png" style="width:150px; height:auto;" alt="">
   </a>
 </p>
@@ -393,7 +393,7 @@ Puedes acceder al contenido del Figma para landing page wireframe desktop web br
 Puedes acceder al contenido del Figma para landing page wireframe mobile web browser, pulsando sobre el icono:
 
 <p align="center">
-  <a href="https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=22-5238&t=MvRfqB7pJmpJAmBF-1">
+  <a href="https://www.figma.com/design/EYLzLCQ7Q0tj2w1ZfziK7D/TEEMO---FIGMA?node-id=1-186&t=8PRM66M1rfzUwNBA-1">
     <img src="assets/logos/figma_icon.png" style="width:150px; height:auto;" alt="">
   </a>
 </p>
@@ -411,7 +411,7 @@ En esta sección, presentaremos el mock-up de la Landing Page para Vortex, refle
 Puedes acceder al contenido del Figma para landing page mock-up desktop web browser, pulsando sobre el icono:
 
 <p align="center">
-  <a href="https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=52-2&t=MvRfqB7pJmpJAmBF-1">
+  <a href="https://www.figma.com/design/EYLzLCQ7Q0tj2w1ZfziK7D/TEEMO---FIGMA?node-id=1-392&t=8PRM66M1rfzUwNBA-1">
     <img src="assets/logos/figma_icon.png" style="width:150px; height:auto;" alt="">
   </a>
 </p>
@@ -434,7 +434,7 @@ Puedes acceder al contenido del Figma para landing page mock-up desktop web brow
 Puedes acceder al contenido del Figma para landing page mock-up mobile web browser, pulsando sobre el icono:
 
 <p align="center">
-  <a href="https://www.figma.com/design/lvYMnoBHlze4kblrXJxKsc/Figma-Teemo-Solutions?node-id=35-146&t=MvRfqB7pJmpJAmBF-1">
+  <a href="https://www.figma.com/design/EYLzLCQ7Q0tj2w1ZfziK7D/TEEMO---FIGMA?node-id=1-1139&t=8PRM66M1rfzUwNBA-1">
     <img src="assets/logos/figma_icon.png" style="width:150px; height:auto;" alt="">
   </a>
 </p>
