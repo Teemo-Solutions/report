@@ -962,5 +962,8 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
 
 <img src="/assets/chapter03/impact-mapping-image/Impact-Mapping-gamers.png" alt="impact-mapping-gamers" />
 
+### Desarrolladoras de Videojuegos
+
+<img src="/assets/chapter03/impact-mapping-image/Impact-Mapping-desarrolladoras.png" alt="impact-mapping-desarrolladoras" />
 
 ## 3.4. Product Backlog
