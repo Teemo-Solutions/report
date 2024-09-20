@@ -32,6 +32,102 @@
 # Capítulo II: Requirements Elicitation & Analysis
 ## 2.1. Competidores
 ### 2.1.1. Análisis competitivo
+<table>
+  <tr>
+    <th colspan="22">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="1">¿Por qué llevar a cabo el análisis?</td>
+    <td colspan="17">El análisis competitivo es esencial para entender el mercado, identificar oportunidades de diferenciación y anticipar amenazas. Permite ajustar la estrategia para ganar ventaja sobre la competencia y asegurar el éxito del producto.</td>
+  </tr>
+  <tr>
+    <td colspan="2"></td>
+    <td>Vortex<br><img src="assets/logos/vortex_icon.svg" style="width:350px; height:auto;" alt=""></td>
+    <td>Steam<br><img src="assets/chapter02/competitors/steam_icon.png" style="width:600px; height:auto;" alt=""></td>
+    <td>Itch.io<br><img src="assets/chapter02/competitors/itch_icon.png" style="width:600px; height:auto;" alt=""></td>
+    <td>Game Jolt<br><img src="assets/chapter02/competitors/gamejolt_icon.png" style="width:500px; height:auto;" alt=""></td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Vortex es una plataforma emergente que conecta a los jugadores con juegos que coinciden con sus intereses, ofreciendo recomendaciones personalizadas, funciones sociales, y un espacio para desarrolladores para promocionar sus títulos a una audiencia apasionada.</td>
+    <td>Steam es una plataforma de distribución de videojuegos que ofrece una extensa biblioteca de juegos, junto con características sociales, reseñas y contenido generado por los usuarios.</td>
+    <td>Itch.io es una plataforma para juegos indie que permite a los desarrolladores vender y promocionar sus juegos directamente a los usuarios, ofreciendo opciones de precios flexibles.</td>
+    <td>Game Jolt es una plataforma que permite a los desarrolladores indie compartir sus juegos gratuitamente o de pago, con una comunidad activa que incluye características sociales y de descubrimiento.</td>
+  </tr>
+  <tr>
+  <td>Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td>Recomendaciones personalizadas, enfoque en el descubrimiento de juegos, herramientas sociales integradas, y opciones avanzadas mediante suscripción que mejoran la experiencia de los usuarios y desarrolladores.</td>
+    <td>Biblioteca masiva, comunidad global, compatibilidad con mods, y ventas regulares que atraen a una gran audiencia.</td>
+    <td>Plataforma amigable para los desarrolladores independientes con control total sobre el precio y el contenido.</td>
+    <td>Enfoque en juegos indie con una fuerte comunidad social, permite a los desarrolladores interactuar directamente con los jugadores.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de Marketing</td>
+    <td>Mercado Objetivo</td>
+    <td>Jugadores que desean descubrir nuevos juegos que se alineen con sus gustos y desarrolladores que buscan llegar a audiencias específicas y apasionadas.</td>
+    <td>Jugadores de PC que buscan una gran variedad de títulos, desde triple-A hasta indie, con características sociales y ofertas.</td>
+    <td>Desarrolladores indie y jugadores interesados en títulos alternativos y experimentales.</td>
+    <td>Desarrolladores indie y gamers que disfrutan de juegos experimentales y que buscan una comunidad social activa.</td>
+  </tr>
+  <tr>
+  <td>Estrategias de Marketing</td>
+    <td>Publicidad en línea, redes sociales, colaboraciones con desarrolladores, y contenido generado por los usuarios para promover el descubrimiento.</td>
+    <td>Descuentos importantes, publicidad en medios, colaboraciones con desarrolladores.</td>
+    <td>Estrategia centrada en la comunidad, marketing orgánico y promociones internas.</td>
+    <td>Promoción a través de eventos comunitarios, contenido generado por los usuarios y campañas sociales.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de Producto</td>
+    <td>Productos y Servicios</td>
+    <td>Plataforma de descubrimiento de juegos con recomendaciones personalizadas, funciones sociales avanzadas, y herramientas para que los desarrolladores promocionen sus juegos directamente a los jugadores.</td>
+    <td>Venta de juegos digitales, contenido generado por usuarios, soporte para mods, reseñas, y más.</td>
+    <td>Venta directa de juegos indie, herramientas de promoción y precios flexibles.</td>
+    <td>Comunidad activa que promueve juegos indie con herramientas para desarrolladores.</td>
+  </tr>
+  <tr>
+  <td>Precios y Costos</td>
+    <td>Suscripción mensual para características avanzadas, con acceso gratuito a las funciones básicas.</td>
+    <td>Los precios varían según el juego; acceso gratuito a la plataforma.</td>
+    <td>Los desarrolladores establecen los precios, algunos juegos son gratuitos.</td>
+    <td>Juegos gratuitos o de pago; sin costo para unirse a la comunidad.</td>
+  </tr>
+  <td>Canales de distribución (Web y/o Móvil)</td>
+    <td>Web, cliente de escritorio (en desarrollo).</td>
+    <td>Web, cliente de escritorio, aplicación móvil.</td>
+    <td>Web, cliente de escritorio.</td>
+    <td>Web, cliente de escritorio, móvil.</td>
+  <tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Enfoque en recomendaciones personalizadas, funciones sociales mejoradas, relación cercana con desarrolladores indie.</td>
+    <td>Base de usuarios masiva, excelente infraestructura, gran biblioteca de juegos.</td>
+    <td>Comunidad fuerte, flexibilidad en precios y distribución.</td>
+    <td>Comunidad activa, soporte para desarrolladores indie, interacción directa entre jugadores y creadores.</td>
+  </tr>
+  <tr>
+  <td>Debilidades</td>
+    <td>Plataforma en etapa de crecimiento, con menos historial en comparación con competidores establecidos.</td>
+    <td>Competencia feroz, saturación de contenido, dependencia de ventas masivas.</td>
+    <td>Alcance limitado fuera del ámbito indie, dependencia de la comunidad para el crecimiento.</td>
+    <td>Enfoque casi exclusivo en juegos indie, con menos exposición masiva.</td>
+    </tr>
+  <tr>
+  <td>Oportunidades</td>
+    <td>Crecimiento en mercados emergentes, asociaciones con desarrolladores y publishers para promover el descubrimiento.</td>
+    <td>Expansión a mercados móviles, mayor integración de realidad virtual.</td>
+    <td>Expansión a más géneros y categorías, colaboraciones con desarrolladores.</td>
+    <td>Potencial de monetización a través de nuevas características sociales y eventos comunitarios.</td>
+  </tr>
+  <tr>
+  <td>Amenazas</td>
+    <td>Competencia de grandes plataformas como Steam y Epic Games, que tienen mayor alcance y recursos.</td>
+    <td>Nuevas plataformas de distribución que ofrecen menores comisiones.</td>
+    <td>Falta de atención de grandes publishers, saturación del mercado indie.</td>
+    <td>Desafíos para diferenciarse en un mercado competitivo dominado por grandes plataformas.</td>
+  </tr>
+</table>
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
