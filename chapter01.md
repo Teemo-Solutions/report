@@ -67,7 +67,10 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
   </tr>
   <tr>
     <td><img src="assets/chapter01/team/jose-photo.png" style="width:500px; height:auto;" alt=""></td>
-    <td>descripción</td>
+    <td>Mi nombre es José Miguel Riega Salas, estudiante de ingeniería de software en la Universidad de Ciencias Aplicadas,
+  me entusiasma mucho la idea de seguir aprediendo, la programación y la tecnología es en lo que me centro ahora mismo y 
+  seria de mi agrado dedicarme a ello en un fututo cercano. Me encanta pasar tiempo con mis amigos y el deporte; siempre 
+  buscando aprender de lo que rodea y de lo que observo.</td>
   <tr>
     <th colspan="2">Torres García, Andrés Alberto
   </th>
