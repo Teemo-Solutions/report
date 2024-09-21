@@ -446,7 +446,12 @@ Puedes acceder al contenido del Figma para landing page mock-up mobile web brows
 ### 4.4.3. Web Applications Mock-ups
 ### 4.4.4. Web Applications User Flow Diagrams
 ## 4.5. Web Applications Prototyping
+
 ## 4.6. Domain-Driven Software Architecture
+El Software Architecture Context Diagram es una representación de alto nivel de cómo la plataforma Vortex interactúa con actores externos y sistemas circundantes. Este diagrama proporciona una visión general del ecosistema en el que opera Vortex, destacando las conexiones y flujos de información entre los diferentes componentes clave, como los usuarios (gamers y desarrolladores), las API externas, los sistemas de autenticación, las bases de datos y las plataformas de pago, entre otros.
+
+En el caso de Vortex, una plataforma de recomendaciones de videojuegos dirigida tanto a jugadores como a desarrolladores, este diagrama es crucial para visualizar cómo los distintos módulos colaboran para ofrecer una experiencia de usuario fluida, eficiente y personalizada. Cada interacción refleja cómo los usuarios pueden descubrir nuevos títulos, conectarse con amigos, gestionar sus perfiles y cómo los desarrolladores publican y promocionan sus juegos dentro del sistema.
+
 ### 4.6.1. Software Architecture Context Diagram   
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
