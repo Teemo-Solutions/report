@@ -221,9 +221,7 @@
     <td>14:28</td>
   </tr>
 </table>
-
-- **Análisis de la entrevista:**
-  
+ 
 **¿Qué factores influyen más en tu decisión de comprar o jugar un videojuego nuevo?**
   
 Como gamer apasionado, los factores clave incluyen la calidad gráfica, la jugabilidad, las reseñas de otros jugadores, la reputación del desarrollador, y si el juego tiene un componente competitivo o eSports. También es importante si el juego ofrece desafíos que puedan mantener su interés a largo plazo.
@@ -255,6 +253,75 @@ Considera el modelo de suscripción atractivo, especialmente si ofrece acceso a 
 **¿Qué tendencias o innovaciones te gustaría ver en el futuro de la industria de los videojuegos?**
 
 Le gustaría ver más avances en la realidad virtual y aumentada, juegos que integren mejor la inteligencia artificial para ofrecer experiencias más personalizadas y desafiantes, y un crecimiento en el ámbito de los eSports, con más oportunidades para jugadores profesionales.
+
+---
+- **Entrevista #2**
+<p align="center">
+  <img src="assets/chapter02/interviews/gamers/interview_s1_paolo.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Paolo</th>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>23 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>San Isidro</td>
+  </tr>
+  <tr>
+    <td>Estado Civil</td>
+    <td>Soltero</td>
+  </tr>
+  <tr>
+    <td>Familia</td>
+    <td>No tiene hijos</td>
+  </tr>
+  <tr>
+    <td>Ocupación</td>
+    <td>Estudiante universitario</td>
+  </tr>
+  <tr>
+    <td>URL</td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EbNg3QJl4Z1PrUnf1czeDBoBJeYpF7fKdFBOHQC9ymSm6w?e=NeyNfu">Entrevistas Generales</a></td>
+  </tr>
+  <tr>
+    <td>Inicio de entrevista</td>
+    <td>0:00</td>
+  </tr>
+  <tr>
+    <td>Fin de entrevista</td>
+    <td>7:53</td>
+  </tr>
+</table>
+
+**¿Qué factores influyen más en tu decisión de comprar o jugar un videojuego nuevo?**
+Uno de los factores más importantes para mí al decidir comprar o jugar un nuevo videojuego es si mis amigos también lo están jugando. La experiencia de juego es mucho más divertida y social cuando puedo compartirla con personas que conozco.
+
+**¿Qué características o funcionalidades te gustaría ver en una plataforma ideal para descubrir y conectar con videojuegos?**
+Me gustaría ver un sistema de recomendaciones robusto en una plataforma ideal, que me permita probar nuevos juegos que estén alineados con mis intereses. Este sistema debería sugerir juegos basados en lo que mis amigos están jugando o en lo que se comenta en las comunidades online.
+
+**¿Qué papel juegan las comunidades online y las redes sociales en tu experiencia de juego?**
+Las comunidades online y las redes sociales juegan un papel crucial en mi experiencia de juego. A través de ellas, puedo leer comentarios y opiniones de otros jugadores, lo que me ayuda a decidir si un juego vale la pena o no. También son una excelente manera de conectarme con otros jugadores y formar equipos o participar en discusiones sobre estrategias.
+
+**¿Qué tipo de contenido o servicios adicionales estarías dispuesto a pagar en relación con los videojuegos?**
+Estoy dispuesto a pagar por servicios como el GamePass de Xbox, ya que considero que ofrece una excelente relación calidad-precio. Me permite acceder a una gran cantidad de juegos, disfrutar del modo multijugador, y personalizar mi experiencia con skins y otros complementos.
+
+**¿Cuáles son tus principales frustraciones o desafíos al buscar y elegir nuevos videojuegos?**
+Una de mis principales frustraciones es cuando compro un juego junto con mis amigos, pero ellos pierden interés rápidamente y dejan de jugar al día siguiente. Esto me deja sin compañía para disfrutar del juego, lo cual disminuye mi motivación para seguir jugando.
+
+**¿Qué importancia le das a las recomendaciones personalizadas y a la capacidad de conectar con otros jugadores con intereses similares?**
+Le doy mucha importancia a las recomendaciones personalizadas y a la capacidad de conectar con otros jugadores que comparten mis intereses. Es crucial poder descubrir juegos que mis amigos ya están disfrutando y que podríamos jugar juntos, creando una experiencia más social y divertida.
+
+**¿Qué opinas sobre el modelo de suscripción en el contexto de los videojuegos y plataformas de juego?**
+Creo que el modelo de suscripción es una excelente oportunidad para aprovechar una gran cantidad de juegos a un precio razonable. Permite acceder a una variedad de títulos sin tener que comprarlos individualmente, lo cual es especialmente útil para un jugador como yo que disfruta explorando diferentes géneros y estilos de juego.
+
+**¿Qué tendencias o innovaciones te gustaría ver en el futuro de la industria de los videojuegos?**
+Me gustaría ver una tendencia hacia la normalización de los videojuegos como un pasatiempo accesible para cualquier persona, similar a cómo se percibe el streaming de series y películas en plataformas como Netflix. Esto ayudaría a eliminar el estigma de los videojuegos y permitiría que más personas disfruten de este medio de entretenimiento.
 
 
 ### 2.2.3. Análisis de entrevistas
