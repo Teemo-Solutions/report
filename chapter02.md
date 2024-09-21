@@ -142,7 +142,6 @@
   - ¿Tienes hijos o dependientes? Si es así, ¿cuántos? 
   - ¿Cuál es tu ocupación?
 
-<br>
 
 - **Intereses y motivaciones:**
   - ¿Qué factores influyen más en tu decisión de comprar o jugar un videojuego nuevo?
@@ -154,9 +153,9 @@
   - ¿Qué opinas sobre el modelo de suscripción en el contexto de los videojuegos y plataformas de juego?
   - ¿Qué tendencias o innovaciones te gustaría ver en el futuro de la industria de los videojuegos?
 
-<br>
+---
 
-Segmento Objetivo: Empresas Desarrolladoras de Videojuegos
+**Segmento Objetivo: Empresas Desarrolladoras de Videojuegos**
 
 - **Datos demográficos:**
     - ¿Cuál es tu género?
@@ -164,8 +163,6 @@ Segmento Objetivo: Empresas Desarrolladoras de Videojuegos
     - ¿En qué distrito resides?
     - ¿Cuál es tu estado civil?
     - ¿Tienes hijos o dependientes? Si es así, ¿cuántos?
-
-<br>
 
 - **Desafíos y estrategias:**
   - ¿Cuáles son los mayores desafíos que enfrentan actualmente en la industria de los videojuegos?
@@ -178,6 +175,54 @@ Segmento Objetivo: Empresas Desarrolladoras de Videojuegos
   - ¿Qué tendencias o innovaciones creen que tendrán un mayor impacto en el futuro de la industria de los videojuegos?
 
 ### 2.2.2. Registro de entrevistas
+
+**Segmento Objetivo: Gamers Entusiastas**
+
+<p align="center">
+  <img src="assets/chapter02/interviews/gamers/interview_s1_bruno.png" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Entrevista #1**
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Bruno Chaud Carbajal</th>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>24 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Chorrillos</td>
+  </tr>
+  <tr>
+    <td>Estado Civil</td>
+    <td>Soltero</td>
+  </tr>
+  <tr>
+    <td>Familia</td>
+    <td>No tiene hijos</td>
+  </tr>
+  <tr>
+    <td>Ocupación</td>
+    <td>Estudiante universitario</td>
+  </tr>
+  <tr>
+    <td>URL</td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EbNg3QJl4Z1PrUnf1czeDBoBJeYpF7fKdFBOHQC9ymSm6w?e=NeyNfu">Entrevistas Generales</a></td>
+  </tr>
+  <tr>
+    <td>Inicio de entrevista</td>
+    <td>7:54</td>
+  </tr>
+  <tr>
+    <td>Fin de entrevista</td>
+    <td>14:28</td>
+  </tr>
+</table>
+
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Need finding
 
