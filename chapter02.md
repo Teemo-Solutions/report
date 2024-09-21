@@ -135,9 +135,9 @@
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Need finding
 ### 2.3.1. User Personas
-En el desarrollo de Vortex, hemos identificado que optimizar la gestión administrativa es clave para mejorar la interacción entre jugadores y desarrolladores dentro de la plataforma. Tras realizar entrevistas con usuarios potenciales y expertos en la industria de los videojuegos, recolectamos información valiosa sobre cómo una plataforma digital puede agilizar las tareas administrativas, brindando una experiencia más fluida y personalizada para los usuarios.
+En esta sección, presentaremos el perfil de nuestros User Persona, resultado de un análisis exhaustivo de las entrevistas realizadas con usuarios potenciales y una evaluación detallada de la competencia en el mercado. Los artefactos que se presentarán a continuación están estrechamente vinculados con las características clave identificadas durante este proceso, reflejando las necesidades, deseos y frustraciones más relevantes de nuestros usuarios objetivo.
 
-Las fichas de User Persona que se presentarán a continuación reflejan estas necesidades, mostrando cómo una gestión eficiente puede mejorar tanto la experiencia de los gamers como el proceso de promoción para las empresas desarrolladoras. Estas herramientas nos guiarán en el diseño de una plataforma que satisfaga las expectativas de nuestros usuarios y eleve la experiencia de interacción y recomendación en el ecosistema de Vortex.
+A partir de las entrevistas, hemos extraído información valiosa que nos ha permitido definir con precisión y realismo a nuestros User Persona. Estos perfiles son esenciales para diseñar una plataforma que no solo cumpla con las expectativas de nuestros usuarios, sino que también optimice su experiencia en Vortex, maximizando la satisfacción tanto de los gamers como de las empresas desarrolladoras que buscan promover sus títulos en un entorno digital más eficiente.
 
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
