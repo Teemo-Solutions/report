@@ -529,6 +529,73 @@ Nos interesa trabajar con otros estudios, servicios de nube y plataformas de dis
 **¿Qué tendencias o innovaciones creen que tendrán un mayor impacto en el futuro de la industria de los videojuegos?**
 La realidad virtual, los juegos en la nube y la inteligencia artificial para crear mundos más vivos están cambiando todo. Además, las experiencias de juego cada vez serán más personalizadas para cada jugador.
 
+- **Entrevista #3**
+<p align="center">
+  <img src="assets/chapter02/interviews/developers/interview_s2_delatorre.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Adrian de la Torre</th>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>20 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Surco</td>
+  </tr>
+  <tr>
+    <td>Estado Civil</td>
+    <td>Soltero</td>
+  </tr>
+  <tr>
+    <td>Familia</td>
+    <td>Sí, tiene un hijo</td>
+  </tr>
+  <tr>
+    <td>Ocupación</td>
+    <td>Estudiante universitario y desarrollador de videojuegos freelancer</td>
+  </tr>
+  <tr>
+    <td>URL</td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EbNg3QJl4Z1PrUnf1czeDBoBJeYpF7fKdFBOHQC9ymSm6w?e=NeyNfu">Entrevistas Generales</a></td>
+  </tr>
+  <tr>
+    <td>Inicio de entrevista</td>
+    <td>7:54</td>
+  </tr>
+  <tr>
+    <td>Fin de entrevista</td>
+    <td>14:28</td>
+  </tr>
+</table>
+
+**¿Cuáles son los mayores desafíos que enfrentan actualmente en la industria de los videojuegos?**
+La competencia, actualmente hay muchos juegos de diversos géneros muy buenos, y el juego que desarrolles debe resaltar algo a diferencia de los demas
+
+**¿Qué estrategias de marketing y promoción consideran más efectivas para llegar a su público objetivo?**
+Darle un beta a streamers y gente conocida de acuerdo al publico objetivo
+
+**¿Qué papel juegan las comunidades de jugadores y las redes sociales en su estrategia de marketing y desarrollo de videojuegos?**
+Muy importante, sobre todo las comunidades de jugadores, las cuales serán las que juzguen el juego.
+
+**¿Qué tipo de datos o métricas consideran más valiosos para evaluar el éxito de sus videojuegos?**
+El dato más importante es cuantos jugadores activos hay.
+
+**¿Qué características o funcionalidades buscan en una plataforma ideal para promocionar y distribuir sus videojuegos?**
+Un buen algoritmo de recomendación y anuncios pagados
+
+**¿Qué opinan sobre el modelo de suscripción como una forma de monetización y distribución de videojuegos?**
+Me parece más óptimo, ya que el usuario prefiere pagar poco mes a mes, que una cantidad fuerte de una.
+
+**¿Qué tipo de colaboraciones o asociaciones buscan con otras empresas o plataformas en la industria de los videojuegos?**
+Colaboraciones con artistas para "skins" del juego
+
+**¿Qué tendencias o innovaciones creen que tendrán un mayor impacto en el futuro de la industria de los videojuegos?**
+La realidad virtual cada vez está mejor, para mi en unos años será el nuevo estándar de videojuegos.
 
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Need finding
