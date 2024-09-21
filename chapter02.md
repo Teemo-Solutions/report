@@ -702,12 +702,12 @@ En esta sección, presentaremos el perfil de nuestros User Persona, resultado de
 
 A partir de las entrevistas, hemos extraído información valiosa que nos ha permitido definir con precisión y realismo a nuestros User Persona. Estos perfiles son esenciales para diseñar una plataforma que no solo cumpla con las expectativas de nuestros usuarios, sino que también optimice su experiencia en Vortex, maximizando la satisfacción tanto de los gamers como de las empresas desarrolladoras que buscan promover sus títulos en un entorno digital más eficiente.
 
-- ** Segmento Objetivo: Gamers Entusiastas**
+- **Segmento Objetivo: Gamers Entusiastas**
 <p align="center">
   <img src="assets/chapter02/user%20person/user_person1.png"  style="width:500px; height:auto;" alt="">
 </p>
 
-- ** Segmento Objetivo: Empresas Desarrolladoras de videojuegos**
+- **Segmento Objetivo: Empresas Desarrolladoras de videojuegos**
 <p align="center">
   <img src="assets/chapter02/user%20person/user_person2.png"  style="width:500px; height:auto;" alt="">
 </p>
@@ -757,12 +757,12 @@ Este análisis permite comprender mejor las tareas clave que realizan los difere
 ### 2.3.3. User Journey Mapping
 El siguiente mapa ilustra los recorridos actuales (As-Is) de dos tipos de usuarios clave: Gamer Entusiasta y Empresa Desarrolladora de Videojuegos. Cada User Journey muestra cómo interactúan estos usuarios con los juegos o plataformas existentes y los desafíos que enfrentan, desde el descubrimiento hasta el abandono o la continuidad de su uso. Estos journeys son esenciales para identificar áreas clave de oportunidad que nuestra plataforma buscará mejorar.
 
-- ** Segmento Objetivo: Gamers Entusiastas**
+- **Segmento Objetivo: Gamers Entusiastas**
 <p align="center">
   <img src="assets/chapter02/journey%20mapping/journey_map_seg01.png"  style="width:500px; height:auto;" alt="">
 </p>
 
-- ** Segmento Objetivo: Empresas Desarrolladoras de videojuegos**
+- **Segmento Objetivo: Empresas Desarrolladoras de videojuegos**
 <p align="center">
   <img src="assets/chapter02/journey%20mapping/journey_map_seg02.png"  style="width:500px; height:auto;" alt="">
 </p>
@@ -770,23 +770,23 @@ El siguiente mapa ilustra los recorridos actuales (As-Is) de dos tipos de usuari
 ### 2.3.4. Empathy Mapping
 El siguiente mapa ilustra los recorridos actuales (As-Is) de dos tipos de usuarios clave: Gamer Entusiasta y Empresa Desarrolladora de Videojuegos. Cada User Journey muestra cómo interactúan estos usuarios con los juegos o plataformas existentes y los desafíos que enfrentan, desde el descubrimiento hasta el abandono o la continuidad de su uso. Estos journeys son esenciales para identificar áreas clave de oportunidad que nuestra plataforma buscará mejorar.
 
-- ** Segmento Objetivo: Gamers Entusiastas**
+- **Segmento Objetivo: Gamers Entusiastas**
 <p align="center">
   <img src="assets/chapter02/journey%20mapping/journey_map_seg01.png"  style="width:500px; height:auto;" alt="">
 </p>
 
-- ** Segmento Objetivo: Empresas Desarrolladoras de videojuegos**
+- **Segmento Objetivo: Empresas Desarrolladoras de videojuegos**
 <p align="center">
   <img src="assets/chapter02/journey%20mapping/journey_map_seg02.png"  style="width:500px; height:auto;" alt="">
 </p>
 
 ### 2.3.5. As-is Scenario Mapping
-- ** Segmento Objetivo: Gamers Entusiastas**
+- **Segmento Objetivo: Gamers Entusiastas**
 <p align="center">
   <img src="assets/chapter02/AS-IS%20scenario/as-is_scenario_seg01.png"  style="width:500px; height:auto;" alt="">
 </p>
 
-- ** Segmento Objetivo: Empresas Desarrolladoras de videojuegos**
+- **Segmento Objetivo: Empresas Desarrolladoras de videojuegos**
 <p align="center">
   <img src="assets/chapter02/AS-IS%20scenario/as-is_scenario_seg02.png"  style="width:500px; height:auto;" alt="">
 </p>
