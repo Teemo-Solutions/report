@@ -390,6 +390,78 @@ El modelo de suscripción es una excelente opción, ya que permite disfrutar de 
 **¿Qué tendencias o innovaciones te gustaría ver en el futuro de la industria de los videojuegos?**
 Estoy interesado en ver cómo avanza la realidad virtual y cómo puede revolucionar la experiencia de juego. Además, creo que es esencial promover una mayor libertad en la comunicación y la expresión dentro de los videojuegos, permitiendo una interacción más auténtica y dinámica entre los jugadores.
 
+---
+**Segmento Objetivo: Empresas Desarrolladoras de Videojuegos**
+
+- **Entrevista #1**
+<p align="center">
+  <img src="assets/chapter02/interviews/developers/interview_s2_adrian.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Adrian Valerio</th>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Chorrillos</td>
+  </tr>
+  <tr>
+    <td>Estado Civil</td>
+    <td>Soltero</td>
+  </tr>
+  <tr>
+    <td>Familia</td>
+    <td>No tiene hijos</td>
+  </tr>
+  <tr>
+    <td>Ocupación</td>
+    <td>Estudiante universitario</td>
+  </tr>
+  <tr>
+    <td>URL</td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EbNg3QJl4Z1PrUnf1czeDBoBJeYpF7fKdFBOHQC9ymSm6w?e=NeyNfu">Entrevistas Generales</a></td>
+  </tr>
+  <tr>
+    <td>Inicio de entrevista</td>
+    <td>7:54</td>
+  </tr>
+  <tr>
+    <td>Fin de entrevista</td>
+    <td>14:28</td>
+  </tr>
+</table>
+
+**¿Cuáles son los mayores desafíos que enfrentan actualmente en la industria de los videojuegos?**
+El mayor desafío que enfrentamos es la saturación del mercado, dado que la industria de los videojuegos se ha vuelto extremadamente viral, lo que ha incrementado la competencia. Destacar entre tantas opciones se convierte en un reto significativo.
+
+**¿Qué estrategias de marketing y promoción consideran más efectivas para llegar a su público objetivo?**
+Las colaboraciones con streamers influyentes han demostrado ser una de las estrategias más efectivas. Estas asociaciones permiten promocionar los juegos a una audiencia más amplia y altamente comprometida.
+
+**¿Qué papel juegan las comunidades de jugadores y las redes sociales en su estrategia de marketing y desarrollo de videojuegos?**
+Las comunidades de jugadores y las redes sociales son fundamentales. Los jugadores no solo generan críticas constructivas, sino que también elevan la visibilidad de un videojuego. Son los que impulsan el éxito y la notoriedad del título.
+
+**¿Qué tipo de datos o métricas consideran más valiosos para evaluar el éxito de sus videojuegos?**
+Las métricas más valiosas incluyen las ventas iniciales y el rendimiento de las betas. Estos datos nos permiten medir la aceptación del videojuego y hacer ajustes antes del lanzamiento definitivo.
+
+**¿Qué características o funcionalidades buscan en una plataforma ideal para promocionar y distribuir sus videojuegos?**
+Buscamos una plataforma que ofrezca un alcance significativo, no solo para grandes marcas, sino también para desarrolladores independientes. Es crucial que la plataforma ofrezca oportunidades personalizadas que permitan competir en igualdad de condiciones.
+
+**¿Qué opinan sobre el modelo de suscripción como una forma de monetización y distribución de videojuegos?**
+Considero que el modelo de suscripción es interesante, ya que permite acceder a varios títulos a un precio más accesible en comparación con la compra individual de cada juego, lo cual lo hace atractivo tanto para jugadores como para desarrolladores.
+
+**¿Qué tipo de colaboraciones o asociaciones buscan con otras empresas o plataformas en la industria de los videojuegos?**
+Nos enfocamos en colaborar con streamers y aprovechar las redes sociales para expandir la visibilidad del juego. Estas asociaciones estratégicas nos permiten conectar directamente con nuestra audiencia.
+
+**¿Qué tendencias o innovaciones creen que tendrán un mayor impacto en el futuro de la industria de los videojuegos?**
+La integración de la inteligencia artificial será una de las innovaciones más impactantes. Se espera que la IA permita crear mundos más dinámicos y NPCs (personajes no jugables) con diálogos y comportamientos más realistas, lo que mejorará significativamente la inmersión del jugador.
+
+
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Need finding
 
