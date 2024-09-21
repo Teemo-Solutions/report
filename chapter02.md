@@ -145,6 +145,11 @@ A partir de las entrevistas, hemos extraído información valiosa que nos ha per
   <img src="assets/chapter02/user%20person/user_person1.png"  style="width:500px; height:auto;" alt="">
 </p>
 
+- ** Segmento Objetivo: Empresas Desarrolladoras**
+<p align="center">
+  <img src="assets/chapter02/user%20person/user_person2.png"  style="width:500px; height:auto;" alt="">
+</p>
+
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
