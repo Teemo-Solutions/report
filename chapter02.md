@@ -463,7 +463,7 @@ La integración de la inteligencia artificial será una de las innovaciones más
 
 - **Entrevista #2**
 <p align="center">
-  <img src="assets/chapter02/interviews/developers/interview_s2_adrian.png" style="width:700px; height:auto;" alt="">
+  <img src="assets/chapter02/interviews/developers/interview_s2_manuel.png" style="width:700px; height:auto;" alt="">
 </p>
 
 <table>
@@ -531,7 +531,7 @@ La realidad virtual, los juegos en la nube y la inteligencia artificial para cre
 
 - **Entrevista #3**
 <p align="center">
-  <img src="assets/chapter02/interviews/developers/interview_s2_delatorre.png" style="width:700px; height:auto;" alt="">
+  <img src="assets/chapter02/interviews/developers/interview_s2_delatorre.png" style="width:250px; height:auto;" alt="">
 </p>
 
 <table>
