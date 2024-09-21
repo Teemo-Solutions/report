@@ -453,6 +453,8 @@ El Software Architecture Context Diagram es una representación de alto nivel de
 En el caso de Vortex, una plataforma de recomendaciones de videojuegos dirigida tanto a jugadores como a desarrolladores, este diagrama es crucial para visualizar cómo los distintos módulos colaboran para ofrecer una experiencia de usuario fluida, eficiente y personalizada. Cada interacción refleja cómo los usuarios pueden descubrir nuevos títulos, conectarse con amigos, gestionar sus perfiles y cómo los desarrolladores publican y promocionan sus juegos dentro del sistema.
 
 ### 4.6.1. Software Architecture Context Diagram   
+El Context Diagram no solo define las relaciones entre los componentes internos y externos de Vortex, sino que también sienta las bases para decisiones futuras sobre escalabilidad, seguridad y eficiencia operativa, alineando el desarrollo técnico con los objetivos de negocio.
+
 ### 4.6.2. Software Architecture Container Diagrams
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
