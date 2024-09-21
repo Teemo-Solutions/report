@@ -31,6 +31,15 @@
 
 # Capítulo III: Requirements Specification
 ## 3.1. To-Be Scenario Mapping
+
+### Gamers
+
+<img src="/assets/chapter03/to-be-scenario-image/to-be-scenario-gamers.png" alt="to-be-scenario-gamers" />
+
+### Desarrolladoras
+
+<img src="/assets/chapter03/to-be-scenario-image/to-be-scenario-desarrolladoras.png" alt="to-be-scenario-desarroladoras"/>
+
 ## 3.2. User Stories
 Este documento presenta un conjunto de **User Stories** y **Epics** para la plataforma de videojuegos orientada tanto a **Gamers** como a **Desarrolladores de Videojuegos**. Se incluye el formato de historias de usuario, donde cada una tiene criterios de aceptación en el formato Gherkin, y se presentan tanto las historias para la interfaz del usuario final como las **Technical Stories** para el RESTful API.
 
@@ -719,9 +728,112 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
 <!-- USER STORY 35 -->
 <!-- USER STORY 36 -->
 <!-- USER STORY 37 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US37</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Comparación de Métricas entre Juegos</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> comparar las métricas de diferentes juegos <strong>para</strong> entender qué elementos contribuyen al éxito de un juego en comparación con otros.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Comparar métricas de juegos<br>
+      <strong>Given</strong> que tengo métricas de varios juegos,<br>
+      <strong>When</strong> accedo a la herramienta de comparación,<br>
+      <strong>Then</strong> puedo ver un análisis comparativo de datos como tiempo de juego, tasas de finalización y otros indicadores clave.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 38 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US38</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Evaluación de la Retención de Jugadores</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> evaluar la retención de jugadores <strong>para</strong> entender qué tan bien está manteniendo el interés de los jugadores en mi juego a lo largo del tiempo.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Evaluar retención de jugadores<br>
+      <strong>Given</strong> que tengo acceso a las métricas de retención,<br>
+      <strong>When</strong> reviso las tasas de retención en diferentes periodos,<br>
+      <strong>Then</strong> puedo identificar cómo varía la retención y qué acciones podrían mejorar la permanencia de los jugadores.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 39 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US39</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Reporte de Feedback de Jugadores</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> generar reportes de feedback de jugadores <strong>para</strong> obtener una visión general de las opiniones y sugerencias de los usuarios sobre el juego.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Generar reportes de feedback<br>
+      <strong>Given</strong> que los jugadores dejan comentarios y sugerencias,<br>
+      <strong>When</strong> solicito un reporte de feedback,<br>
+      <strong>Then</strong> recibo un informe que resume las principales opiniones y sugerencias de los jugadores.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 40 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US40</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Análisis de Participación en Eventos del Juego</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> analizar la participación en eventos dentro del juego <strong>para</strong> evaluar el impacto de estos eventos en la actividad de los jugadores y su engagement.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Analizar participación en eventos<br>
+      <strong>Given</strong> que he organizado eventos dentro del juego,<br>
+      <strong>When</strong> reviso las métricas de participación,<br>
+      <strong>Then</strong> puedo ver datos sobre la cantidad de jugadores que participaron y el impacto en la actividad general del juego.
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -743,10 +855,99 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
-<!-- USER STORY 40 -->
 <!-- USER STORY 41 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US41</th>
+    <th>EPIC ID</th>
+    <th>EPIC05</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Publicar Logros en la Comunidad</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> poder publicar mis logros en una sección dedicada de la comunidad, <strong>para</strong> compartir mis éxitos con otros jugadores y recibir retroalimentación.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Publicar un logro</strong><br>
+      <strong>Given</strong> que estoy en la sección de logros,<br>
+      <strong>When</strong> subo una imagen o descripción de mi logro,<br>
+      <strong>Then</strong> el logro se publica en la comunidad.<br><br>
+      <strong>Scenario 2: Visualización del logro</strong><br>
+      <strong>Given</strong> que un logro ha sido publicado,<br>
+      <strong>When</strong> otros jugadores acceden a la sección de logros,<br>
+      <strong>Then</strong> pueden ver el logro publicado.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 42 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US42</th>
+    <th>EPIC ID</th>
+    <th>EPIC05</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Comentar en Logros de Otros Jugadores</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> poder comentar en los logros publicados por otros jugadores,<strong>para</strong> ofrecer retroalimentación y celebrar sus éxitos.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Publicar un comentario</strong><br>
+      <strong>Given</strong> que estoy viendo un logro publicado por otro jugador,<br>
+      <strong>When</strong> escribo un comentario y lo envío,<br>
+      <strong>Then</strong> el comentario se muestra debajo del logro.<br><br>
+      <strong>Scenario 2: Responder a comentarios</strong><br>
+      <strong>Given</strong> que un comentario está en un logro,<br>
+      <strong>When</strong> escribo una respuesta al comentario,<br>
+      <strong>Then</strong> la respuesta se muestra debajo del comentario original.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 43 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US43</th>
+    <th>EPIC ID</th>
+    <th>EPIC05</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Dar "Me Gusta" a Logros</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> poder dar "me gusta" a los logros publicados por otros jugadores,<strong>para</strong> mostrar mi apreciación por sus éxitos.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Dar "Me Gusta"</strong><br>
+      <strong>Given</strong> que estoy viendo un logro en la comunidad,<br>
+      <strong>When</strong> hago clic en el botón "me gusta",<br>
+      <strong>Then</strong> el número de "me gusta" del logro aumenta.<br><br>
+      <strong>Scenario 2: Ver "Me Gusta"</strong><br>
+      <strong>Given</strong> que un logro tiene "me gusta",<br>
+      <strong>When</strong> otros jugadores ven el logro,<br>
+      <strong>Then</strong> pueden ver el número total de "me gusta".
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 44 -->
 <!-- USER STORY 45 -->
 <!-- USER STORY 46 -->
@@ -756,4 +957,13 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
 <!-- USER STORY 50 -->
 
 ## 3.3. Impact Mapping
+
+### Gamers
+
+<img src="/assets/chapter03/impact-mapping-image/Impact-Mapping-gamers.png" alt="impact-mapping-gamers" />
+
+### Desarrolladoras de Videojuegos
+
+<img src="/assets/chapter03/impact-mapping-image/Impact-Mapping-desarrolladoras.png" alt="impact-mapping-desarrolladoras" />
+
 ## 3.4. Product Backlog
