@@ -134,10 +134,16 @@
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Need finding
+
 ### 2.3.1. User Personas
 En esta sección, presentaremos el perfil de nuestros User Persona, resultado de un análisis exhaustivo de las entrevistas realizadas con usuarios potenciales y una evaluación detallada de la competencia en el mercado. Los artefactos que se presentarán a continuación están estrechamente vinculados con las características clave identificadas durante este proceso, reflejando las necesidades, deseos y frustraciones más relevantes de nuestros usuarios objetivo.
 
 A partir de las entrevistas, hemos extraído información valiosa que nos ha permitido definir con precisión y realismo a nuestros User Persona. Estos perfiles son esenciales para diseñar una plataforma que no solo cumpla con las expectativas de nuestros usuarios, sino que también optimice su experiencia en Vortex, maximizando la satisfacción tanto de los gamers como de las empresas desarrolladoras que buscan promover sus títulos en un entorno digital más eficiente.
+
+- ** Segmento Objetivo: Gamers Entusiastas**
+<p align="center">
+  <img src="assets/chapter02/user%20person/user_person1.png"  style="width:150px; height:auto;" alt="">
+</p>
 
 ### 2.3.2. User Task Matrix
 ### 2.3.3. User Journey Mapping
