@@ -455,7 +455,17 @@ En el caso de Vortex, una plataforma de recomendaciones de videojuegos dirigida 
 ### 4.6.1. Software Architecture Context Diagram   
 El Context Diagram no solo define las relaciones entre los componentes internos y externos de Vortex, sino que también sienta las bases para decisiones futuras sobre escalabilidad, seguridad y eficiencia operativa, alineando el desarrollo técnico con los objetivos de negocio.
 
+<p align="center">
+  <img src="assets/chapter04/software%20architecture/context%20diagram/context_diagram.png" style="width:700px; height:auto;" alt="">
+</p>
+
 ### 4.6.2. Software Architecture Container Diagrams
+El Container Diagram representa los principales contenedores de software que forman parte de la arquitectura de Vortex, como aplicaciones web, bases de datos y servicios externos. Este diagrama muestra cómo estos contenedores interactúan entre sí, destacando los flujos de datos y los límites de responsabilidad de cada uno, proporcionando una visión más detallada que el Context Diagram, pero manteniendo un enfoque de alto nivel.
+
+<p align="center">
+  <img src="assets/chapter04/software%20architecture/container%20diagram/container_diagrams.png" style="width:700px; height:auto;" alt="">
+</p>
+
 ### 4.6.3. Software Architecture Components Diagrams
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
