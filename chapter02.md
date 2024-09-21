@@ -598,6 +598,98 @@ Colaboraciones con artistas para "skins" del juego
 La realidad virtual cada vez está mejor, para mi en unos años será el nuevo estándar de videojuegos.
 
 ### 2.2.3. Análisis de entrevistas
+
+**Gráfico 1: Datos Demográficos de Gamers Entusiastas**
+
+Género: 100% Masculino
+
+Edad: Media de 22 años
+
+Estado Civil: 100% Solteros
+
+Ocupación: 100% Estudiantes Universitarios
+
+| Género         | Porcentaje |
+|----------------|------------|
+| Masculino      | 100%       |
+| Femenino       | 0%         |
+
+| Edad           | Media      |
+|----------------|------------|
+| 19 - 24 años   | 100%       |
+
+| Estado Civil   | Porcentaje |
+|----------------|------------|
+| Soltero        | 100%       |
+| Casado         | 0%         |
+
+| Ocupación      | Porcentaje |
+|----------------|------------|
+| Estudiante     | 100%       |
+
+**Gráfico 2: Motivaciones de Compra de Gamers**
+
+Factores Clave:
+
+Calidad Gráfica: 100%
+
+Jugabilidad: 100%
+
+Recomendaciones: 100%
+
+Componente Competitivo: 67%
+
+| Factores Clave                     | Porcentaje |
+|------------------------------------|------------|
+| Calidad Gráfica                    | 100%       |
+| Jugabilidad                        | 100%       |
+| Recomendaciones de Otros Jugadores | 100%       |
+| Componente Competitivo              | 67%        |
+
+**Gráfico 3: Frustraciones de Gamers al Buscar Videojuegos**
+
+Dificultad para Encontrar Juegos: 50%
+
+Falta de Información Fiable: 50%
+
+| Frustraciones                                | Porcentaje |
+|----------------------------------------------|------------|
+| Dificultad para Encontrar Juegos             | 50%        |
+| Falta de Información Fiable                  | 50%        |
+
+**Gráfico 4: Desafíos para Empresas Desarrolladoras**
+
+Saturación del Mercado: 100%
+
+Cumplimiento de Expectativas: 100%
+
+| Desafíos                                   | Porcentaje |
+|--------------------------------------------|------------|
+| Saturación del Mercado                     | 100%       |
+| Cumplimiento de Expectativas               | 100%       |
+
+**Gráfico 5: Estrategias de Marketing para Empresas**
+
+Colaboraciones con Influencers: 100%
+
+Acceso Anticipado: 50%
+
+| Estrategias de Marketing                  | Porcentaje |
+|-------------------------------------------|------------|
+| Colaboraciones con Influencers            | 100%       |
+| Acceso Anticipado                         | 50%        |
+
+**Gráfico 6: Opiniones sobre el Modelo de Suscripción**
+
+Atractivo para Jugadores: 100%
+
+Atractivo para Desarrolladores: 100%
+
+| Opiniones sobre Modelo de Suscripción     | Porcentaje |
+|-------------------------------------------|------------|
+| Atractivo para Jugadores                  | 100%       |
+| Atractivo para Desarrolladores            | 100%       |
+
 ## 2.3. Need finding
 
 ### 2.3.1. User Personas
