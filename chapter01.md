@@ -44,11 +44,11 @@ Además, las empresas desarrolladoras pueden promocionar sus juegos directamente
 ### 1.1.2. Perfiles de integrantes del equipo
 <table>
   <tr>
-    <th colspan="2">Quijandria Aranedal, Vicente </th>
+    <th colspan="2">Quijandria Araneda, Vicente </th>
   </tr>
   <tr>
     <td><img src="assets/chapter01/team/vicente-photo.png" style="width:500px; height:auto;" alt=""></td>
-    <td>descripción</td>
+    <td>Mi nombre es Vicente Quijandria, tengo 24 años y estudio Ingeniería de Software en la UPC. Me apasiona mucho el desarrollo de aplicaciones, los algoritmos y estructuras de datos y las arquitecturas de software. Actualmente trabajo como Analista de Despliegues en la empresa Tech-Mahindra aunque me gustaria cambiar de área a desarrollo. En mis tiempos libres me gusta ver futbol, programar y pasar tiempo de calidad con mi enamorada, familia y amigos. </td>
   </tr>
   <tr>
     <th colspan="2">Lizano Coll Cardenas, Fernando Jesus</th>
