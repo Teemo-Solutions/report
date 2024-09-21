@@ -142,7 +142,7 @@ A partir de las entrevistas, hemos extraído información valiosa que nos ha per
 
 - ** Segmento Objetivo: Gamers Entusiastas**
 <p align="center">
-  <img src="assets/chapter02/user%20person/user_person1.png"  style="width:150px; height:auto;" alt="">
+  <img src="assets/chapter02/user%20person/user_person1.png"  style="width:500px; height:auto;" alt="">
 </p>
 
 ### 2.3.2. User Task Matrix
