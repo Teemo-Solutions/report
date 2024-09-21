@@ -791,6 +791,14 @@ El siguiente mapa ilustra los recorridos actuales (As-Is) de dos tipos de usuari
   <img src="assets/chapter02/AS-IS%20scenario/as-is_scenario_seg02.png"  style="width:500px; height:auto;" alt="">
 </p>
 
+Puedes acceder al contenido, pulsando sobre el icono:
+
+<p align="center">
+  <a href="https://miro.com/app/board/uXjVKYSGw5Y=/">
+    <img src="assets/logos/miro_icon.png" style="width:200px; height:auto;">
+  </a>
+</p>
+
 ## 2.4. Ubiquitous Language
 El "Lenguaje Ubicuo" de Vortex permitirá establecer un vocabulario común entre el equipo de desarrollo y los usuarios, facilitando la comprensión y comunicación de los conceptos clave relacionados con la recomendación de videojuegos y la interacción social dentro de la plataforma.
 
