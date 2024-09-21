@@ -467,6 +467,12 @@ El Container Diagram representa los principales contenedores de software que for
 </p>
 
 ### 4.6.3. Software Architecture Components Diagrams
+El Component Diagram profundiza en los contenedores específicos de la arquitectura de Vortex, detallando los componentes internos que conforman cada uno de ellos. Este diagrama permite identificar las responsabilidades de cada componente dentro de su contenedor, facilitando la comprensión del flujo de trabajo interno y la interacción entre las distintas partes de la plataforma.
+
+<p align="center">
+  <img src="assets/chapter04/software%20architecture/components%20diagram/components%20diagrams.png" style="width:700px; height:auto;" alt="">
+</p>
+
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
