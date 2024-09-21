@@ -178,11 +178,11 @@
 
 **Segmento Objetivo: Gamers Entusiastas**
 
+- **Entrevista #1**
 <p align="center">
   <img src="assets/chapter02/interviews/gamers/interview_s1_bruno.png" style="width:700px; height:auto;" alt="">
 </p>
 
-- **Entrevista #1**
 <table>
   <tr>
     <th>Nombre</th>
