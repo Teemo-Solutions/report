@@ -254,7 +254,6 @@ Considera el modelo de suscripción atractivo, especialmente si ofrece acceso a 
 
 Le gustaría ver más avances en la realidad virtual y aumentada, juegos que integren mejor la inteligencia artificial para ofrecer experiencias más personalizadas y desafiantes, y un crecimiento en el ámbito de los eSports, con más oportunidades para jugadores profesionales.
 
----
 - **Entrevista #2**
 <p align="center">
   <img src="assets/chapter02/interviews/gamers/interview_s1_paolo.png" style="width:700px; height:auto;" alt="">
@@ -323,6 +322,73 @@ Creo que el modelo de suscripción es una excelente oportunidad para aprovechar 
 **¿Qué tendencias o innovaciones te gustaría ver en el futuro de la industria de los videojuegos?**
 Me gustaría ver una tendencia hacia la normalización de los videojuegos como un pasatiempo accesible para cualquier persona, similar a cómo se percibe el streaming de series y películas en plataformas como Netflix. Esto ayudaría a eliminar el estigma de los videojuegos y permitiría que más personas disfruten de este medio de entretenimiento.
 
+- **Entrevista #3**
+<p align="center">
+  <img src="assets/chapter02/interviews/gamers/interview_s1_juan.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Juan Pescorán</th>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>19 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Barranco</td>
+  </tr>
+  <tr>
+    <td>Estado Civil</td>
+    <td>Soltero</td>
+  </tr>
+  <tr>
+    <td>Familia</td>
+    <td>No tiene hijos</td>
+  </tr>
+  <tr>
+    <td>Ocupación</td>
+    <td>Estudiante universitario de Ingeniería de Software y gamer profesional en diversos videojuegos</td>
+  </tr>
+  <tr>
+    <td>URL</td>
+    <td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EbNg3QJl4Z1PrUnf1czeDBoBJeYpF7fKdFBOHQC9ymSm6w?e=NeyNfu">Entrevistas Generales</a></td>
+  </tr>
+  <tr>
+    <td>Inicio de entrevista</td>
+    <td>18:43</td>
+  </tr>
+  <tr>
+    <td>Fin de entrevista</td>
+    <td></td>
+  </tr>
+</table>
+
+**¿Qué factores influyen más en tu decisión de comprar o jugar un videojuego nuevo?**
+Mi principal motivación para elegir un videojuego es su relevancia en el ámbito competitivo, especialmente en los shooters, ya que estos juegos son mi fuente de ingresos. También considero la opinión de la comunidad sobre el juego, buscando que esté alineada con mis preferencias y que las especificaciones técnicas cumplan con los estándares requeridos para un rendimiento óptimo.
+
+**¿Qué características o funcionalidades te gustaría ver en una plataforma ideal para descubrir y conectar con videojuegos?**
+Una plataforma ideal debería conocer a fondo mis gustos y ofrecer recomendaciones alineadas tanto con mis intereses personales como con los de mis amigos. Me gustaría ver ofertas de videojuegos en mi feed que se ajusten a mi perfil y permitan una mejor experiencia de compra y descubrimiento.
+
+**¿Qué papel juegan las comunidades online y las redes sociales en tu experiencia de juego?**
+Las comunidades online y las redes sociales juegan un rol fundamental en mi experiencia de juego, especialmente en el ámbito profesional de los shooters. La interacción constante con otros jugadores es crucial para el desarrollo de estrategias y el fortalecimiento de la comunidad. Además, utilizo las redes sociales para mantenerme informado sobre noticias y ofertas relevantes.
+
+**¿Qué tipo de contenido o servicios adicionales estarías dispuesto a pagar en relación con los videojuegos?**
+Considero que pagar una suscripción para probar diferentes videojuegos es una opción valiosa, siempre y cuando se ofrezca la flexibilidad de cancelar el servicio cuando no sea necesario. Este modelo me permite explorar varios juegos sin comprometerme a compras individuales.
+
+**¿Cuáles son tus principales frustraciones o desafíos al buscar y elegir nuevos videojuegos?**
+Mis principales frustraciones radican en la falta de atractivo de ciertas comunidades; si una comunidad no es activa o atractiva, el videojuego también pierde interés para mí. Asimismo, las malas reseñas pueden ser un obstáculo importante que me desmotiva a probar nuevos títulos.
+
+**¿Qué importancia le das a las recomendaciones personalizadas y a la capacidad de conectar con otros jugadores con intereses similares?**
+Doy mucha importancia a las recomendaciones personalizadas, especialmente cuando me ayudan a descubrir juegos más allá de los típicos títulos triple A. Los juegos indie o menos conocidos a menudo carecen de visibilidad en otras plataformas, por lo que una mayor exposición en las recomendaciones sería muy beneficiosa.
+
+**¿Qué opinas sobre el modelo de suscripción en el contexto de los videojuegos y plataformas de juego?**
+El modelo de suscripción es una excelente opción, ya que permite disfrutar de una amplia variedad de contenido sin comprometerse a largo plazo. Esto genera confianza hacia la empresa y da acceso a un entretenimiento variado que se adapta a las preferencias del usuario.
+
+**¿Qué tendencias o innovaciones te gustaría ver en el futuro de la industria de los videojuegos?**
+Estoy interesado en ver cómo avanza la realidad virtual y cómo puede revolucionar la experiencia de juego. Además, creo que es esencial promover una mayor libertad en la comunicación y la expresión dentro de los videojuegos, permitiendo una interacción más auténtica y dinámica entre los jugadores.
 
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Need finding
