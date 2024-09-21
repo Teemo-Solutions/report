@@ -768,6 +768,18 @@ El siguiente mapa ilustra los recorridos actuales (As-Is) de dos tipos de usuari
 </p>
 
 ### 2.3.4. Empathy Mapping
+El siguiente mapa ilustra los recorridos actuales (As-Is) de dos tipos de usuarios clave: Gamer Entusiasta y Empresa Desarrolladora de Videojuegos. Cada User Journey muestra cómo interactúan estos usuarios con los juegos o plataformas existentes y los desafíos que enfrentan, desde el descubrimiento hasta el abandono o la continuidad de su uso. Estos journeys son esenciales para identificar áreas clave de oportunidad que nuestra plataforma buscará mejorar.
+
+- ** Segmento Objetivo: Gamers Entusiastas**
+<p align="center">
+  <img src="assets/chapter02/journey%20mapping/journey_map_seg01.png"  style="width:500px; height:auto;" alt="">
+</p>
+
+- ** Segmento Objetivo: Empresas Desarrolladoras de videojuegos**
+<p align="center">
+  <img src="assets/chapter02/journey%20mapping/journey_map_seg02.png"  style="width:500px; height:auto;" alt="">
+</p>
+
 ### 2.3.5. As-is Scenario Mapping
 ## 2.4. Ubiquitous Language
 El "Lenguaje Ubicuo" de Vortex permitirá establecer un vocabulario común entre el equipo de desarrollo y los usuarios, facilitando la comprensión y comunicación de los conceptos clave relacionados con la recomendación de videojuegos y la interacción social dentro de la plataforma.
