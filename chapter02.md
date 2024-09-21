@@ -781,6 +781,16 @@ El siguiente mapa ilustra los recorridos actuales (As-Is) de dos tipos de usuari
 </p>
 
 ### 2.3.5. As-is Scenario Mapping
+- ** Segmento Objetivo: Gamers Entusiastas**
+<p align="center">
+  <img src="assets/chapter02/AS-IS%20scenario/as-is_scenario_seg01.png"  style="width:500px; height:auto;" alt="">
+</p>
+
+- ** Segmento Objetivo: Empresas Desarrolladoras de videojuegos**
+<p align="center">
+  <img src="assets/chapter02/AS-IS%20scenario/as-is_scenario_seg02.png"  style="width:500px; height:auto;" alt="">
+</p>
+
 ## 2.4. Ubiquitous Language
 El "Lenguaje Ubicuo" de Vortex permitirá establecer un vocabulario común entre el equipo de desarrollo y los usuarios, facilitando la comprensión y comunicación de los conceptos clave relacionados con la recomendación de videojuegos y la interacción social dentro de la plataforma.
 
