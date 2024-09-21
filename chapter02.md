@@ -708,6 +708,28 @@ A partir de las entrevistas, hemos extraído información valiosa que nos ha per
 </p>
 
 ### 2.3.2. User Task Matrix
+
+En esta sección se presenta el **User Task Matrix**, que detalla las tareas que los **User Personas** realizan para alcanzar sus objetivos. Los segmentos considerados son:
+
+1. **Gamer Entusiasta**: Representado por Diego Ramos, un gamer competitivo que busca desafíos constantes y conexión con otros jugadores.
+2. **Empresa Desarrolladora de Videojuegos (Pequeña/Mediana Empresa)**: Representado por PlayX Studio, un estudio indie que busca mayor visibilidad y retroalimentación de los jugadores.
+
+El cuadro a continuación incluye como columnas a los **User Personas**, desglosados en sub-columnas de Frecuencia e Importancia, donde se especifica cómo cada tarea contribuye a sus objetivos generales.
+
+| **Tareas**                                           | **Gamer Entusiasta**       |                          | **Empresa Desarrolladora** |                          |
+|------------------------------------------------------|----------------------------|--------------------------|----------------------------|--------------------------|
+|                                                      | **Frecuencia**             | **Importancia**           | **Frecuencia**             | **Importancia**           |
+| **Buscar nuevos juegos que coincidan con sus gustos** | Alta                       | Muy Alta                  | Media                      | Alta                      |
+| **Conectar con amigos en la plataforma**             | Alta                       | Muy Alta                  | Baja                       | Media                     |
+| **Participar en comunidades de gaming**              | Media                      | Alta                      | Baja                       | Media                     |
+| **Seguir y participar en torneos de eSports**        | Alta                       | Alta                      | Baja                       | Media                     |
+| **Probar juegos nuevos o prototipos**                | Media                      | Media                     | Alta                       | Alta                      |
+| **Obtener retroalimentación de los jugadores**       | Baja                       | Media                     | Muy Alta                   | Muy Alta                  |
+| **Publicar actualizaciones de sus juegos**           | Baja                       | Baja                      | Alta                       | Muy Alta                  |
+| **Establecer conexiones con otros desarrolladores**  | Baja                       | Media                     | Alta                       | Alta                      |
+| **Analizar tendencias y preferencias del mercado**   | Media                      | Alta                      | Muy Alta                   | Muy Alta                  |
+| **Optimizar el rendimiento de sus juegos**           | Baja                       | Media                     | Alta                       | Muy Alta                  |
+
 ### 2.3.3. User Journey Mapping
 ### 2.3.4. Empathy Mapping
 ### 2.3.5. As-is Scenario Mapping
