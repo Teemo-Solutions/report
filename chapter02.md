@@ -129,8 +129,54 @@
 </table>
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
+
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
+
+**Segmento Objetivo: Gamers Entusiastas**
+- **Datos demográficos:**
+  - ¿Cuál es tu género?
+  - ¿Qué edad tienes?
+  - ¿En qué distrito resides? 
+  - ¿Cuál es tu estado civil?
+  - ¿Tienes hijos o dependientes? Si es así, ¿cuántos? 
+  - ¿Cuál es tu ocupación?
+
+<br>
+
+- **Intereses y motivaciones:**
+  - ¿Qué factores influyen más en tu decisión de comprar o jugar un videojuego nuevo?
+  - ¿Qué características o funcionalidades te gustaría ver en una plataforma ideal para descubrir y conectar con videojuegos?
+  - ¿Qué papel juegan las comunidades online y las redes sociales en tu experiencia de juego?
+  - ¿Qué tipo de contenido o servicios adicionales estarías dispuesto a pagar en relación con los videojuegos?
+  - ¿Cuáles son tus principales frustraciones o desafíos al buscar y elegir nuevos videojuegos?
+  - ¿Qué importancia le das a las recomendaciones personalizadas y a la capacidad de conectar con otros jugadores con intereses similares?
+  - ¿Qué opinas sobre el modelo de suscripción en el contexto de los videojuegos y plataformas de juego?
+  - ¿Qué tendencias o innovaciones te gustaría ver en el futuro de la industria de los videojuegos?
+
+<br>
+
+Segmento Objetivo: Empresas Desarrolladoras de Videojuegos
+
+- **Datos demográficos:**
+    - ¿Cuál es tu género?
+    - ¿Qué edad tienes?
+    - ¿En qué distrito resides?
+    - ¿Cuál es tu estado civil?
+    - ¿Tienes hijos o dependientes? Si es así, ¿cuántos?
+
+<br>
+
+- **Desafíos y estrategias:**
+  - ¿Cuáles son los mayores desafíos que enfrentan actualmente en la industria de los videojuegos?
+  - ¿Qué estrategias de marketing y promoción consideran más efectivas para llegar a su público objetivo?
+  - ¿Qué papel juegan las comunidades de jugadores y las redes sociales en su estrategia de marketing y desarrollo de videojuegos?
+  - ¿Qué tipo de datos o métricas consideran más valiosos para evaluar el éxito de sus videojuegos?
+  - ¿Qué características o funcionalidades buscan en una plataforma ideal para promocionar y distribuir sus videojuegos?
+  - ¿Qué opinan sobre el modelo de suscripción como una forma de monetización y distribución de videojuegos?
+  - ¿Qué tipo de colaboraciones o asociaciones buscan con otras empresas o plataformas en la industria de los videojuegos?
+  - ¿Qué tendencias o innovaciones creen que tendrán un mayor impacto en el futuro de la industria de los videojuegos?
+
 ### 2.2.2. Registro de entrevistas
 ### 2.2.3. Análisis de entrevistas
 ## 2.3. Need finding
@@ -145,7 +191,7 @@ A partir de las entrevistas, hemos extraído información valiosa que nos ha per
   <img src="assets/chapter02/user%20person/user_person1.png"  style="width:500px; height:auto;" alt="">
 </p>
 
-- ** Segmento Objetivo: Empresas Desarrolladoras**
+- ** Segmento Objetivo: Empresas Desarrolladoras de videojuegos**
 <p align="center">
   <img src="assets/chapter02/user%20person/user_person2.png"  style="width:500px; height:auto;" alt="">
 </p>
