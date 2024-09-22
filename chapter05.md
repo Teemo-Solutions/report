@@ -265,7 +265,13 @@ En esta sección se describe las herramientas de software que utilizamos para co
 - **Ruta:** [Landing Page](https://teemo-solutions.github.io/Landing-Page_OpenSource/)
 
 ### 5.1.2. Source Code Management
-- Landing Page Repository: [Landing Page Repository]()
+- Landing Page Repository:
+
+<p align="center">
+  <a href="https://github.com/Teemo-Solutions/Landing-Page_OpenSource.git">
+    <img src="assets/logos/teemo_solutions_icon.jpg" style="width:200px; height:auto;" alt="">
+  </a>
+</p>
 
 - **GitFlow Implementation:** Para implementar el flujo de trabajo Gitflow utilizando Git como nuestra herramienta de control de versiones, nos basamos en la entrada de blog "A successful Git branching model" de Vincent Driessen. Esta referencia nos permitió establecer las convenciones detalladas que serán aplicadas en nuestro proyecto
 
