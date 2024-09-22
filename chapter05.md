@@ -207,7 +207,7 @@ En esta sección se describe las herramientas de software que utilizamos para co
 - **Producto 5:** BootStrap
 
 <p align="center">
-  <img src="assets/logos/bootstrap_icon.svg" style="width:150px; height:auto;" alt="">
+  <img src="assets/logos/bootstrap_icon.png" style="width:150px; height:auto;" alt="">
 </p>
 
 - **Propósito:** Se utilizó Bootstrap como framework CSS para agilizar el diseño y la maquetación de la landing page. Gracias a sus componentes y sistema de grid responsivo, se logró una interfaz coherente y adaptable a diferentes dispositivos, facilitando el desarrollo y asegurando una experiencia de usuario fluida.
