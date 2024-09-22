@@ -130,6 +130,21 @@ En esta sección se describe las herramientas de software que utilizamos para co
   <img src="assets/chapter05/environments/structurizr_evidence.png" style="width:900px; height:auto;" alt="">
 </p>
 
+**Product UX/UI Design:**
+
+- **Producto 1:** Figma
+
+<p align="center">
+  <img src="assets/logos/figma_icon.png" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó Figma para la elaboración de wireframes y mockups, permitiendo la creación de prototipos visuales interactivos. Esta herramienta facilitó la colaboración en el diseño de la interfaz de usuario y ayudó al equipo a iterar rápidamente sobre diferentes ideas antes de pasar a la implementación.
+- **Ruta:** [Figma de Teemo Solutions](https://www.figma.com/design/EYLzLCQ7Q0tj2w1ZfziK7D/TEEMO---FIGMA?node-id=0-1&t=iyhc8ybj8AX8zYjc-1)
+- **Evidencia:**
+
+<p align="center">
+  <img src="assets/chapter05/environments/figma_evidence.png" style="width:900px; height:auto;" alt="">
+</p>
 
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
