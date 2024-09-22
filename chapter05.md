@@ -232,6 +232,18 @@ En esta sección se describe las herramientas de software que utilizamos para co
 
 - **Propósito:** Se utilizó Gherkin como lenguaje de especificación para los testeos del proyecto, facilitando la redacción de pruebas de aceptación legibles y comprensibles tanto para desarrolladores como para partes interesadas no técnicas.
 
+**Software Documentation:**
+
+- **Producto 1:** GitHub
+
+<p align="center">
+  <img src="assets/logos/github_icon.png" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó GitHub para el manejo del repositorio del proyecto, permitiendo un control de versiones efectivo y la colaboración entre los miembros del equipo. Esta plataforma facilitó el seguimiento de cambios, la gestión de ramas y la revisión de código, asegurando que el desarrollo se mantuviera organizado y documentado.
+- **Ruta:** [GitHub de Teemo Solutions](https://github.com/Teemo-Solutions)
+
+
 
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
