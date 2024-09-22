@@ -113,6 +113,24 @@ En esta sección se describe las herramientas de software que utilizamos para co
 <p align="center">
   <img src="assets/chapter05/environments/uxpressia_evidence.png" style="width:900px; height:auto;" alt="">
 </p>
+
+---
+
+- **Producto 3:** Structurizr
+
+<p align="center">
+  <img src="assets/logos/structurizr_icon.png" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó Structurizr para la creación de diagramas de componentes, contexto y contenedores. Esta herramienta ayudó al equipo a visualizar la arquitectura del sistema de manera clara y estructurada, facilitando la comprensión de cómo se interrelacionan los diferentes elementos del software y garantizando una planificación más eficiente.
+- **Ruta:** [Structurizr de Teemo Solutions]()
+- **Evidencia:**
+
+<p align="center">
+  <img src="assets/chapter05/environments/structurizr_evidence.png" style="width:900px; height:auto;" alt="">
+</p>
+
+
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
