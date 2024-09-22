@@ -146,6 +146,22 @@ En esta sección se describe las herramientas de software que utilizamos para co
   <img src="assets/chapter05/environments/figma_evidence.png" style="width:900px; height:auto;" alt="">
 </p>
 
+---
+
+- **Producto 1:** LucidChart
+
+<p align="center">
+  <img src="assets/logos/lucidchart_icon.png" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó LucidChart para la creación de diagramas de clases y de base de datos, proporcionando una representación clara de la estructura del sistema. Esta herramienta facilitó la organización y planificación de la lógica de la aplicación, así como la estructura de almacenamiento de datos, asegurando que todos los elementos estuvieran correctamente interrelacionados.
+- **Ruta:** [LucidChart de Teemo Solutions](https://lucid.app/lucidchart/5b93f4de-6135-4dcb-9f66-3f7f3fb2f005/edit?viewport_loc=-504%2C665%2C4992%2C2421%2C0_0&invitationId=inv_9f021ed4-6889-4f14-a487-05dd6b693eff")
+- **Evidencia:**
+
+<p align="center">
+  <img src="assets/chapter05/environments/lucidchart_evidence.png" style="width:900px; height:auto;" alt="">
+</p>
+
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
