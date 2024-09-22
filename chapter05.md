@@ -36,7 +36,7 @@ En esta sección se describe las herramientas de software que utilizamos para co
 
 **Project Management:**
 
-- **Producto:** Whatsapp
+- **Producto 1:** Whatsapp
 
 <p align="center">
   <img src="assets/logos/whatsapp_icon.png" style="width:150px; height:auto;" alt="">
@@ -50,7 +50,7 @@ En esta sección se describe las herramientas de software que utilizamos para co
   <img src="assets/chapter05/environments/whatsapp_evidence.png" style="width:300px; height:auto;" alt="">
 </p>
 
-- **Producto:** Discord
+- **Producto 2:** Discord
 
 <p align="center">
   <img src="assets/logos/discord_icon.jpg" style="width:150px; height:auto;" alt="">
