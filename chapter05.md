@@ -98,6 +98,21 @@ En esta sección se describe las herramientas de software que utilizamos para co
   <img src="assets/chapter05/environments/miro_evidence.png" style="width:900px; height:auto;" alt="">
 </p>
 
+---
+
+- **Producto 2:** UXPressia
+
+<p align="center">
+  <img src="assets/logos/uxpressia_icon.jpeg" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó UXPressia para la elaboración de mapas de empatía y user personas, permitiendo al equipo profundizar en la comprensión de las necesidades y comportamientos de los usuarios. Esta herramienta fue clave para definir los perfiles de usuario y crear experiencias más alineadas con sus expectativas y emociones.
+- **Ruta:** Esta ruta no puede ser compartida a menos que se haya adquirido una suscripción.
+- **Evidencia:**
+
+<p align="center">
+  <img src="assets/chapter05/environments/uxpressia_evidence.png" style="width:900px; height:auto;" alt="">
+</p>
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
