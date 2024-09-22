@@ -243,6 +243,15 @@ En esta sección se describe las herramientas de software que utilizamos para co
 - **Propósito:** Se utilizó GitHub para el manejo del repositorio del proyecto, permitiendo un control de versiones efectivo y la colaboración entre los miembros del equipo. Esta plataforma facilitó el seguimiento de cambios, la gestión de ramas y la revisión de código, asegurando que el desarrollo se mantuviera organizado y documentado.
 - **Ruta:** [GitHub de Teemo Solutions](https://github.com/Teemo-Solutions)
 
+---
+
+- **Producto 1:** Rider
+
+<p align="center">
+  <img src="assets/logos/rider_icon.png" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó Rider como entorno de desarrollo integrado (IDE) para el proyecto, proporcionando herramientas avanzadas para la edición de código, depuración y gestión de proyectos.
 
 
 ### 5.1.2. Source Code Management
