@@ -387,6 +387,32 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
       ~~~
 
 ### 5.1.4. Software Deployment Configuration
+- **Creación y Deploy de la landing page**
+
+1. Se crea un repositorio remoto en GitHub, se puede acceder por la siguiente ruta: [Repositorio de la Landing Page](https://github.com/Teemo-Solutions/Landing-Page_OpenSource.git)
+
+<p align="center">
+  <img src="assets/chapter05/deploy/paso1.png" style="width:500px; height:auto;" alt="">
+</p>
+
+2. Agregar a participantes
+
+<p align="center">
+  <img src="assets/chapter05/deploy/paso2.png" style="width:500px; height:auto;" alt="">
+</p>
+
+3. Habilitamos GitHub Pages en branch "master" y ruta "/(root)"
+
+<p align="center">
+  <img src="assets/chapter05/deploy/paso3.png" style="width:500px; height:auto;" alt="">
+</p>
+
+4. ya se puede visualizar la landing page en la siguiente ruta: [Landing Page](https://teemo-solutions.github.io/Landing-Page_OpenSource/)
+
+<p align="center">
+  <img src="assets/chapter05/deploy/paso4.jpg" style="width:500px; height:auto;" alt="">
+</p>
+
 ## 5.2. Landing Page, Services & Applications Implementation
 ## 5.2.X. Sprint n
 ## 5.2.X.1. Sprint Planning n
