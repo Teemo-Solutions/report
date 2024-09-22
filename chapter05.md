@@ -414,15 +414,15 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
 </p>
 
 ## 5.2. Landing Page, Services & Applications Implementation
-## 5.2.X. Sprint n
-## 5.2.X.1. Sprint Planning n
-## 5.2.X.2. Sprint Backlog n
-## 5.2.X.3. Development Evidence for Sprint Review
-## 5.2.X.4. Testing Suite Evidence for Sprint Review
-## 5.2.X.5. Execution Evidence for Sprint Review
-## 5.2.X.6. Services Documentation Evidence for Sprint Review
-## 5.2.X.7. Software Deployment Evidence for Sprint Review
-## 5.2.X.8. Team Collaboration Insights during Sprint
+## 5.2.1. Sprint 1
+## 5.2.1.1. Sprint Planning 1
+## 5.2.1.2. Sprint Backlog 1
+## 5.2.1.3. Development Evidence for Sprint Review
+## 5.2.1.4. Testing Suite Evidence for Sprint Review
+## 5.2.1.5. Execution Evidence for Sprint Review
+## 5.2.1.6. Services Documentation Evidence for Sprint Review
+## 5.2.1.7. Software Deployment Evidence for Sprint Review
+## 5.2.1.8. Team Collaboration Insights during Sprint
 ## 5.3. Validation Interviews
 ## 5.3.1. Diseño de Entrevistas
 ## 5.3.2. Registro de Entrevistas
