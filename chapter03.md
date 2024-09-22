@@ -1247,3 +1247,268 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
 <img src="/assets/chapter03/impact-mapping-image/Impact-Mapping-desarrolladoras.png" alt="impact-mapping-desarrolladoras" />
 
 ## 3.4. Product Backlog
+
+<table border="1">
+  <tr>
+    <th>Orden</th>
+    <th>User Story Id</th>
+    <th>Título</th>
+    <th>Descripción</th>
+    <th>Story Points</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>US01</td>
+    <td>Filtrado de Juegos por Género</td>
+    <td>Como gamer, quiero poder filtrar juegos por género para encontrar rápidamente aquellos que me interesan.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>US15</td>
+    <td>Búsqueda de Juegos por Palabra Clave</td>
+    <td>Como gamer, quiero buscar juegos usando palabras clave, para encontrar juegos específicos rápidamente.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>US11</td>
+    <td>Sistema de Revisión de Juegos</td>
+    <td>Como gamer, quiero ver reseñas de otros jugadores antes de comprar un juego, para tomar una mejor decisión de compra.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>US16</td>
+    <td>Acceso a Demos de Juegos</td>
+    <td>Como gamer, quiero poder acceder a demos de juegos antes de comprarlos, para probar si me gustan antes de hacer una compra.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td rowspan="3">5</td>
+    <td rowspan="3">US02</td>
+    <td rowspan="3">Recomendaciones Basadas en Género Favorito</td>
+    <td>Como gamer, quiero recibir recomendaciones de juegos en mi género favorito para descubrir más juegos similares.</td>
+    <td rowspan="2">3</td>
+  </tr>
+  <tr>
+    <td>Como gamer, quiero que me recomienden juegos similares a aquellos en los que he invertido más tiempo, para seguir disfrutando de ese tipo de juegos.</td>
+  </tr>
+  <tr>
+    <td>Como gamer, quiero ver los juegos más populares entre mis amigos para descubrir qué están jugando.</td>
+    <td>5</td>
+
+  <tr>
+    <td rowspan="2">6</td>
+    <td rowspan="2">US04</td>
+    <td rowspan="2">Recomendaciones Basadas en Tiempo Jugado</td>
+    <td>Como gamer, quiero que me recomienden juegos similares a aquellos en los que he invertido más tiempo, para seguir disfrutando de ese tipo de juegos.</td>
+    <td rowspan="2">5</td>
+  </tr>
+  <tr>
+    <td>Como gamer, quiero ver los juegos más populares entre mis amigos para descubrir qué están jugando.</td>
+  </tr>
+  <tr>
+    <td>7</td>
+    <td>US03</td>
+    <td>Recomendaciones Basadas en Popularidad entre Amigos</td>
+    <td>Como gamer, quiero ver los juegos más populares entre mis amigos para descubrir qué están jugando.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>8</td>
+    <td>US22</td>
+    <td>Modo Offline para Juegos Indie</td>
+    <td>Como gamer, quiero que algunos juegos indie sean jugables en modo offline, para poder jugar incluso sin conexión a internet.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>9</td>
+    <td>US05</td>
+    <td>Invitación a Amigos para Jugar</td>
+    <td>Como gamer, quiero invitar a mis amigos a jugar un juego conmigo, para compartir experiencias de juego.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>10</td>
+    <td>US06</td>
+    <td>Chat en Tiempo Real</td>
+    <td>Como gamer, quiero un sistema de chat en tiempo real, para comunicarme con mis amigos mientras jugamos juntos.</td>
+    <td>5</td>
+  <tr>
+    <td>11</td>
+    <td>US14</td>
+    <td>Creación de Comunidades de Juego</td>
+    <td>Como gamer, quiero unirme a comunidades de jugadores de un mismo juego, para compartir estrategias y experiencias.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>12</td>
+    <td>US17</td>
+    <td>Personalización de Perfil de Jugador</td>
+    <td>Como gamer, quiero personalizar mi perfil en la plataforma para reflejar mis gustos y mostrar mi progreso en los juegos.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>13</td>
+    <td>US19</td>
+    <td>Visualización de Rankings de Jugadores</td>
+    <td>Como gamer, quiero ver mi posición en el ranking de jugadores de un juego, para comparar mi progreso con el de otros jugadores.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>14</td>
+    <td>US20</td>
+    <td>Sistema de Logros</td>
+    <td>Como gamer, quiero desbloquear logros en los juegos que juego, para mejorar mi experiencia y ganar recompensas.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>15</td>
+    <td>US21</td>
+    <td>Notificaciones en Tiempo Real</td>
+    <td>Como gamer, quiero recibir notificaciones en tiempo real cuando mis amigos comiencen a jugar un nuevo juego, para unirme a ellos de inmediato.</td>
+    <td>5</td>
+  </tr>
+    <tr>
+    <td>16</td>
+    <td>US07</td>
+    <td>Compartir Reseñas de Juegos</td>
+    <td>Como gamer, quiero compartir reseñas de los juegos que he jugado, para ayudar a otros jugadores a decidir si quieren probarlos.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>17</td>
+    <td>US08</td>
+    <td>Publicar Juego Indie</td>
+    <td>Como desarrollador, quiero poder publicar mi juego indie en la plataforma, para llegar a una audiencia más amplia.</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>18</td>
+    <td>US12</td>
+    <td>Subir Actualizaciones de Juegos</td>
+    <td>Como desarrollador, quiero subir actualizaciones para mi juego publicado, para corregir errores y mejorar la experiencia del usuario.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>19</td>
+    <td>US09</td>
+    <td>Actualización de Juegos Indie</td>
+    <td>Como desarrollador, quiero poder actualizar la información de mi juego indie para corregir errores o agregar nuevas características.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>US18</td>
+    <td>Creación de Torneos</td>
+    <td>Como desarrollador, quiero crear torneos para mi juego, para fomentar la competencia entre los jugadores.</td>
+    <td>8</td>
+  </tr>
+    <tr>
+    <td>21</td>
+    <td>US10</td>
+    <td>Visualización de Métricas de Jugadores</td>
+    <td>Como desarrollador, quiero ver métricas detalladas sobre cómo los jugadores interactúan con mi juego, para mejorar la experiencia del usuario.</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>22</td>
+    <td>US13</td>
+    <td>Análisis de Comportamiento de Jugadores</td>
+    <td>Como desarrollador, quiero analizar el comportamiento de los jugadores para identificar puntos de fricción en mi juego.</td>
+    <td>8</td>
+  </tr>
+  <tr>
+    <td>23</td>
+    <td>US30</td>
+    <td>Generación de Reportes de Desempeño</td>
+    <td>Como desarrollador indie, quiero generar reportes sobre el desempeño de mi juego para obtener información detallada sobre cómo está siendo recibido por los jugadores.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>24</td>
+    <td>US31</td>
+    <td>Visualización de Métricas de Jugadores</td>
+    <td>Como desarrollador, quiero ver métricas detalladas sobre cómo los jugadores interactúan con mi juego para mejorar la experiencia del usuario.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>25</td>
+    <td>US32</td>
+    <td>Análisis de Comportamiento de Jugadores</td>
+    <td>Como desarrollador, quiero analizar el comportamiento de los jugadores para identificar puntos de fricción en mi juego.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>26</td>
+    <td>US33</td>
+    <td>Visualización de Datos de Uso del Juego</td>
+    <td>Como desarrollador, quiero visualizar datos detallados sobre el uso del juego para entender mejor cómo los jugadores interactúan con mi juego.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>27</td>
+    <td>US34</td>
+    <td>Análisis de Puntos de Fricción</td>
+    <td>Como desarrollador, quiero analizar los puntos de fricción en el juego para identificar y solucionar problemas que afectan la experiencia del usuario.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>28</td>
+    <td>US35</td>
+    <td>Seguimiento de Progreso de Jugadores</td>
+    <td>Como desarrollador, quiero hacer un seguimiento del progreso de los jugadores para comprender cómo están avanzando en el juego y ajustar la dificultad si es necesario.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>29</td>
+    <td>US36</td>
+    <td>Análisis de Tendencias de Juego</td>
+    <td>Como desarrollador, quiero analizar las tendencias de juego para identificar qué características o niveles están siendo más populares entre los jugadores.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>30</td>
+    <td>US37</td>
+    <td>Comparación de Métricas entre Juegos</td>
+    <td>Como desarrollador, quiero comparar las métricas de diferentes juegos para entender qué elementos contribuyen al éxito de un juego en comparación con otros.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>31</td>
+    <td>US38</td>
+    <td>Evaluación de la Retención de Jugadores</td>
+    <td>Como desarrollador, quiero evaluar la retención de jugadores para entender qué tan bien está manteniendo el interés de los jugadores en mi juego a lo largo del tiempo.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>US39</td>
+    <td>Reporte de Feedback de Jugadores</td>
+    <td>Como desarrollador, quiero generar reportes de feedback de jugadores para obtener una visión general de las opiniones y sugerencias de los usuarios sobre el juego.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td>US40</td>
+    <td>Análisis de Participación en Eventos del Juego</td>
+    <td>Como desarrollador, quiero analizar la participación en eventos dentro del juego para evaluar el impacto de estos eventos en la actividad de los jugadores y su engagement.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>US41</td>
+    <td>Publicar Logros en la Comunidad</td>
+    <td>Como gamer, quiero poder publicar mis logros en una sección dedicada de la comunidad, para compartir mis éxitos con otros jugadores y recibir retroalimentación.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td>US42</td>
+    <td>Comentar en Logros de Otros Jugadores</td>
+    <td>Como gamer, quiero poder comentar en los logros publicados por otros jugadores, para ofrecer retroalimentación y celebrar sus éxitos.</td>
+    <td>2</td>
+  </tr>
+</table>
+
