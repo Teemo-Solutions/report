@@ -726,8 +726,69 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
     </tr>
 </table>
 
-
 ## 5.2.1.5. Execution Evidence for Sprint Review
+Para este primer entregable, hemos elaborado la Landing Page. De tal modo, se podrá visualizar la información relevante sobre nuestra plataforma.
+
+- **Sección de Inicio**: Se implementó el Header y la página principal de nuestra Landing Page.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/landing_evidence_01.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Aplicación**: Se implementó la sección de la aplicación detallando el propósito de la misma.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/landing_evidence_02.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Servicios**: Se implementó la sección de los servicios ofrecidos.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/landing_evidence_03.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Planes**: Se implementó la sección de ver los tipos de suscripción.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/landing_evidence_04.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Creadores**: Se añadió la sección de información sobre los desarrolladores de la plataforma.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/landing_evidence_05.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de About the Team**: Se implementó la sección del About the Team
+ 
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/landing_evidence_06.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Testimonios**: Se implementó la sección de los testimonios sobre la plataforma
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/landing_evidence_07.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Preguntas Frecuentes**: Se implementó la sección de Faq que tienen los usuarios
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/landing_evidence_08.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Contacto**: Se implementó la sección para el contacto con nosotros
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/landing_evidence_09.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Footer**: Se implementó la sección para el footer de la landing page
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/landing_evidence_10.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
 ## 5.2.1.6. Services Documentation Evidence for Sprint Review
 ## 5.2.1.7. Software Deployment Evidence for Sprint Review
 ## 5.2.1.8. Team Collaboration Insights during Sprint
