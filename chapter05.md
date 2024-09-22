@@ -50,6 +50,8 @@ En esta sección se describe las herramientas de software que utilizamos para co
   <img src="assets/chapter05/environments/whatsapp_evidence.png" style="width:300px; height:auto;" alt="">
 </p>
 
+---
+
 - **Producto 2:** Discord
 
 <p align="center">
@@ -64,6 +66,21 @@ En esta sección se describe las herramientas de software que utilizamos para co
   <img src="assets/chapter05/environments/discord_evidence.png" style="width:700px; height:auto;" alt="">
 </p>
 
+---
+
+- **Producto 3:** Trello
+
+<p align="center">
+  <img src="assets/logos/trello_icon.svg" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó Trello para la asignación de tareas y el seguimiento del progreso de cada una. Esto facilitó la organización del trabajo del equipo, proporcionando una vista clara de las responsabilidades y el estado de cada tarea, lo que mejoró la planificación y la gestión del proyecto.
+- **Ruta:** [Trello de Teemo Solutions](https://trello.com/invite/b/66e794edf4f9fedec2048599/ATTIfa1c3769a311557ffbe938d55599966c41049847/tb1-parcial)
+- **Evidencia:**
+
+<p align="center">
+  <img src="assets/chapter05/environments/trello_evidence" style="width:500px; height:auto;" alt="">
+</p>
 
 
 ### 5.1.2. Source Code Management
