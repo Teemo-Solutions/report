@@ -214,7 +214,7 @@ En esta sección se describe las herramientas de software que utilizamos para co
 
 ---
 
-- **Producto 4:** LineIcons
+- **Producto 6:** LineIcons
 
 <p align="center">
   <img src="assets/logos/lineicons_logo.jpeg" style="width:150px; height:auto;" alt="">
