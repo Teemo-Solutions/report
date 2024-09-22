@@ -472,7 +472,108 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
 </table>
 
 ## 5.2.1.2. Sprint Backlog 1
+
 ## 5.2.1.3. Development Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">87ed60f</td>
+        <td colspan="2">Initial commit</td>
+        <td colspan="2">-</td>
+        <td colspan="2">03/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">2455ca5</td>
+        <td colspan="2">feat: add index.html</td>
+        <td colspan="2">-</td>
+        <td colspan="2">03/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">267c9e5</td>
+        <td colspan="2">feat(index.html): add vortex title</td>
+        <td colspan="2">-</td>
+        <td colspan="2">03/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">ad78499</td>
+        <td colspan="2">feat: add vortex_icon.svg in to assets\images\logo</td>
+        <td colspan="2">-</td>
+        <td colspan="2">03/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">2872456</td>
+        <td colspan="2">feat(index.html): add browser icon</td>
+        <td colspan="2">-</td>
+        <td colspan="2">03/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">1a751c6</td>
+        <td colspan="2">feat(main.css): add new stylesheet main.css in to assets\css</td>
+        <td colspan="2">-</td>
+        <td colspan="2">03/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">5107208</td>
+        <td colspan="2">feat(index.html): add preloader without functionality</td>
+        <td colspan="2">-</td>
+        <td colspan="2">03/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">ef423a7</td>
+        <td colspan="2">feat: add logo.svg in to assets\images\logo</td>
+        <td colspan="2">-</td>
+        <td colspan="2">03/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">1ab18f5</td>
+        <td colspan="2">feat: add white-logo.svg in to assets\images\logo</td>
+        <td colspan="2">-</td>
+        <td colspan="2">03/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">bc88b79</td>
+        <td colspan="2">feat(index.html): add header and navbar without functionality and style</td>
+        <td colspan="2">-</td>
+        <td colspan="2">03/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">19bdfdc</td>
+        <td colspan="2">docs(main.css): add index for the styles</td>
+        <td colspan="2">-</td>
+        <td colspan="2">03/09/2024</td>
+    </tr>
+</table>
+
 ## 5.2.1.4. Testing Suite Evidence for Sprint Review
 ## 5.2.1.5. Execution Evidence for Sprint Review
 ## 5.2.1.6. Services Documentation Evidence for Sprint Review
