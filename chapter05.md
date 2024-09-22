@@ -82,6 +82,21 @@ En esta sección se describe las herramientas de software que utilizamos para co
   <img src="assets/chapter05/environments/trello_evidence" style="width:500px; height:auto;" alt="">
 </p>
 
+**Requirement Management:**
+
+- **Producto 1:** Miro
+
+<p align="center">
+  <img src="assets/logos/miro_icon.png" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó Miro para la elaboración de diagramas, permitiendo una colaboración visual en tiempo real entre los miembros del equipo.
+- **Ruta:** [Miro de Teemo Solutions](https://miro.com/app/board/uXjVKYSGw5Y=/)
+- **Evidencia:**
+
+<p align="center">
+  <img src="assets/chapter05/environments/miro_evidence.png" style="width:900px; height:auto;" alt="">
+</p>
 
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
