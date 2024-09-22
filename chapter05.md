@@ -148,7 +148,7 @@ En esta sección se describe las herramientas de software que utilizamos para co
 
 ---
 
-- **Producto 1:** LucidChart
+- **Producto 2:** LucidChart
 
 <p align="center">
   <img src="assets/logos/lucidchart_icon.png" style="width:150px; height:auto;" alt="">
@@ -161,6 +161,46 @@ En esta sección se describe las herramientas de software que utilizamos para co
 <p align="center">
   <img src="assets/chapter05/environments/lucidchart_evidence.png" style="width:900px; height:auto;" alt="">
 </p>
+
+**Software Development:**
+
+- **Producto 1:** HTML
+
+<p align="center">
+  <img src="assets/logos/html_icon.png" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó HTML como base para la estructura del contenido en el proyecto, permitiendo la creación de páginas web semánticas y accesibles. Esto facilitó la organización del contenido y garantizó que la interfaz de usuario estuviera bien estructurada, lo que contribuyó a una mejor experiencia de navegación
+
+---
+
+- **Producto 2:** CSS
+
+<p align="center">
+  <img src="assets/logos/css_icon.png" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó CSS para el diseño y la presentación del proyecto, permitiendo la personalización del estilo visual y la responsividad de las páginas. Esto incluyó la definición de colores, tipografías, espaciados y animaciones, contribuyendo a una experiencia de usuario atractiva y coherente.
+
+---
+
+- **Producto 3:** JavaScript
+
+<p align="center">
+  <img src="assets/logos/js_icon.png" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó JavaScript para añadir interactividad y funcionalidad dinámica al proyecto. Esto permitió la implementación de características como la validación de formularios, la manipulación del DOM y la gestión de eventos, mejorando la experiencia del usuario y la fluidez de la aplicación.
+
+---
+
+- **Producto 4:** WebStorm
+
+<p align="center">
+  <img src="assets/logos/webstorm_icon.png" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó WebStorm para la elaboración de la landing page, aprovechando sus características avanzadas de edición y herramientas integradas para facilitar el desarrollo. Esto permitió una gestión eficiente del código, la implementación de funcionalidades interactivas y la integración de estilos de manera organizada, contribuyendo a una presentación atractiva y profesional del proyecto.
 
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
