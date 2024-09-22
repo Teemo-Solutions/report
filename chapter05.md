@@ -473,6 +473,58 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
 
 ## 5.2.1.2. Sprint Backlog 1
 
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">US51</td>
+    <td colspan="2">Encontrar información del propósito de la aplicación</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Añadir información relevante de la aplicación</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Fernando, Andrés, José, Vicente y Yasser.</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US52</td>
+    <td colspan="2">Visualización de imágenes y gráficos relevantes</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Añadir imágenes y gráficos relevantes</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero que las imágenes y gráficos sean claros y visualmente atractivos para captar mi interés y comprender mejor el contenido.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Fernando, José, Yasser</td>
+    <td colspan="1">Done</td>
+<tr>
+    <td colspan="1">US53</td>
+    <td colspan="2">Tipografía cómoda y agradable estéticamente</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir una tipografía fácil de leer y con un tamaño adecuado</td>
+    <td colspan="3">Como visitante de la Landing Page, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Andrés y Vicente.</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+
+
 ## 5.2.1.3. Development Evidence for Sprint Review
 
 <table>
