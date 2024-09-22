@@ -416,6 +416,61 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
 ## 5.2. Landing Page, Services & Applications Implementation
 ## 5.2.1. Sprint 1
 ## 5.2.1.1. Sprint Planning 1
+Para este primer sprint nos enfocaremos en los tasks para la elaboración de la Landing Page. Nos dividiremos entre nosotros cada una de las tareas identificadas para el sprint.
+
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-09-04</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">5:30 PM</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Fernando Jesus</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Fernando, Andrés, José, Vicente y Yasser.
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Review Summary</td>
+    <td colspan="8">En esta primera sección se planteó el desarrollo de la Landing Page.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 1 Retrospective Summary</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en partes del código y en otras partes poder mejorar sus habilidades realizando la Landing Page</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Finalizar con el desarrollo de la Landing Page</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">4 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">4 Story Points</td>
+</tr>
+</table>
+
 ## 5.2.1.2. Sprint Backlog 1
 ## 5.2.1.3. Development Evidence for Sprint Review
 ## 5.2.1.4. Testing Suite Evidence for Sprint Review
