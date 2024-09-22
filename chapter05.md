@@ -245,7 +245,7 @@ En esta sección se describe las herramientas de software que utilizamos para co
 
 ---
 
-- **Producto 1:** Rider
+- **Producto 2:** Rider
 
 <p align="center">
   <img src="assets/logos/rider_icon.png" style="width:150px; height:auto;" alt="">
