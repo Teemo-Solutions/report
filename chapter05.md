@@ -320,8 +320,72 @@ git commit -m “<type>[optional scope]: <title>“ -m “<description”
 8. perf: Describe mejoras de rendimiento en el código.
 ~~~
 
-
 ### 5.1.3. Source Code Style Guide & Conventions
+    - **Single responsibility:**
+      Cada clase o método debe tener una única función bien definida.
+      ~~~ 
+      // Clase responsable de manejar operaciones matemáticas básicas
+      public class OperacionesMatematicas { 
+          // Método para sumar dos números 
+          public int Sumar(int a, int b) { 
+              return a + b; 
+          } 
+       
+          // Método para restar dos números 
+          public int Restar(int a, int b) { 
+              return a - b; 
+          } 
+      }
+      ~~~
+-  **LENGUAJE GHERKIN**
+    - **Descriptive and concise titles for scenarios**
+      Utilizar títulos descriptivos y concisos para los escenarios.
+      ~~~ 
+      Feature: Login
+        Scenario: Successful login
+          Given a user is on the login page     
+          When they enter valid credentials     
+          Then they should be logged in successfully      
+      ~~~
+    - **Follow the Given-When-Then structure consistently.**
+      Seguir la estructura de Given-When-Then de manera consistente.
+      ~~~ 
+      Scenario: Adding items to the shopping cart
+        Given the user is on the shopping page
+        When they add an item to the cart
+        Then the item should appear in the cart 
+      ~~~
+    - **Focus on business-readable language**
+      Centrarse en un lenguaje legible para el negocio, evitando detalles técnicos de implementación.
+      ~~~ 
+      Scenario: Changing user settingst
+        Given the user is logged in
+        When they navigate to the settings page
+        Then they should be able to update their profile
+      ~~~
+    - **Utilize Scenario Outline for scenarios with multiple similar cases.**
+      Utilizar Scenario Outline para escenarios con múltiples casos similares.
+      ~~~ 
+      Scenario Outline: Searching for products
+        Given the user is on the search page
+        When they search for "<product>"
+        Then they should see search results for "<product>"
+      
+      Examples:
+        | product  |
+        | Laptop   |
+        | Smartphone |
+      ~~~
+    - **Add comments to provide additional context**
+      Agregar comentarios para proporcionar contexto adicional o explicaciones cuando sea necesario.
+      ~~~ 
+      # This scenario checks the functionality of the logout feature
+      Scenario: User logout
+        Given the user is logged in
+        When they click on the logout button
+        Then they should be redirected to the login page      
+      ~~~
+
 ### 5.1.4. Software Deployment Configuration
 ## 5.2. Landing Page, Services & Applications Implementation
 ## 5.2.X. Sprint n
