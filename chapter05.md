@@ -253,6 +253,16 @@ En esta sección se describe las herramientas de software que utilizamos para co
 
 - **Propósito:** Se utilizó Rider como entorno de desarrollo integrado (IDE) para el proyecto, proporcionando herramientas avanzadas para la edición de código, depuración y gestión de proyectos.
 
+**Software Deployment:**
+
+- **Producto 1:** GitHub Pages
+
+<p align="center">
+  <img src="assets/logos/pages_icon.png" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó GitHub Pages para el despliegue de la landing page, lo que permitió publicar la landing page de manera rápida y sencilla.
+- **Ruta:** [Landing Page](https://teemo-solutions.github.io/Landing-Page_OpenSource/)
 
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
