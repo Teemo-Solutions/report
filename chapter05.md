@@ -50,6 +50,22 @@ En esta sección se describe las herramientas de software que utilizamos para co
   <img src="assets/chapter05/environments/whatsapp_evidence.png" style="width:300px; height:auto;" alt="">
 </p>
 
+- **Producto:** Discord
+
+<p align="center">
+  <img src="assets/logos/discord_icon.jpg" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó Discord para las reuniones y avances en tiempo real, aprovechando la funcionalidad de llamadas en canales de voz. Esto permitió una colaboración fluida, donde los miembros del equipo pudieron discutir y resolver problemas técnicos en tiempo real, optimizando la coordinación y el progreso del proyecto.
+- **Ruta:** Este grupo es privado
+- **Evidencia:**
+
+<p align="center">
+  <img src="assets/chapter05/environments/discord_evidence.png" style="width:700px; height:auto;" alt="">
+</p>
+
+
+
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
