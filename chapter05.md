@@ -34,6 +34,22 @@ margin-left: 4em; /* Aplica una sangría de 4em para subtítulos de nivel 4 */
 ### 5.1.1. Software Development Environment Configuration
 En esta sección se describe las herramientas de software que utilizamos para colaborar en el ciclo de vida del proyecto de software.
 
+**Project Management:**
+
+- **Producto:** Whatsapp
+
+<p align="center">
+  <img src="assets/logos/whatsapp_icon.png" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó WhatsApp como medio principal para la comunicación diaria entre los miembros del equipo. Su propósito fue facilitar el envío y recepción rápida de mensajes, coordinar actividades, y discutir avances o bloqueos en el desarrollo del proyecto, lo que optimizó la colaboración en tiempo real.
+- **Ruta:** Este grupo es privado
+- **Evidencia:**
+
+<p align="center">
+  <img src="assets/chapter05/environments/whatsapp_evidence.png" style="width:300px; height:auto;" alt="">
+</p>
+
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
