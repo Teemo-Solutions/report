@@ -699,7 +699,31 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
 <!-- USER STORY 28 -->
 <!-- USER STORY 29 -->
 <!-- USER STORY 30 -->
-
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US30</th>
+    <th>EPIC ID</th>
+    <th>EPIC03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Generación de Reportes de Desempeño</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador indie, <strong>quiero</strong> generar reportes sobre el desempeño de mi juego <strong>para</strong> obtener información detallada sobre cómo está siendo recibido por los jugadores.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Generar reportes de desempeño<br>
+      <strong>Given</strong> que mi juego está publicado,<br>
+      <strong>When</strong> solicito un reporte de desempeño,<br>
+      <strong>Then</strong> recibo un reporte con información sobre descargas, ventas y comentarios de jugadores.
+    </td>
+  </tr>
+</table>
 <br>
 
 ---
@@ -722,11 +746,162 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
 </table>
 
 <!-- USER STORY 31 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US31</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Visualización de Métricas de Jugadores</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> ver métricas detalladas sobre cómo los jugadores interactúan con mi juego <strong>para</strong> mejorar la experiencia del usuario.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Ver métricas de jugadores<br>
+      <strong>Given</strong> que he publicado un juego,<br>
+      <strong>When</strong> accedo a la sección de estadísticas,<br>
+      <strong>Then</strong> veo datos sobre el tiempo jugado, número de jugadores y porcentaje de finalización.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 32 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US32</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Análisis de Comportamiento de Jugadores</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> analizar el comportamiento de los jugadores <strong>para</strong> identificar puntos de fricción en mi juego.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Analizar el comportamiento de los jugadores<br>
+      <strong>Given</strong> que el desarrollador accede al panel de estadísticas,<br>
+      <strong>When</strong> revisa las métricas de nivel de dificultad o tasa de abandono,<br>
+      <strong>Then</strong> puede identificar puntos de mejora en el diseño del juego.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 33 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US33</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Visualización de Datos de Uso del Juego</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> visualizar datos detallados sobre el uso del juego <strong>para</strong> entender mejor cómo los jugadores interactúan con mi juego.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Ver datos de uso del juego<br>
+      <strong>Given</strong> que tengo acceso a las métricas de mi juego,<br>
+      <strong>When</strong> accedo a la sección de datos de uso,<br>
+      <strong>Then</strong> puedo ver información detallada sobre el tiempo de juego, frecuencia de uso y otras métricas.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 34 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US34</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Análisis de Puntos de Fricción</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> analizar los puntos de fricción en el juego <strong>para</strong> identificar y solucionar problemas que afectan la experiencia del usuario.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Analizar puntos de fricción<br>
+      <strong>Given</strong> que tengo acceso a los datos de uso del juego,<br>
+      <strong>When</strong> reviso los datos de nivel de dificultad y tasas de abandono,<br>
+      <strong>Then</strong> puedo identificar áreas problemáticas y realizar ajustes para mejorar el juego.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 35 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US35</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Seguimiento de Progreso de Jugadores</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> hacer un seguimiento del progreso de los jugadores <strong>para</strong> comprender cómo están avanzando en el juego y ajustar la dificultad si es necesario.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Seguir el progreso de los jugadores<br>
+      <strong>Given</strong> que tengo acceso a las estadísticas del juego,<br>
+      <strong>When</strong> reviso el progreso de los jugadores,<br>
+      <strong>Then</strong> puedo ver datos sobre el nivel alcanzado, logros obtenidos y tiempo dedicado.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 36 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US36</th>
+    <th>EPIC ID</th>
+    <th>EPIC04</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Análisis de Tendencias de Juego</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> analizar las tendencias de juego <strong>para</strong> identificar qué características o niveles están siendo más populares entre los jugadores.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Analizar tendencias de juego<br>
+      <strong>Given</strong> que tengo acceso a las métricas de mi juego,<br>
+      <strong>When</strong> reviso las tendencias y preferencias de los jugadores,<br>
+      <strong>Then</strong> puedo identificar qué características son más apreciadas y qué aspectos podrían necesitar mejoras.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 37 -->
 <table>
   <tr>
