@@ -1131,6 +1131,111 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
 <!-- USER STORY 49 -->
 <!-- USER STORY 50 -->
 
+<!-- EPIC 06 -->
+<table>
+  <tr>
+    <th>EPIC ID</th>
+    <th>06</th>
+    <th>TITLE: Accesibilidad de la Landing Page</th>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <strong>Cómo</strong> visitante de la Landing Page, 
+      <strong>quiero</strong> que la información sobre la aplicación sea fácil de entender 
+      <strong>para</strong> poder comprender rápidamente su propósito.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 51 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US51</th>
+    <th>EPIC ID</th>
+    <th>EP06</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Adaptabilidad y compatibilidad de la Landing Page</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como visitante de la Landing Page, <strong>quiero</strong> que el contenido se adapte al tamaño de la pantalla del dispositivo desde el que accede <strong>para</strong> obtener la información de manera ordenada.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Adaptabilidad a diferentes tamaños de pantalla</strong><br>
+      <strong>Given</strong> el visitante se encuentra en la landing page,<br>
+      <strong>When</strong> ingresa al sitio web,<br>
+      <strong>Then</strong> la landing page debe poseer un contenido que se ajuste automáticamente al tamaño de la pantalla.<br><br>
+      <strong>Scenario 2: Compatibilidad con navegadores principales</strong><br>
+      <strong>Given</strong> el visitante se encuentra en la landing page,<br>
+      <strong>When</strong> utiliza su navegador de preferencia,<br>
+      <strong>Then</strong> la landing page debe ser compatible.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORIE 52 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US52</th>
+    <th>EPIC ID</th>
+    <th>EP06</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Encontrar información del propósito de la aplicación</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como visitante de la Landing Page, <strong>quiero</strong> encontrar fácilmente la información que explique el propósito de la aplicación <strong>para</strong> comprender cómo puede ser útil para mí.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Visibilidad del propósito de la aplicación</strong><br>
+      <strong>Given</strong> el visitante se encuentra en la landing page,<br>
+      <strong>When</strong> explora la página principal,<br>
+      <strong>Then</strong> la landing page debe poseer información clara y concisa para el visitante.<br><br>
+      <strong>Scenario 2: Acceso rápido a los planes de la aplicación</strong><br>
+      <strong>Given</strong> el visitante se encuentra en la sección de planes de la landing page,<br>
+      <strong>When</strong> hace clic en un botón de “Más información”,<br>
+      <strong>Then</strong> la landing page debe dirigirlo a una sección que detalle las características y precios del plan seleccionado.
+    </td>
+  </tr>
+</table>
+
+<!-- USER STORY 53 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US53</th>
+    <th>EPIC ID</th>
+    <th>EP06</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Acceso a Soporte Técnico</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como visitante de la Landing Page, <strong>quiero</strong> tener fácil acceso a soporte técnico <strong>para</strong> resolver cualquier duda o problema relacionado con la aplicación.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Acceso a soporte en tiempo real</strong><br>
+      <strong>Given</strong> el visitante accede a la landing page,<br>
+      <strong>When</strong> busca ayuda en la sección de soporte,<br>
+      <strong>Then</strong> la página ofrece la opción de contactar con un agente en tiempo real o buscar en una base de conocimientos.
+    </td>
+  </tr>
+</table>
+
 ## 3.3. Impact Mapping
 
 ### Gamers
