@@ -222,6 +222,17 @@ En esta sección se describe las herramientas de software que utilizamos para co
 
 - **Propósito:** Se utilizó LineIcons para la incorporación de iconos en el diseño de la landing page. Esta biblioteca de iconos ligeros permitió enriquecer la interfaz visual, mejorando la comunicación de ideas y funciones a través de elementos gráficos claros y atractivos.
 
+**Software Testing:**
+
+- **Producto 1:** Lenguaje Gherkin
+
+<p align="center">
+  <img src="assets/logos/gerkhin_icon.png" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó Gherkin como lenguaje de especificación para los testeos del proyecto, facilitando la redacción de pruebas de aceptación legibles y comprensibles tanto para desarrolladores como para partes interesadas no técnicas.
+
+
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
