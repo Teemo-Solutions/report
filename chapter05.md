@@ -202,6 +202,26 @@ En esta sección se describe las herramientas de software que utilizamos para co
 
 - **Propósito:** Se utilizó WebStorm para la elaboración de la landing page, aprovechando sus características avanzadas de edición y herramientas integradas para facilitar el desarrollo. Esto permitió una gestión eficiente del código, la implementación de funcionalidades interactivas y la integración de estilos de manera organizada, contribuyendo a una presentación atractiva y profesional del proyecto.
 
+---
+
+- **Producto 5:** BootStrap
+
+<p align="center">
+  <img src="assets/logos/bootstrap_icon.svg" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó Bootstrap como framework CSS para agilizar el diseño y la maquetación de la landing page. Gracias a sus componentes y sistema de grid responsivo, se logró una interfaz coherente y adaptable a diferentes dispositivos, facilitando el desarrollo y asegurando una experiencia de usuario fluida.
+
+---
+
+- **Producto 4:** LineIcons
+
+<p align="center">
+  <img src="assets/logos/lineicons_logo.jpeg" style="width:150px; height:auto;" alt="">
+</p>
+
+- **Propósito:** Se utilizó LineIcons para la incorporación de iconos en el diseño de la landing page. Esta biblioteca de iconos ligeros permitió enriquecer la interfaz visual, mejorando la comunicación de ideas y funciones a través de elementos gráficos claros y atractivos.
+
 ### 5.1.2. Source Code Management
 ### 5.1.3. Source Code Style Guide & Conventions
 ### 5.1.4. Software Deployment Configuration
