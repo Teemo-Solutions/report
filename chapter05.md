@@ -627,6 +627,106 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
 </table>
 
 ## 5.2.1.4. Testing Suite Evidence for Sprint Review
+<table>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Committed on (Date)</th>
+    </tr>
+    <tr>
+        <td>Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td>fix/index</td>
+        <td>c5695a4</td>
+        <td>fixed single-team</td>
+        <td>Fixed single-team</td>
+        <td>07/09/2024</td>
+    </tr>
+    <tr>
+        <td>Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td>fix/index</td>
+        <td>e58327d</td>
+        <td>fixed document not found error in the contact section</td>
+        <td>Fixed document not found error in the contact section</td>
+        <td>03/09/2024</td>
+    </tr>
+    <tr>
+        <td>Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td>fix/index</td>
+        <td>07282e0</td>
+        <td>fixed error when sending a message in the contact section</td>
+        <td>Fixed error when sending a message in the contact section</td>
+        <td>03/09/2024</td>
+    </tr>
+    <tr>
+        <td>Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td>fix/index</td>
+        <td>ee8628d</td>
+        <td>fixed error when searching for a file in the blog section</td>
+        <td>Fixed error when searching for a file in the blog section</td>
+        <td>03/09/2024</td>
+    </tr>
+    <tr>
+        <td>Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td>docs/index</td>
+        <td>5b7ab99</td>
+        <td>update comment for GLightbox</td>
+        <td>Update comment for GLightbox</td>
+        <td>03/09/2024</td>
+    </tr>
+    <tr>
+        <td>Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td>feat/index</td>
+        <td>bb5ab83</td>
+        <td>add location map</td>
+        <td>Add location map</td>
+        <td>03/09/2024</td>
+    </tr>
+    <tr>
+        <td>Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td>feat/index</td>
+        <td>4f221fb</td>
+        <td>add contact area</td>
+        <td>Add contact area</td>
+        <td>03/09/2024</td>
+    </tr>
+    <tr>
+        <td>Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td>feat/index</td>
+        <td>d735878</td>
+        <td>add content for .js files</td>
+        <td>Add content for .js files</td>
+        <td>03/09/2024</td>
+    </tr>
+    <tr>
+        <td>Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td>feat/index</td>
+        <td>da888ff</td>
+        <td>add footer area</td>
+        <td>Add footer area</td>
+        <td>01/09/2024</td>
+    </tr>
+    <tr>
+        <td>Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td>feat/index</td>
+        <td>5a3247b</td>
+        <td>add header area</td>
+        <td>Add header area</td>
+        <td>01/09/2024</td>
+    </tr>
+    <tr>
+        <td>Teemo-Solutions/Landing-Page_OpenSource</td>
+        <td>feat/main</td>
+        <td>1978884</td>
+        <td>add preloader content</td>
+        <td>Add preloader content - no preview</td>
+        <td>01/09/2024</td>
+    </tr>
+</table>
+
+
 ## 5.2.1.5. Execution Evidence for Sprint Review
 ## 5.2.1.6. Services Documentation Evidence for Sprint Review
 ## 5.2.1.7. Software Deployment Evidence for Sprint Review
