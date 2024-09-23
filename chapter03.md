@@ -1184,6 +1184,35 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 <!-- USER STORY 46 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US46</th>
+    <th>EPIC ID</th>
+    <th>28</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Mostrar Logros Destacados</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> ver una sección de logros destacados,<strong>para</strong> reconocer los logros más impresionantes y destacados en la comunidad.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Ver Logros Destacados</strong><br>
+      <strong>Given</strong> que estoy en la sección de logros,<br>
+      <strong>When</strong> accedo a la sección de logros destacados,<br>
+      <strong>Then</strong> veo una lista de los logros que han sido seleccionados como destacados.<br><br>
+      <strong>Scenario 2: Destacar un Logro</strong><br>
+      <strong>Given</strong> que un logro ha sido publicado,<br>
+      <strong>When</strong> el logro recibe una cantidad significativa de "me gusta" o comentarios,<br>
+      <strong>Then</strong> puede ser destacado por los administradores.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 47 -->
 <!-- USER STORY 48 -->
 <!-- USER STORY 49 -->
