@@ -790,6 +790,9 @@ Para este primer entregable, hemos elaborado la Landing Page. De tal modo, se po
 </p>
 
 ## 5.2.1.6. Services Documentation Evidence for Sprint Review
+
+En el presente sprint solo se desarrolló la Landing Page.
+
 ## 5.2.1.7. Software Deployment Evidence for Sprint Review
 ## 5.2.1.8. Team Collaboration Insights during Sprint
 ## 5.3. Validation Interviews
