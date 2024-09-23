@@ -1124,12 +1124,215 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
 </table>
 
 <!-- USER STORY 44 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US44</th>
+    <th>EPIC ID</th>
+    <th>28</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Notificaciones de Nuevos Logros</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> recibir notificaciones cuando amigos o seguidores publiquen nuevos logros,<strong>para</strong> estar al tanto de sus éxitos y comentar o dar "me gusta" en sus publicaciones.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Recibir Notificación</strong><br>
+      <strong>Given</strong> que un amigo publica un nuevo logro,<br>
+      <strong>When</strong> la publicación se realiza,<br>
+      <strong>Then</strong> recibo una notificación en mi perfil.<br><br>
+      <strong>Scenario 2: Acceder a Notificaciones</strong><br>
+      <strong>Given</strong> que he recibido notificaciones,<br>
+      <strong>When</strong> accedo a la sección de notificaciones,<br>
+      <strong>Then</strong> puedo ver una lista de los nuevos logros publicados por mis amigos y seguidores.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 45 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US45</th>
+    <th>EPIC ID</th>
+    <th>28</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Filtrar Logros por Tipo</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> filtrar los logros compartidos por tipo (ej. más difíciles, más recientes), <strong>para</strong> encontrar logros específicos que me interesen.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Aplicar Filtro</strong><br>
+      <strong>Given</strong> que estoy en la sección de logros,<br>
+      <strong>When</strong> selecciono un filtro de tipo,<br>
+      <strong>Then</strong> solo se muestran los logros que coinciden con el filtro aplicado.<br><br>
+      <strong>Scenario 2: Resetear Filtros</strong><br>
+      <strong>Given</strong> que he aplicado un filtro,<br>
+      <strong>When</strong> selecciono la opción de resetear filtros,<br>
+      <strong>Then</strong> se muestran todos los logros sin filtrado.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 46 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US46</th>
+    <th>EPIC ID</th>
+    <th>28</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Mostrar Logros Destacados</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> ver una sección de logros destacados,<strong>para</strong> reconocer los logros más impresionantes y destacados en la comunidad.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Ver Logros Destacados</strong><br>
+      <strong>Given</strong> que estoy en la sección de logros,<br>
+      <strong>When</strong> accedo a la sección de logros destacados,<br>
+      <strong>Then</strong> veo una lista de los logros que han sido seleccionados como destacados.<br><br>
+      <strong>Scenario 2: Destacar un Logro</strong><br>
+      <strong>Given</strong> que un logro ha sido publicado,<br>
+      <strong>When</strong> el logro recibe una cantidad significativa de "me gusta" o comentarios,<br>
+      <strong>Then</strong> puede ser destacado por los administradores.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 47 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US47</th>
+    <th>EPIC ID</th>
+    <th>28</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Crear y Gestionar Grupos de Logros</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> crear y gestionar grupos temáticos de logros,<strong>para</strong> compartir logros específicos dentro de grupos de interés y participar en competiciones.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Crear un Grupo</strong><br>
+      <strong>Given</strong> que quiero crear un grupo de logros,<br>
+      <strong>When</strong> defino el nombre y la descripción del grupo,<br>
+      <strong>Then</strong> el grupo es creado y aparece en la lista de grupos.<br><br>
+      <strong>Scenario 2: Unirse a un Grupo</strong><br>
+      <strong>Given</strong> que hay grupos de logros disponibles,<br>
+      <strong>When</strong> selecciono un grupo y solicito unirme,<br>
+      <strong>Then</strong> puedo unirme al grupo y participar en las actividades.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 48 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US48</th>
+    <th>EPIC ID</th>
+    <th>28</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Comparar Logros con Amigos</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> comparar mis logros con los de mis amigos,<strong>para</strong> ver cómo me desempeño en comparación con ellos y encontrar motivación para mejorar.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Comparar Logros</strong><br>
+      <strong>Given</strong> que estoy en la sección de comparación de logros,<br>
+      <strong>When</strong> selecciono amigos para comparar,<br>
+      <strong>Then</strong> veo una comparación de los logros entre yo y mis amigos.<br><br>
+      <strong>Scenario 2: Ver Progreso Comparativo</strong><br>
+      <strong>Given</strong> que estoy comparando logros,<br>
+      <strong>When</strong> veo la comparación,<br>
+      <strong>Then</strong> puedo ver gráficos o estadísticas que muestren el progreso comparativo.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 49 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US49</th>
+    <th>EPIC ID</th>
+    <th>28</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Gestionar Privacidad de Logros</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> gestionar la privacidad de mis logros,<strong>para</strong> decidir quién puede ver mis logros y quién no.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Configurar Privacidad</strong><br>
+      <strong>Given</strong> que estoy configurando la privacidad de mis logros,<br>
+      <strong>When</strong> selecciono opciones de privacidad,<br>
+      <strong>Then</strong> mis logros se muestran según las configuraciones elegidas.<br><br>
+      <strong>Scenario 2: Editar Privacidad</strong><br>
+      <strong>Given</strong> que he publicado un logro,<br>
+      <strong>When</strong> cambio las configuraciones de privacidad del logro,<br>
+      <strong>Then</strong> los cambios se reflejan de inmediato.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 50 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US50</th>
+    <th>EPIC ID</th>
+    <th>28</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Incluir Medallas y Recompensas</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> recibir medallas y recompensas por compartir logros importantes,<strong>para</strong> sentirme motivado y reconocer mis propios éxitos.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Ganar Medallas</strong><br>
+      <strong>Given</strong> que he publicado un logro significativo,<br>
+      <strong>When</strong> el logro es aprobado,<br>
+      <strong>Then</strong> recibo una medalla o recompensa asociada al logro.<br><br>
+      <strong>Scenario 2: Mostrar Medallas</strong><br>
+      <strong>Given</strong> que he recibido medallas,<br>
+      <strong>When</strong> otros jugadores visitan mi perfil,<br>
+      <strong>Then</strong> pueden ver las medallas y recompensas que he ganado.
+    </td>
+  </tr>
+</table>
 
 <!-- EPIC 06 -->
 <table>
