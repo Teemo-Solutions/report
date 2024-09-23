@@ -846,4 +846,12 @@ La primera entrega ha permitido establecer una base sólida tanto conceptual com
 
 11. Pallerols, X. M. (2022, 18 noviembre). Qué es el Responsive Design y por qué tu web debería serlo. Thinking For Innovation. https://www.iebschool.com/blog/que-es-responsive-web-design-analitica-usabilidad/
 
+12. _ESIC Business & Marketing School. (s.f.). HTML5: qué es, características y cómo funciona. ESIC. https://www.esic.edu/rethink/tecnologia/html5-que-es-caracteristicas-y-como-funciona-c#:~:text=El%20HTML5%20es%20un%20est%C3%A1ndar,%2C%20estilo%20de%20letra%2C%20etc.
+
+13. CSS | MDN. (2024, 6 junio). MDN Web Docs. https://developer.mozilla.org/es/docs/Web/CSS
+
+14. JavaScript | MDN. (2023, 24 julio). MDN Web Docs. https://developer.mozilla.org/es/docs/Web/JavaScript
+
+15. Atlassian. (s.f.). Flujo de trabajo de Gitflow | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=%C2%BFQu%C3%A9%20es%20Gitflow%3F,vez%20y%20quien%20lo%20populariz%C3%B3.
+
 ## Anexos
