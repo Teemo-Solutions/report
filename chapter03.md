@@ -1274,6 +1274,35 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 <!-- USER STORY 49 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US49</th>
+    <th>EPIC ID</th>
+    <th>28</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Gestionar Privacidad de Logros</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> gestionar la privacidad de mis logros,<strong>para</strong> decidir quién puede ver mis logros y quién no.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Configurar Privacidad</strong><br>
+      <strong>Given</strong> que estoy configurando la privacidad de mis logros,<br>
+      <strong>When</strong> selecciono opciones de privacidad,<br>
+      <strong>Then</strong> mis logros se muestran según las configuraciones elegidas.<br><br>
+      <strong>Scenario 2: Editar Privacidad</strong><br>
+      <strong>Given</strong> que he publicado un logro,<br>
+      <strong>When</strong> cambio las configuraciones de privacidad del logro,<br>
+      <strong>Then</strong> los cambios se reflejan de inmediato.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 50 -->
 
 <!-- EPIC 06 -->
