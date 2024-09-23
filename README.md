@@ -108,8 +108,8 @@ Para este proyecto hemos utilizado las herramientas GitHub para gestionar el pro
 Puedes acceder al contenido del repositorio pulsando sobre el siguiente ícono:
 
 <p align="center">
-  <a href="https://github.com/Teemo-Solutions/Report-OpenSource">
-    <img src="assets/logos/teemo_solutions_icon.jpg" style="width:200px; height:auto;">
+  <a href="https://github.com/Teemo-Solutions/report-v2">
+    <img src="assets/logos/teemo_solutions_icon.jpg" style="width:200px; height:auto;" alt="">
   </a>
 </p>
 
