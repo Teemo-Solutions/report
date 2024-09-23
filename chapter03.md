@@ -1510,5 +1510,103 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
     <td>Como gamer, quiero poder comentar en los logros publicados por otros jugadores, para ofrecer retroalimentación y celebrar sus éxitos.</td>
     <td>2</td>
   </tr>
+    <tr>
+    <td>36</td>
+    <td>US23</td>
+    <td>Subir Actualizaciones de Juegos</td>
+    <td>Como desarrollador, quiero subir actualizaciones para mi juego publicado para corregir errores y mejorar la experiencia del usuario.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>37</td>
+    <td>US24</td>
+    <td>Creación de Torneos</td>
+    <td>Como desarrollador, quiero crear torneos para mi juego para fomentar la competencia entre los jugadores.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>38</td>
+    <td>US25</td>
+    <td>Subir Juegos Indie a la Plataforma</td>
+    <td>Como desarrollador indie, quiero subir mis juegos a la plataforma para que puedan ser vistos y descargados por los jugadores.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>39</td>
+    <td>US26</td>
+    <td>Gestión de Información del Juego</td>
+    <td>Como desarrollador indie, quiero gestionar la información de mi juego para actualizar detalles, corregir errores o agregar contenido nuevo.</td>
+    <td>5</td>
+  </tr>
+  <tr>
+    <td>40</td>
+    <td>US27</td>
+    <td>Gestión de Precios y Ofertas</td>
+    <td>Como desarrollador indie, quiero establecer y gestionar precios y ofertas para mi juego para atraer a más jugadores y aumentar las ventas.</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>41</td>
+    <td>US28</td>
+    <td>Monitoreo de Descargas y Ventas</td>
+    <td>Como desarrollador indie, quiero monitorear las descargas y ventas de mi juego para analizar su desempeño en la plataforma.</td>
+    <td>4</td>
+  </tr>
+  <tr>
+    <td>42</td>
+    <td>US29</td>
+    <td>Responder a Reseñas de Jugadores</td>
+    <td>Como desarrollador indie, quiero responder a las reseñas de jugadores para interactuar con mi audiencia y abordar sus comentarios o problemas.</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>43</td>
+    <td>US44</td>
+    <td>Notificaciones de Nuevos Logros</td>
+    <td>Como gamer, quiero recibir notificaciones cuando amigos o seguidores publiquen nuevos logros, para estar al tanto de sus éxitos y comentar o dar "me gusta" en sus publicaciones.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>44</td>
+    <td>US45</td>
+    <td>Filtrar Logros por Tipo</td>
+    <td>Como gamer, quiero filtrar los logros compartidos por tipo (ej. más difíciles, más recientes), para encontrar logros específicos que me interesen.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>45</td>
+    <td>US46</td>
+    <td>Mostrar Logros Destacados</td>
+    <td>Como gamer, quiero ver una sección de logros destacados, para reconocer los logros más impresionantes y destacados en la comunidad.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>46</td>
+    <td>US47</td>
+    <td>Crear y Gestionar Grupos de Logros</td>
+    <td>Como gamer, quiero crear y gestionar grupos temáticos de logros, para compartir logros específicos dentro de grupos de interés y participar en competiciones.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>47</td>
+    <td>US48</td>
+    <td>Comparar Logros con Amigos</td>
+    <td>Como gamer, quiero comparar mis logros con los de mis amigos, para ver cómo me desempeño en comparación con ellos y encontrar motivación para mejorar.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>48</td>
+    <td>US49</td>
+    <td>Gestionar Privacidad de Logros</td>
+    <td>Como gamer, quiero gestionar la privacidad de mis logros, para decidir quién puede ver mis logros y quién no.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>49</td>
+    <td>US50</td>
+    <td>Incluir Medallas y Recompensas</td>
+    <td>Como gamer, quiero recibir medallas y recompensas por compartir logros importantes, para sentirme motivado y reconocer mis propios éxitos.</td>
+    <td>2</td>
+  </tr>
 </table>
 
