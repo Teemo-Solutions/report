@@ -38,7 +38,7 @@
 
 ### Desarrolladoras
 
-<img src="/assets/chapter03/to-be-scenario-image/to-be-scenario-desarrolladoras.png" alt="to-be-scenario-desarroladoras"/>
+<img src="/assets/chapter03/to-be-scenario-image/to-be-scenario-desarrolladoras.png" alt=""/>
 
 ## 3.2. User Stories
 Este documento presenta un conjunto de **User Stories** y **Epics** para la plataforma de videojuegos orientada tanto a **Gamers** como a **Desarrolladores de Videojuegos**. Se incluye el formato de historias de usuario, donde cada una tiene criterios de aceptación en el formato Gherkin, y se presentan tanto las historias para la interfaz del usuario final como las **Technical Stories** para el RESTful API.
@@ -692,12 +692,192 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
 </table>
 
 <!-- USER STORY 23 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US23</th>
+    <th>EPIC ID</th>
+    <th>EPIC03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Subir Actualizaciones de Juegos</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> subir actualizaciones para mi juego publicado <strong>para</strong> corregir errores y mejorar la experiencia del usuario.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Subir una actualización para un juego<br>
+      <strong>Given</strong> que el desarrollador ha publicado un juego,<br>
+      <strong>When</strong> sube un parche o actualización,<br>
+      <strong>Then</strong> el juego se actualiza para todos los usuarios.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 24 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US24</th>
+    <th>EPIC ID</th>
+    <th>EPIC03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Creación de Torneos</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador, <strong>quiero</strong> crear torneos para mi juego <strong>para</strong> fomentar la competencia entre los jugadores.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Crear torneos para un juego<br>
+      <strong>Given</strong> que el desarrollador ha publicado un juego,<br>
+      <strong>When</strong> crea un torneo en la plataforma,<br>
+      <strong>Then</strong> los jugadores pueden unirse y competir por premios.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 25 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US25</th>
+    <th>EPIC ID</th>
+    <th>EPIC03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Subir Juegos Indie a la Plataforma</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador indie, <strong>quiero</strong> subir mis juegos a la plataforma <strong>para</strong> que puedan ser vistos y descargados por los jugadores.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Subir un juego indie<br>
+      <strong>Given</strong> que tengo un juego indie terminado,<br>
+      <strong>When</strong> subo los archivos y la descripción del juego,<br>
+      <strong>Then</strong> el juego se publica en la plataforma para que los jugadores puedan verlo y descargarlo.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 26 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US26</th>
+    <th>EPIC ID</th>
+    <th>EPIC03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Gestión de Información del Juego</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador indie, <strong>quiero</strong> gestionar la información de mi juego <strong>para</strong> actualizar detalles, corregir errores o agregar contenido nuevo.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Actualizar información del juego<br>
+      <strong>Given</strong> que mi juego está publicado,<br>
+      <strong>When</strong> hago cambios en la descripción, imágenes o archivos del juego,<br>
+      <strong>Then</strong> la información del juego se actualiza en la plataforma.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 27 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US27</th>
+    <th>EPIC ID</th>
+    <th>EPIC03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Gestión de Precios y Ofertas</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador indie, <strong>quiero</strong> establecer y gestionar precios y ofertas para mi juego <strong>para</strong> atraer a más jugadores y aumentar las ventas.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Gestionar precios y ofertas<br>
+      <strong>Given</strong> que mi juego está publicado,<br>
+      <strong>When</strong> establezco un precio o una oferta,<br>
+      <strong>Then</strong> el precio y las ofertas se reflejan en la plataforma.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 28 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US28</th>
+    <th>EPIC ID</th>
+    <th>EPIC03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Monitoreo de Descargas y Ventas</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador indie, <strong>quiero</strong> monitorear las descargas y ventas de mi juego <strong>para</strong> analizar su desempeño en la plataforma.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Monitorear descargas y ventas<br>
+      <strong>Given</strong> que mi juego está publicado,<br>
+      <strong>When</strong> accedo a la sección de estadísticas,<br>
+      <strong>Then</strong> puedo ver el número de descargas y ventas del juego.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 29 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US29</th>
+    <th>EPIC ID</th>
+    <th>EPIC03</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Responder a Reseñas de Jugadores</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como desarrollador indie, <strong>quiero</strong> responder a las reseñas de jugadores <strong>para</strong> interactuar con mi audiencia y abordar sus comentarios o problemas.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario:</strong> Responder a reseñas<br>
+      <strong>Given</strong> que hay reseñas de mi juego,<br>
+      <strong>When</strong> accedo a la sección de reseñas,<br>
+      <strong>Then</strong> puedo responder a las reseñas de los jugadores.
+    </td>
+  </tr>
+</table>
+
 <!-- USER STORY 30 -->
 <table>
   <tr>
@@ -1075,7 +1255,7 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
   <tr>
     <th>DESCRIPTION</th>
-    <td colspan="3">Como gamer, <strong>quiero</strong> poder comentar en los logros publicados por otros jugadores,<strong>para</strong> ofrecer retroalimentación y celebrar sus éxitos.</td>
+    <td colspan="3">Como gamer, <strong>quiero</strong> poder comentar en los logros publicados por otros jugadores,<strong> para</strong> ofrecer retroalimentación y celebrar sus éxitos.</td>
   </tr>
   <tr>
     <th>ACCEPTANCE CRITERIA</th>
@@ -1106,7 +1286,7 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
   <tr>
     <th>DESCRIPTION</th>
-    <td colspan="3">Como gamer, <strong>quiero</strong> poder dar "me gusta" a los logros publicados por otros jugadores,<strong>para</strong> mostrar mi apreciación por sus éxitos.</td>
+    <td colspan="3">Como gamer, <strong>quiero</strong> poder dar "me gusta" a los logros publicados por otros jugadores,<strong> para</strong> mostrar mi apreciación por sus éxitos.</td>
   </tr>
   <tr>
     <th>ACCEPTANCE CRITERIA</th>
@@ -1137,7 +1317,7 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
   <tr>
     <th>DESCRIPTION</th>
-    <td colspan="3">Como gamer, <strong>quiero</strong> recibir notificaciones cuando amigos o seguidores publiquen nuevos logros,<strong>para</strong> estar al tanto de sus éxitos y comentar o dar "me gusta" en sus publicaciones.</td>
+    <td colspan="3">Como gamer, <strong>quiero</strong> recibir notificaciones cuando amigos o seguidores publiquen nuevos logros,<strong> para</strong> estar al tanto de sus éxitos y comentar o dar "me gusta" en sus publicaciones.</td>
   </tr>
   <tr>
     <th>ACCEPTANCE CRITERIA</th>
@@ -1197,7 +1377,7 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
   <tr>
     <th>DESCRIPTION</th>
-    <td colspan="3">Como gamer, <strong>quiero</strong> ver una sección de logros destacados,<strong>para</strong> reconocer los logros más impresionantes y destacados en la comunidad.</td>
+    <td colspan="3">Como gamer, <strong>quiero</strong> ver una sección de logros destacados,<strong> para</strong> reconocer los logros más impresionantes y destacados en la comunidad.</td>
   </tr>
   <tr>
     <th>ACCEPTANCE CRITERIA</th>
@@ -1227,7 +1407,7 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
   <tr>
     <th>DESCRIPTION</th>
-    <td colspan="3">Como gamer, <strong>quiero</strong> crear y gestionar grupos temáticos de logros,<strong>para</strong> compartir logros específicos dentro de grupos de interés y participar en competiciones.</td>
+    <td colspan="3">Como gamer, <strong>quiero</strong> crear y gestionar grupos temáticos de logros,<strong> para</strong> compartir logros específicos dentro de grupos de interés y participar en competiciones.</td>
   </tr>
   <tr>
     <th>ACCEPTANCE CRITERIA</th>
@@ -1257,7 +1437,7 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
   <tr>
     <th>DESCRIPTION</th>
-    <td colspan="3">Como gamer, <strong>quiero</strong> comparar mis logros con los de mis amigos,<strong>para</strong> ver cómo me desempeño en comparación con ellos y encontrar motivación para mejorar.</td>
+    <td colspan="3">Como gamer, <strong>quiero</strong> comparar mis logros con los de mis amigos,<strong> para</strong> ver cómo me desempeño en comparación con ellos y encontrar motivación para mejorar.</td>
   </tr>
   <tr>
     <th>ACCEPTANCE CRITERIA</th>
@@ -1287,7 +1467,7 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
   <tr>
     <th>DESCRIPTION</th>
-    <td colspan="3">Como gamer, <strong>quiero</strong> gestionar la privacidad de mis logros,<strong>para</strong> decidir quién puede ver mis logros y quién no.</td>
+    <td colspan="3">Como gamer, <strong>quiero</strong> gestionar la privacidad de mis logros,<strong> para</strong> decidir quién puede ver mis logros y quién no.</td>
   </tr>
   <tr>
     <th>ACCEPTANCE CRITERIA</th>
@@ -1317,7 +1497,7 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
   <tr>
     <th>DESCRIPTION</th>
-    <td colspan="3">Como gamer, <strong>quiero</strong> recibir medallas y recompensas por compartir logros importantes,<strong>para</strong> sentirme motivado y reconocer mis propios éxitos.</td>
+    <td colspan="3">Como gamer, <strong>quiero</strong> recibir medallas y recompensas por compartir logros importantes,<strong> para</strong> sentirme motivado y reconocer mis propios éxitos.</td>
   </tr>
   <tr>
     <th>ACCEPTANCE CRITERIA</th>
@@ -1451,7 +1631,7 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
 
 ## 3.4. Product Backlog
 
-<table border="1">
+<table>
   <tr>
     <th>Orden</th>
     <th>User Story Id</th>
@@ -1604,8 +1784,8 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   <tr>
     <td>20</td>
     <td>US18</td>
-    <td>Creación de Torneos</td>
-    <td>Como desarrollador, quiero crear torneos para mi juego, para fomentar la competencia entre los jugadores.</td>
+    <td>Notificaciones en Tiempo Real</td>
+    <td>Como gamer, quiero recibir notificaciones en tiempo real cuando mis amigos comiencen a jugar un nuevo juego, para unirme a ellos de inmediato.</td>
     <td>8</td>
   </tr>
     <tr>
@@ -1810,6 +1990,34 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
     <td>Incluir Medallas y Recompensas</td>
     <td>Como gamer, quiero recibir medallas y recompensas por compartir logros importantes, para sentirme motivado y reconocer mis propios éxitos.</td>
     <td>2</td>
+  </tr>
+  <tr>
+    <td>43</td>
+    <td>US43</td>
+    <td>Dar "Me Gusta" a Logros</td>
+    <td>Como gamer, quiero poder dar "me gusta" a los logros publicados por otros jugadores, para mostrar mi apreciación por sus éxitos.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+  <td>51</td>
+  <td>US51</td>
+  <td>Adaptabilidad y compatibilidad de la Landing Page</td>
+  <td>Como visitante de la Landing Page, quiero que el contenido se adapte al tamaño de la pantalla del dispositivo desde el que accede para obtener la información de manera ordenada.</td>
+  <td>5</td>
+  </tr>
+  <tr>
+  <td>52</td>
+  <td>US52</td>
+  <td>Encontrar información del propósito de la aplicación</td>
+  <td>Como visitante de la Landing Page, quiero encontrar fácilmente la información que explique el propósito de la aplicación para comprender cómo puede ser útil para mí.</td>
+  <td>3</td>
+  </tr>
+  <tr>
+  <td>53</td>
+  <td>US53</td>
+  <td>Acceso a Soporte Técnico</td>
+  <td>Como visitante de la Landing Page, quiero tener fácil acceso a soporte técnico para resolver cualquier duda o problema relacionado con la aplicación.</td>
+  <td>2</td>
   </tr>
 </table>
 
