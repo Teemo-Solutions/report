@@ -807,6 +807,9 @@ Después de crear el repositorio, accedemos a la configuración y seleccionamos 
 </p>
 
 ## 5.2.1.8. Team Collaboration Insights during Sprint
+
+Las actividades para el presente Sprint se repartieron con base en las secciones de la landing page que se plantearon como equipo previamente, para ello, se realizó el desarrolló del index.html. De esta manera, el desarrollo de la landing page fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
 ## 5.3. Validation Interviews
 ## 5.3.1. Diseño de Entrevistas
 ## 5.3.2. Registro de Entrevistas
