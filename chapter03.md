@@ -1214,6 +1214,35 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 <!-- USER STORY 47 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US47</th>
+    <th>EPIC ID</th>
+    <th>28</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Crear y Gestionar Grupos de Logros</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> crear y gestionar grupos temáticos de logros,<strong>para</strong> compartir logros específicos dentro de grupos de interés y participar en competiciones.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Crear un Grupo</strong><br>
+      <strong>Given</strong> que quiero crear un grupo de logros,<br>
+      <strong>When</strong> defino el nombre y la descripción del grupo,<br>
+      <strong>Then</strong> el grupo es creado y aparece en la lista de grupos.<br><br>
+      <strong>Scenario 2: Unirse a un Grupo</strong><br>
+      <strong>Given</strong> que hay grupos de logros disponibles,<br>
+      <strong>When</strong> selecciono un grupo y solicito unirme,<br>
+      <strong>Then</strong> puedo unirme al grupo y participar en las actividades.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 48 -->
 <!-- USER STORY 49 -->
 <!-- USER STORY 50 -->
