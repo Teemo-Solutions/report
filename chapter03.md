@@ -1304,6 +1304,35 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 <!-- USER STORY 50 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US50</th>
+    <th>EPIC ID</th>
+    <th>28</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Incluir Medallas y Recompensas</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> recibir medallas y recompensas por compartir logros importantes,<strong>para</strong> sentirme motivado y reconocer mis propios éxitos.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Ganar Medallas</strong><br>
+      <strong>Given</strong> que he publicado un logro significativo,<br>
+      <strong>When</strong> el logro es aprobado,<br>
+      <strong>Then</strong> recibo una medalla o recompensa asociada al logro.<br><br>
+      <strong>Scenario 2: Mostrar Medallas</strong><br>
+      <strong>Given</strong> que he recibido medallas,<br>
+      <strong>When</strong> otros jugadores visitan mi perfil,<br>
+      <strong>Then</strong> pueden ver las medallas y recompensas que he ganado.
+    </td>
+  </tr>
+</table>
 
 <!-- EPIC 06 -->
 <table>
