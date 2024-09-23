@@ -1154,6 +1154,35 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 <!-- USER STORY 45 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US45</th>
+    <th>EPIC ID</th>
+    <th>28</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Filtrar Logros por Tipo</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> filtrar los logros compartidos por tipo (ej. más difíciles, más recientes), <strong>para</strong> encontrar logros específicos que me interesen.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Aplicar Filtro</strong><br>
+      <strong>Given</strong> que estoy en la sección de logros,<br>
+      <strong>When</strong> selecciono un filtro de tipo,<br>
+      <strong>Then</strong> solo se muestran los logros que coinciden con el filtro aplicado.<br><br>
+      <strong>Scenario 2: Resetear Filtros</strong><br>
+      <strong>Given</strong> que he aplicado un filtro,<br>
+      <strong>When</strong> selecciono la opción de resetear filtros,<br>
+      <strong>Then</strong> se muestran todos los logros sin filtrado.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 46 -->
 <!-- USER STORY 47 -->
 <!-- USER STORY 48 -->
