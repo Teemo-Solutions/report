@@ -1124,6 +1124,35 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
 </table>
 
 <!-- USER STORY 44 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US44</th>
+    <th>EPIC ID</th>
+    <th>28</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Notificaciones de Nuevos Logros</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> recibir notificaciones cuando amigos o seguidores publiquen nuevos logros,<strong>para</strong> estar al tanto de sus éxitos y comentar o dar "me gusta" en sus publicaciones.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Recibir Notificación</strong><br>
+      <strong>Given</strong> que un amigo publica un nuevo logro,<br>
+      <strong>When</strong> la publicación se realiza,<br>
+      <strong>Then</strong> recibo una notificación en mi perfil.<br><br>
+      <strong>Scenario 2: Acceder a Notificaciones</strong><br>
+      <strong>Given</strong> que he recibido notificaciones,<br>
+      <strong>When</strong> accedo a la sección de notificaciones,<br>
+      <strong>Then</strong> puedo ver una lista de los nuevos logros publicados por mis amigos y seguidores.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 45 -->
 <!-- USER STORY 46 -->
 <!-- USER STORY 47 -->
