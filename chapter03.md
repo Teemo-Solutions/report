@@ -1244,6 +1244,35 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 <!-- USER STORY 48 -->
+<table>
+  <tr>
+    <th>USER STORY ID</th>
+    <th>US48</th>
+    <th>EPIC ID</th>
+    <th>28</th>
+  </tr>
+  <tr>
+    <th>TITLE</th>
+    <td colspan="3">Comparar Logros con Amigos</td>
+  </tr>
+  <tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">Como gamer, <strong>quiero</strong> comparar mis logros con los de mis amigos,<strong>para</strong> ver cómo me desempeño en comparación con ellos y encontrar motivación para mejorar.</td>
+  </tr>
+  <tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+      <strong>Scenario 1: Comparar Logros</strong><br>
+      <strong>Given</strong> que estoy en la sección de comparación de logros,<br>
+      <strong>When</strong> selecciono amigos para comparar,<br>
+      <strong>Then</strong> veo una comparación de los logros entre yo y mis amigos.<br><br>
+      <strong>Scenario 2: Ver Progreso Comparativo</strong><br>
+      <strong>Given</strong> que estoy comparando logros,<br>
+      <strong>When</strong> veo la comparación,<br>
+      <strong>Then</strong> puedo ver gráficos o estadísticas que muestren el progreso comparativo.
+    </td>
+  </tr>
+</table>
 <!-- USER STORY 49 -->
 <!-- USER STORY 50 -->
 
