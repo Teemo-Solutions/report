@@ -855,3 +855,21 @@ La primera entrega ha permitido establecer una base sólida tanto conceptual com
 15. Atlassian. (s.f.). Flujo de trabajo de Gitflow | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=%C2%BFQu%C3%A9%20es%20Gitflow%3F,vez%20y%20quien%20lo%20populariz%C3%B3.
 
 ## Anexos
+
+[Entrevistas: Aquí se encuentran las entrevistas realizadas para cada segmento](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EbNg3QJl4Z1PrUnf1czeDBoBJeYpF7fKdFBOHQC9ymSm6w?e=NeyNfu)
+
+[Video: Aquí se encuentra el video]()
+
+[Landing Page Desplegada: Link de la landing page desplegada en GitHub Pages](https://teemo-solutions.github.io/Landing-Page_OpenSource/)
+
+[Github: Link de la Organización del proyecto creada en GitHub:](https://github.com/Teemo-Solutions)
+
+[Trello: Link del trello para la repartición de tareas](https://trello.com/invite/b/66e794edf4f9fedec2048599/ATTIfa1c3769a311557ffbe938d55599966c41049847/tb1-parcial)
+
+[Figma: Link del figma, donde se elaboró todos los wireframes, mockups, etc.](https://www.figma.com/design/EYLzLCQ7Q0tj2w1ZfziK7D/TEEMO---FIGMA?node-id=0-1&t=8M63qfLj6TUteZ8V-1)
+
+[Miro: Link del miro dónde se elaboró en LEAN UX Canvas](https://miro.com/app/board/uXjVKYSGw5Y=/)
+
+[Structurizr: Link dónde se elaboró lo relacionado al Domain-Driven Software Architecture](https://www.structurizr.com/workspace/94886/dsl)
+
+[Lucidchart: Link dónde se elaboró el diagrama de clases y diagrama de base de datos](https://lucid.app/lucidchart/5b93f4de-6135-4dcb-9f66-3f7f3fb2f005/edit?viewport_loc=-504%2C665%2C4992%2C2421%2C0_0&invitationId=inv_9f021ed4-6889-4f14-a487-05dd6b693eff)
