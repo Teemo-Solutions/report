@@ -524,7 +524,6 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
 </table>
 
 
-
 ## 5.2.1.3. Development Evidence for Sprint Review
 
 <table>
@@ -812,6 +811,284 @@ Las actividades para el presente Sprint se repartieron con base en las secciones
 
 <p align="center">
   <img src="assets/chapter05/sprint/sprint01/insights/insights_landing_evidence.png" style="width:700px; height:auto;" alt="">
+</p>
+
+## 5.2.2 Sprint 2
+
+## 5.2.2.1. Sprint Planning 2
+
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-09-24</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">12:00P M</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Fernando Jesus</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Fernando, Andrés, José, Vicente y Yasser.
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Review Summary</td>
+    <td colspan="8">En esta primera sección se planteó el desarrollo del Front end.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Retrospective Summary</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en partes del código y en otras partes poder mejorar sus habilidades realizando el Frontend</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Finalizar con el desarrollo del Frontend</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">4 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">4 Story Points</td>
+</tr>
+</table>
+
+## 5.2.2.2. Sprint Backlog 2
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">US54</td>
+    <td colspan="2">Visualización de juegos listados</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Añadir información relevante de la aplicación</td>
+    <td colspan="3">Como visitante del Fronend, quiero poder visualizar los juegos listados.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">José y Vicente.</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US55</td>
+    <td colspan="2">Visualización y redireccionamiento del "about"</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Añadir imágenes y gráficos relevantes</td>
+    <td colspan="3">Como visitante del Frontend, quiero que al seleccionar el apartado de about, me redireccione allí.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Fernando, Yasser, Andres y José</td>
+    <td colspan="1">Done</td>
+<tr>
+    <td colspan="1">US56</td>
+    <td colspan="2">Tipografía cómoda y agradable estéticamente</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir una tipografía fácil de leer y con un tamaño adecuado</td>
+    <td colspan="3">Como visitante del Frontend, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Andrés y Vicente.</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
+## 5.2.2.3. Development Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">b472657</td>
+        <td colspan="2">Initial commit</td>
+        <td colspan="2">-</td>
+        <td colspan="2">25/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">2e3aef1</td>
+        <td colspan="2">refactor: edit email example</td>
+        <td colspan="2">-</td>
+        <td colspan="2">25/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">48df9bc</td>
+        <td colspan="2">Merge branch 'feat-games' into develop</td>
+        <td colspan="2">-</td>
+        <td colspan="2">25/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">3c6fc42</td>
+        <td colspan="2">feat(subscriptions): added subcriptions components</td>
+        <td colspan="2">-</td>
+        <td colspan="2">25/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">b95097</td>
+        <td colspan="2">feat(pages): added pages components</td>
+        <td colspan="2">-</td>
+        <td colspan="2">24/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">0dbe5f2</td>
+        <td colspan="2">refactor: change ths syles of the footer</td>
+        <td colspan="2">-</td>
+        <td colspan="2">24/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">8585697</td>
+        <td colspan="2">feat: added page profile</td>
+        <td colspan="2">-</td>
+        <td colspan="2">24/09/2024</td>
+    </tr>
+</table>
+
+## Spring Testing Suite Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">fix/index</td>
+        <td colspan="2">3a0b827</td>
+        <td colspan="2">fix app component</td>
+        <td colspan="2">-</td>
+        <td colspan="2">24/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">fix/app</td>
+        <td colspan="2">708737f</td>
+        <td colspan="2">fix:fix app component</td>
+        <td colspan="2">-</td>
+        <td colspan="2">24/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">48df9bc</td>
+        <td colspan="2">Merge branch 'feat-games' into develop</td>
+        <td colspan="2">-</td>
+        <td colspan="2">25/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">refactor/.json</td>
+        <td colspan="2">3c6fc42</td>
+        <td colspan="2">refacto: update file angular.json for toolbar component</td>
+        <td colspan="2">-</td>
+        <td colspan="2">23/09/2024</td>
+    </tr>
+</table>
+
+## 5.2.2.5. Execution Evidence for Sprint Review
+Para este segundo entregable, hemos elaborado la aplicación web. De tal modo, se podrá visualizar la información relevante sobre nuestra plataforma.
+
+- **Sección de Inicio**: Se implementó Toolbar, labels, login y profiles.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_01.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Aplicación**: Se implementó la sección de la aplicación Home y juegos.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_02.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Footer**: Se implementó el footer.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_03.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de About us**: Se implementó la sección de ver About us.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_04.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Planes**: Se añadió la sección de información sobre los planes de la aplicación web.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_05.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Contact**: Se implementó la sección del Contact.
+ 
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_06.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Profile**: Se implementó la sección de los perfiles de la aplicación web.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_07.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+## 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+## 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+## 5.2.2.8. Team Collaboration Insight during Sprint 
+
+<p align="center">
+  <img src="assets/chapter05/insight.png" style="width:700px; height:auto;" alt="">
 </p>
 
 ## 5.3. Validation Interviews
