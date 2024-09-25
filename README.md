@@ -197,35 +197,52 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
 <table>
   <thead>
     <tr>
-      <th style="background-color: #333; color: #fff;">Criterío Específico</th>
+      <th style="background-color: #333; color: #fff;">Criterio Específico</th>
       <th style="background-color: #333; color: #fff;">Acciones Realizadas</th>
       <th style="background-color: #333; color: #fff;">Conclusiones</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
+      <td>Comunica oralmente con efectividad a diferentes rangos de audiencia</td>
       <td>
-        TP:   
+        <strong>TP:</strong>
         <br><br>
-        Quijandría, Vicente: Realizó el apartado del login y del sign up
+        <strong>Quijandría, Vicente:</strong> Explicó de manera clara y precisa el proceso de desarrollo del login y el sign-up, asegurándose de que el equipo y los interesados comprendieran su funcionamiento.  
         <br><br>
-        Lizano, Fernando: Organizó al equipo y realizó el deployment de la aplicacion, como tambien la creación del footer y la lista de juegos
+        <strong>Lizano, Fernando:</strong> Lideró reuniones del equipo, organizando el flujo de trabajo y comunicando eficazmente las estrategias de deployment, así como la creación del footer y la lista de juegos, asegurando la alineación de todo el equipo.  
         <br><br>
-        Renteria, Yasser: Realizó el enrutamiento del toolbar, el about us, el contact us, subscriptions y el apartado visual de home
+        <strong>Rentería, Yasser:</strong> Presentó el enrutamiento y la estructura del toolbar, el about us, el contact us, y subscriptions, explicando con claridad el diseño visual y funcional de la página principal.  
         <br><br>
-        Torres, Andrés: Realizó el apartado del profile doden se muestran los datos de usuario y el header que seria el toolbar
+        <strong>Torres, Andrés:</strong> Explicó el desarrollo del profile y del header (toolbar), destacando los aspectos técnicos y visuales de manera accesible para todos los miembros.  
         <br><br>
-        Riega, José: realizó el apartado del home donde se muestean los juegos
+        <strong>Riega, José:</strong> Describió el apartado del home, mostrando cómo se renderizan los juegos, logrando que la audiencia comprendiera tanto los aspectos visuales como técnicos.
       </td>
       <td>
-En conclusión, el equipo ha demostrado ser capaz de comunicar de manera efectiva a diversos rangos de audiencia, adaptando su lenguaje y estilo según las necesidades del grupo. Esto ha permitido transmitir ideas clave de forma clara y comprensible, garantizando que cada mensaje llegue con precisión y adecuación a la audiencias </td>
+        El equipo ha demostrado su capacidad para comunicar eficazmente de manera oral a diferentes audiencias, adaptando su lenguaje y estilo de acuerdo con el contexto y la comprensión de los oyentes. Esta habilidad ha facilitado una mejor colaboración interna y ha asegurado que los mensajes clave se transmitan con precisión.
+      </td>
     </tr>
-      <tr>
+    <tr>
       <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
-      <td>En conclusión, el equipo ha logrado comunicar por escrito de manera efectiva a diferentes rangos de audiencia, ajustando el tono, la estructura y el nivel de detalle en función de la audiencia Esto ha asegurado que los mensajes sean claros, adecuados y comprensibles, independientemente del nivel de conocimiento o contexto de los lectores.</td>
+      <td>
+        <strong>TP:</strong>
+        <br><br>
+        <strong>Quijandría, Vicente:</strong> Documentó el desarrollo del login y sign-up con un lenguaje claro y detallado, adecuado para otros desarrolladores y stakeholders menos técnicos.  
+        <br><br>
+        <strong>Lizano, Fernando:</strong> Escribió guías y documentación sobre el proceso de deployment, así como la implementación del footer y la lista de juegos, ajustando el nivel de detalle según la audiencia.  
+        <br><br>
+        <strong>Rentería, Yasser:</strong> Redactó documentación sobre el enrutamiento y el diseño de los apartados visuales del toolbar y la página principal, haciendo énfasis en la estructura y usabilidad.  
+        <br><br>
+        <strong>Torres, Andrés:</strong> Elaboró informes escritos sobre el desarrollo del profile y el header, utilizando un tono técnico pero accesible, para que tanto desarrolladores como miembros del equipo no técnicos pudieran comprender.  
+        <br><br>
+        <strong>Riega, José:</strong> Describió detalladamente el proceso de desarrollo del home, proporcionando documentación clara sobre cómo se muestran los juegos y cómo funciona la interfaz.
+      </td>
+      <td>
+        El equipo ha demostrado una comunicación escrita efectiva, adaptando el tono, el nivel de detalle y la estructura según la audiencia, lo que ha garantizado que los mensajes sean claros y comprensibles para todos los interesados, sin importar su nivel de conocimiento técnico.
+      </td>
     </tr>
   </tbody>
 </table>
+
 
 ---
