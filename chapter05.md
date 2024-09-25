@@ -1036,6 +1036,51 @@ Las actividades para el presente Sprint se repartieron con base en las secciones
     </tr>
 </table>
 
+## 5.2.2.5. Execution Evidence for Sprint Review
+Para este segundo entregable, hemos elaborado la aplicación web. De tal modo, se podrá visualizar la información relevante sobre nuestra plataforma.
+
+- **Sección de Inicio**: Se implementó Toolbar, labels, login y profiles.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_01.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Aplicación**: Se implementó la sección de la aplicación Home y juegos.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_02.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Footer**: Se implementó el footer.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_03.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de About us**: Se implementó la sección de ver About us.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_04.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Planes**: Se añadió la sección de información sobre los planes de la aplicación web.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_05.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Contact**: Se implementó la sección del Contact.
+ 
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_06.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Sección de Profile**: Se implementó la sección de los perfiles de la aplicación web.
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_07.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
 
 ## 5.3. Validation Interviews
 ## 5.3.1. Diseño de Entrevistas
