@@ -524,7 +524,6 @@ Para este primer sprint nos enfocaremos en los tasks para la elaboración de la 
 </table>
 
 
-
 ## 5.2.1.3. Development Evidence for Sprint Review
 
 <table>
@@ -813,6 +812,113 @@ Las actividades para el presente Sprint se repartieron con base en las secciones
 <p align="center">
   <img src="assets/chapter05/sprint/sprint01/insights/insights_landing_evidence.png" style="width:700px; height:auto;" alt="">
 </p>
+## 5.2.2.1. Sprint Planning 2
+
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-09-24</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">12:00P M</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Fernando Jesus</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Fernando, Andrés, José, Vicente y Yasser.
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Review Summary</td>
+    <td colspan="8">En esta primera sección se planteó el desarrollo del Front end.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 2 Retrospective Summary</td>
+    <td colspan="8">En esta sección todos los integrantes mencionaron tener aciertos en partes del código y en otras partes poder mejorar sus habilidades realizando el Frontend</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Goal</td>
+    <td colspan="8">Finalizar con el desarrollo del Frontend</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">4 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">4 Story Points</td>
+</tr>
+</table>
+
+## 5.2.2.2. Sprint Backlog 2
+
+<table>
+<tr>
+    <th colspan="3">Sprint #</th>
+    <th colspan="10">Sprint 1</th>
+  </tr>
+      <tr>
+    <td colspan="3">User Story</td>
+    <td colspan="10">Work-Item/Task</td>
+  </tr>
+  <tr>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="1">Id</td>
+    <td colspan="2">Title</td>
+    <td colspan="3">Description</td>
+    <td colspan="1"> Estimation</td>
+    <td colspan="2">Assigned To</td>
+    <td colspan="1">Status(To-do /InProcess /To-Review /Done)</td>
+</tr>
+  <tr>
+    <td colspan="1">US54</td>
+    <td colspan="2">Visualización de juegos listados</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Añadir información relevante de la aplicación</td>
+    <td colspan="3">Como visitante del Fronend, quiero poder visualizar los juegos listados.</td>
+    <td colspan="1">2</td>
+    <td colspan="2">José y Vicente.</td>
+    <td colspan="1">Done</td>
+  </tr>
+  <tr>
+    <td colspan="1">US55</td>
+    <td colspan="2">Visualización y redireccionamiento del "about"</td>
+    <td colspan="1">2</td>
+    <td colspan="2">Añadir imágenes y gráficos relevantes</td>
+    <td colspan="3">Como visitante del Frontend, quiero que al seleccionar el apartado de about, me redireccione allí.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Fernando, Yasser, Andres y José</td>
+    <td colspan="1">Done</td>
+<tr>
+    <td colspan="1">US56</td>
+    <td colspan="2">Tipografía cómoda y agradable estéticamente</td>
+    <td colspan="1">3</td>
+    <td colspan="2">Añadir una tipografía fácil de leer y con un tamaño adecuado</td>
+    <td colspan="3">Como visitante del Frontend, quiero que la tipografía de la misma sea legible y estéticamente agradable para facilitar la lectura y la navegación.</td>
+    <td colspan="1">1</td>
+    <td colspan="2">Andrés y Vicente.</td>
+    <td colspan="1">Done</td>
+</tr>
+</table>
+
 
 ## 5.3. Validation Interviews
 ## 5.3.1. Diseño de Entrevistas
