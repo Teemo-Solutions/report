@@ -1081,6 +1081,15 @@ Para este segundo entregable, hemos elaborado la aplicación web. De tal modo, s
   <img src="assets/chapter05/sprint/sprint01/evidences/web_evidence_07.jpg" style="width:700px; height:auto;" alt="">
 </p>
 
+## 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+## 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+## 5.2.2.8. Team Collaboration Insight during Sprint 
+
+<p align="center">
+  <img src="assets/chapter05/insight.png" style="width:700px; height:auto;" alt="">
+</p>
 
 ## 5.3. Validation Interviews
 ## 5.3.1. Diseño de Entrevistas
