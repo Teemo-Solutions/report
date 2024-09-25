@@ -939,7 +939,7 @@ Las actividades para el presente Sprint se repartieron con base en las secciones
         <td colspan="2">b472657</td>
         <td colspan="2">Initial commit</td>
         <td colspan="2">-</td>
-        <td colspan="2">25/09/2024</td>
+        <td colspan="2">24/09/2024</td>
     </tr>
     <tr>
         <td colspan="2">Teemo-Solutions/FrontEndApp</td>
