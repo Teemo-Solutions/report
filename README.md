@@ -1,34 +1,3 @@
-<style>
-  body {
-    font-family: 'Times New Roman', sans-serif;
-    text-align: justify;
-    font-size: 12px;
-    margin-left: 2em;
-    margin-right: 2em;
-    line-height: 2;
-  }
-  
-  p {
-    text-indent: 2em; /* Sangría en el primer renglón de cada párrafo */
-  }
-
-  h1 {
-    margin-left: 0; /* No aplica sangría para el título principal */
-  }
-
-  h2 {
-    margin-left: 0; /* No aplica sangría para subtítulos de nivel 2 */
-  }
-
-  h3 {
-    margin-left: 2em; /* Aplica una sangría de 2em para subtítulos de nivel 3 */
-  }
-
-  h4 {
-    margin-left: 4em; /* Aplica una sangría de 4em para subtítulos de nivel 4 */
-  }
-</style>
-
 # UNIVERSIDAD PERUANA DE CIENCIAS APLICADAS
 
 <p align="center">
@@ -229,49 +198,25 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
     <tr>
       <td>Comunica oralmente con efectividad a diferentes rangos de audiencia.</td>
       <td>
-        TB1:   
+        TP:   
         <br><br>
-        Quijandría, Vicente:
-        insert text here
+        Quijandría, Vicente: Realizó el apartado del login y del sign up
         <br><br>
-        Lizano, Fernando:
-        insert text here
+        Lizano, Fernando: Organizó al equipo y realizó el deployment de la aplicacion, como tambien la creación del footer y la lista de juegos
         <br><br>
-        Renteria, Yasser:
-        insert text here
+        Renteria, Yasser: Realizó el enrutamiento del toolbar, el about us, el contact us, subscriptions y el apartado visual de home
         <br><br>
-        Riega, José: 
-        insert text here
-        Torres, Andrés:
-        insert text here
+        Torres, Andrés: Realizó el apartado del profile doden se muestran los datos de usuario y el header que seria el toolbar
         <br><br>
-        Riega, José:
+        Riega, José: realizó el apartado del home donde se muestean los juegos
       </td>
-      <td>insert text here</td>
+      <td>
+En conclusión, el equipo ha demostrado ser capaz de comunicar de manera efectiva a diversos rangos de audiencia, adaptando su lenguaje y estilo según las necesidades del grupo. Esto ha permitido transmitir ideas clave de forma clara y comprensible, garantizando que cada mensaje llegue con precisión y adecuación a la audiencias </td>
     </tr>
       <tr>
       <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
-      <td>
-        TB1:   
-        <br><br>
-        Quijandría, Vicente:
-        insert text here
-        <br><br>
-        Lizano, Fernando:
-        insert text here
-        <br><br>
-        Renteria, Yasser:
-        insert text here
-        <br><br>
-        Riega, José: 
-        insert text here
-        Torres, Andrés:
-        insert text here
-        <br><br>
-        Riega, José:
-      </td>
-      <td>insert text here</td>
-    </tr>   
+      <td>En conclusión, el equipo ha logrado comunicar por escrito de manera efectiva a diferentes rangos de audiencia, ajustando el tono, la estructura y el nivel de detalle en función de la audiencia Esto ha asegurado que los mensajes sean claros, adecuados y comprensibles, independientemente del nivel de conocimiento o contexto de los lectores.</td>
+    </tr>
   </tbody>
 </table>
 
