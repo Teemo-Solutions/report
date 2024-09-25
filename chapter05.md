@@ -812,6 +812,9 @@ Las actividades para el presente Sprint se repartieron con base en las secciones
 <p align="center">
   <img src="assets/chapter05/sprint/sprint01/insights/insights_landing_evidence.png" style="width:700px; height:auto;" alt="">
 </p>
+
+## 5.2.2 Sprint 2
+
 ## 5.2.2.1. Sprint Planning 2
 
 <table>
@@ -917,6 +920,75 @@ Las actividades para el presente Sprint se repartieron con base en las secciones
     <td colspan="2">Andrés y Vicente.</td>
     <td colspan="1">Done</td>
 </tr>
+</table>
+
+## 5.2.2.3. Development Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">b472657</td>
+        <td colspan="2">Initial commit</td>
+        <td colspan="2">-</td>
+        <td colspan="2">25/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">2e3aef1</td>
+        <td colspan="2">refactor: edit email example</td>
+        <td colspan="2">-</td>
+        <td colspan="2">25/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">48df9bc</td>
+        <td colspan="2">Merge branch 'feat-games' into develop</td>
+        <td colspan="2">-</td>
+        <td colspan="2">25/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">3c6fc42</td>
+        <td colspan="2">feat(subscriptions): added subcriptions components</td>
+        <td colspan="2">-</td>
+        <td colspan="2">25/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">b95097</td>
+        <td colspan="2">feat(pages): added pages components</td>
+        <td colspan="2">-</td>
+        <td colspan="2">24/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">0dbe5f2</td>
+        <td colspan="2">refactor: change ths syles of the footer</td>
+        <td colspan="2">-</td>
+        <td colspan="2">24/09/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/FrontEndApp</td>
+        <td colspan="2">Develop</td>
+        <td colspan="2">8585697</td>
+        <td colspan="2">feat: added page profile</td>
+        <td colspan="2">-</td>
+        <td colspan="2">24/09/2024</td>
+    </tr>
 </table>
 
 
