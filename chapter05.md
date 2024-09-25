@@ -820,7 +820,7 @@ Las actividades para el presente Sprint se repartieron con base en las secciones
 <table>
 <tr>
     <th colspan="5">Sprint #</th>
-    <th colspan="9">Sprint 1</th>
+    <th colspan="9">Sprint 2</th>
   </tr>
       <tr>
     <td colspan="13">Sprint Planning Background</td>
