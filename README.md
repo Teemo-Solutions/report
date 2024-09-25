@@ -67,6 +67,14 @@ FECHA: SETIEMBRE 2024
         En esta primera entrega del proyecto Teemo Solutions, se completaron los cuatro primeros capítulos al 100% y la mitad del capítulo 5. El equipo completo colaboró en la definición de la solución propuesta, llevando a cabo un análisis Lean UX y definiendo el segmento objetivo. Se recopilaron todos los requisitos necesarios para desarrollar las herramientas requeridas, incluyendo User Persons, User Stories, Product Backlog e Impact Mapping. Posteriormente, se diseñaron los mockups y prototipos de la página de inicio basándose en la información recabada, y finalmente, se completó la creación de la página de inicio con el apoyo del Sprint Backlog, asegurando así un control efectivo de los progresos realizados. Este trabajo se llevó a cabo utilizando GitHub, siguiendo la metodología Gitflow y aplicando Conventional Commits para mantener el orden y la estructura, empleando los IDEs Rider y Visual Studio Code. Además, se definieron la paleta de colores, tipografía, icono, wireframes y mockups, y se desarrolló la landing page utilizando HTML, CSS, JS y extensiones de apoyo como Bootstrap y LineIcons, implementándola en WebStorm y desplegándola vía GitHub Pages.
       </td>
     </tr>
+    <tr>
+      <td>Segunda Entrega TP1</td>
+      <td>28/03/2024</td>
+      <td>Todos los integrantes del equipo</td>
+      <td>
+        Para la segunda entrega, se realizaron mejoras significativas en el informe tras la retroalimentación recibida en la primera entrega. Además, se llevó a cabo la planificación detallada para la elaboración del frontend del proyecto, logrando completar parcialmente su desarrollo. Estos avances reflejan un enfoque más estructurado y eficiente en el proceso de trabajo.      
+      </td>
+    </tr>
   </tbody>
 </table>
 
