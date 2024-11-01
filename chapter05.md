@@ -1680,3 +1680,5 @@ La primera entrega ha permitido establecer una base sólida tanto conceptual com
 [Structurizr: Link dónde se elaboró lo relacionado al Domain-Driven Software Architecture](https://www.structurizr.com/workspace/94886/dsl)
 
 [Lucidchart: Link dónde se elaboró el diagrama de clases y diagrama de base de datos](https://lucid.app/lucidchart/5b93f4de-6135-4dcb-9f66-3f7f3fb2f005/edit?viewport_loc=-504%2C665%2C4992%2C2421%2C0_0&invitationId=inv_9f021ed4-6889-4f14-a487-05dd6b693eff)
+
+[Frontend: Link del repositorio del Frontend](https://vortex-2469f.web.app)
