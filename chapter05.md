@@ -1534,6 +1534,18 @@ Visualización de los EndPoints:
 
 Visualización de los Schemas:
 
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/schema/schema01.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/schema/schema02.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/schema/schema32.png" style="width:700px; height:auto;" alt="">
+</p>
+
 ## 5.2.3.8. Team Collaboration Insight during Sprint
 
 ## 5.3. Validation Interviews
