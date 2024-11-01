@@ -1457,6 +1457,33 @@ Para este tercer entregable, hemos elaborado la creación de los endpoints neces
   
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Detalles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Games</td>
+      <td>Endpoint en donde se obtienen los juegos de los usuarios de la aplicación</td>
+    </tr>
+    <tr>
+      <td>Profile</td>
+      <td>Endpoint en donde se obtienen los perfiles de los usuarios de la aplicación</td>
+    </tr>
+    <tr>
+      <td>login</td>
+      <td>Endpoint en donde se obtienen los usurios de la plataforma</td>
+    </tr>
+    <tr>
+      <td>register</td>
+      <td>Endpoint en donde se obtienen los registros de los usuarios de la plataforma</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review
 
 Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3, a continuación se detallará paso a paso el procedimiento del despliegue:
