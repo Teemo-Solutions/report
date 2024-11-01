@@ -1554,6 +1554,7 @@ Visualización de los Schemas:
 
 ## 5.3. Validation Interviews
 ## 5.3.1. Diseño de Entrevistas
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EeKc-EVjWedCl4CkrQNNuakBlKZ-9ZAqnnWmWeRj9h-lHA?e=5lk4kE
 
 **Segmento Objetivo: Gamers Entusiasta**
 - **Datos demográficos:**
