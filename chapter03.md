@@ -1619,6 +1619,190 @@ Este documento presenta un conjunto de **User Stories** y **Epics** para la plat
   </tr>
 </table>
 
+<!-- EPIC 07 -->
+<table>
+<tr>
+    <th>EPIC ID</th>
+    <th>07</th>
+</tr>
+<tr>
+    <th>TITLE</th>
+    <td colspan="3">Gestión de APIS del Backend para Funcionalidades del Usuario</td>
+</tr>
+<tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">
+        <strong>Cómo</strong> visitante de la aplicación web, 
+        <strong>quiero</strong> que las funcionalidades de login, registro, perfil, juegos favoritos y suscripción estén disponibles a través de APIs bien definidas,
+        <strong>para</strong> asegurar una comunicación eficiente con el frontend y que los datos se presenten en el formato JSON esperado.
+    </td>
+</tr>
+</table>
+
+<!-- USER STORY 54 -->
+<table>
+<tr>
+    <th>USER STORY ID</th>
+    <th>US54</th>
+</tr>
+<tr>
+    <th>EPIC ID</th>
+    <th>EP07</th>
+</tr>
+<tr>
+    <th>TITLE</th>
+    <td colspan="3">API para Login de Usuarios</td>
+</tr>
+<tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">
+        <strong>Como</strong> usuario de la aplicación, 
+        <strong>quiero</strong> poder autenticarme ingresando mis credenciales, 
+        <strong>para</strong> acceder a mis datos personales de forma segura.
+    </td>
+</tr>
+<tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+        <strong>Scenario 1: Autenticación de usuario exitosa</strong><br>
+        <strong>Given</strong> el usuario ingresa su email y contraseña correctos,<br>
+        <strong>When</strong> realiza una solicitud de login a la API,<br>
+        <strong>Then</strong> recibe un token de autenticación en formato JSON.<br><br>
+</tr>
+</table>
+
+<!-- USER STORY 55 -->
+<table>
+<tr>
+    <th>USER STORY ID</th>
+    <th>US55</th>
+</tr>
+<tr>
+    <th>EPIC ID</th>
+    <th>EP07</th>
+</tr>
+<tr>
+    <th>TITLE</th>
+    <td colspan="3">API para Registro de Nuevos Usuarios</td>
+</tr>
+<tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">
+        <strong>Como</strong> nuevo usuario de la aplicación, 
+        <strong>quiero</strong> poder registrarme proporcionando mis datos básicos, 
+        <strong>para</strong> crear una cuenta y acceder a las funcionalidades de la aplicación.
+    </td>
+</tr>
+<tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+        <strong>Scenario: Registro de usuario exitoso</strong><br>
+        <strong>Given</strong> el usuario ingresa sus datos de registro válidos,<br>
+        <strong>When</strong> envía la solicitud de registro a la API,<br>
+        <strong>Then</strong> la cuenta se crea y la API devuelve un mensaje de confirmación en JSON.
+    </td>
+</tr>
+</table>
+
+<!-- USER STORY 56 -->
+<table>
+<tr>
+    <th>USER STORY ID</th>
+    <th>US56</th>
+</tr>
+<tr>
+    <th>EPIC ID</th>
+    <th>EP07</th>
+</tr>
+<tr>
+    <th>TITLE</th>
+    <td colspan="3">API para Perfil de Usuario</td>
+</tr>
+<tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">
+        <strong>Como</strong> usuario autenticado, 
+        <strong>quiero</strong> poder ver y actualizar mi perfil, 
+        <strong>para</strong> mantener mi información personal actualizada en la aplicación.
+    </td>
+</tr>
+<tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+        <strong>Scenario: Actualización de perfil exitosa</strong><br>
+        <strong>Given</strong> el usuario está autenticado y accede a su perfil,<br>
+        <strong>When</strong> envía datos actualizados a la API de perfil,<br>
+        <strong>Then</strong> la API actualiza la información y devuelve la confirmación en JSON.
+    </td>
+</tr>
+</table>
+
+<!-- USER STORY 57 -->
+<table>
+<tr>
+    <th>USER STORY ID</th>
+    <th>US57</th>
+</tr>
+<tr>
+    <th>EPIC ID</th>
+    <th>EP07</th>
+</tr>
+<tr>
+    <th>TITLE</th>
+    <td colspan="3">API para Juegos Favoritos</td>
+</tr>
+<tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">
+        <strong>Como</strong> usuario autenticado, 
+        <strong>quiero</strong> poder gestionar mis juegos favoritos, 
+        <strong>para</strong> acceder rápidamente a los juegos que más me interesan.
+    </td>
+</tr>
+<tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+        <strong>Scenario: Agregar un juego a favoritos</strong><br>
+        <strong>Given</strong> el usuario está autenticado y selecciona un juego,<br>
+        <strong>When</strong> envía una solicitud a la API para agregar el juego a favoritos,<br>
+        <strong>Then</strong> el juego se añade a la lista de favoritos y la API devuelve la confirmación.<br><br>
+</tr>
+</table>
+
+<!-- USER STORY 58 -->
+<table>
+<tr>
+    <th>USER STORY ID</th>
+    <th>US58</th>
+</tr>
+<tr>
+    <th>EPIC ID</th>
+    <th>EP07</th>
+</tr>
+<tr>
+    <th>TITLE</th>
+    <td colspan="3">API para Gestión de Suscripciones</td>
+</tr>
+<tr>
+    <th>DESCRIPTION</th>
+    <td colspan="3">
+        <strong>Como</strong> usuario de la aplicación, 
+        <strong>quiero</strong> gestionar mi suscripción, 
+        <strong>para</strong> acceder a los beneficios de mi plan y renovar cuando sea necesario.
+    </td>
+</tr>
+<tr>
+    <th>ACCEPTANCE CRITERIA</th>
+    <td colspan="3">
+        <strong>Scenario: Renovación de suscripción exitosa</strong><br>
+        <strong>Given</strong> el usuario desea renovar su suscripción,<br>
+        <strong>When</strong> realiza una solicitud de renovación a la API,<br>
+        <strong>Then</strong> la suscripción se renueva y la API devuelve la confirmación en JSON.
+    </td>
+</tr>
+</table>
+
+
 ## 3.3. Impact Mapping
 
 ### Gamers

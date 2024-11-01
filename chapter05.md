@@ -939,7 +939,7 @@ Las actividades para el presente Sprint se repartieron con base en las secciones
         <td colspan="2">b472657</td>
         <td colspan="2">Initial commit</td>
         <td colspan="2">-</td>
-        <td colspan="2">25/09/2024</td>
+        <td colspan="2">24/09/2024</td>
     </tr>
     <tr>
         <td colspan="2">Teemo-Solutions/FrontEndApp</td>
@@ -991,7 +991,7 @@ Las actividades para el presente Sprint se repartieron con base en las secciones
     </tr>
 </table>
 
-## Spring Testing Suite Evidence for Sprint Review
+## 5.2.2.4. Spring Testing Suite Evidence for Sprint Review
 
 <table>
     <tr>
@@ -1122,26 +1122,517 @@ Para este segundo entregable, hemos elaborado la aplicación web. De tal modo, s
 
 ## 5.2.3.1. Sprint Planning 3
 
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-10-28</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">7:00 pm</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Fernando Jesus</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Fernando, Andrés, José, Vicente y Yasser.
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 3 Review Summary</td>
+    <td colspan="8">Se acordó la elaboración del Backend, además de dividirnos los puntos para su elaboración</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 3 Retrospective Summary</td>
+    <td colspan="8">Todos los integrantes mencionaron tener aciertos en partes del código y en otras partes poder mejorar sus habilidades realizando el Backend</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+    <td colspan="8"> El objetivo del presente Sprint es en desarrollar el backend y mejorar el fronted. Para unirlo y demostrar los user stories propuestos y por haber para este sprint planing.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">4 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">4 Story Points</td>
+</tr>
+</table>
+
 ## 5.2.3.2. Sprint Backlog 3
+
+<table>
+    <tr>
+        <th colspan="3">Sprint #</th>
+        <th colspan="10">Sprint 3</th>
+    </tr>
+    <tr>
+        <td colspan="3">User Story</td>
+        <td colspan="10">Work-Item/Task</td>
+    </tr>
+    <tr>
+        <td colspan="1">Id</td>
+        <td colspan="2">Title</td>
+        <td colspan="1">Id</td>
+        <td colspan="2">Title</td>
+        <td colspan="3">Description</td>
+        <td colspan="1">Estimation</td>
+        <td colspan="2">Assigned To</td>
+        <td colspan="1">Status (To-do/InProcess/To-Review/Done)</td>
+    </tr>
+    <tr>
+        <td>US54</td>
+        <td colspan="2">API para Login de Usuarios</td>
+        <td>1</td>
+        <td colspan="2">Añadir información relevante de la aplicación</td>
+        <td colspan="3">Como usuario de la aplicación, quiero poder autenticarme ingresando mis credenciales para acceder a mis datos personales de forma segura.</td>
+        <td>2</td>
+        <td colspan="2">Vicente</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US55</td>
+        <td colspan="2">API para Registro de Nuevos Usuarios</td>
+        <td>2</td>
+        <td colspan="2">Añadir imágenes y gráficos relevantes</td>
+        <td colspan="3">Como nuevo usuario de la aplicación, quiero poder registrarme proporcionando mis datos básicos para crear una cuenta y acceder a las funcionalidades de la aplicación.</td>
+        <td>1</td>
+        <td colspan="2">Vicente</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US56</td>
+        <td colspan="2">API para Perfil de Usuario</td>
+        <td>3</td>
+        <td colspan="2">Añadir una tipografía fácil de leer y con un tamaño adecuado</td>
+        <td colspan="3">Como usuario autenticado, quiero poder ver y actualizar mi perfil para mantener mi información personal actualizada en la aplicación.</td>
+        <td>1</td>
+        <td colspan="2">Yasser</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US57</td>
+        <td colspan="2">API para Juegos Favoritos</td>
+        <td>4</td>
+        <td colspan="2">Gestionar favoritos</td>
+        <td colspan="3">Como usuario autenticado, quiero poder gestionar mis juegos favoritos para acceder rápidamente a los juegos que más me interesan.</td>
+        <td>2</td>
+        <td colspan="2">Andrés y José</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US58</td>
+        <td colspan="2">API para Gestión de Suscripciones</td>
+        <td>5</td>
+        <td colspan="2">Renovación de suscripciones</td>
+        <td colspan="3">Como usuario de la aplicación, quiero gestionar mi suscripción para acceder a los beneficios de mi plan y renovar cuando sea necesario.</td>
+        <td>3</td>
+        <td colspan="2">Fernando</td>
+        <td>Done</td>
+    </tr>
+</table>
 
 ## 5.2.3.3. Development Evidence for Sprint Review
 
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d93e1a1</td>
+        <td colspan="2">feat: fix the endpoints</td>
+        <td colspan="2">-</td>
+        <td colspan="2">31/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">341d723</td>
+        <td colspan="2">feat: added bounded</td>
+        <td colspan="2">-</td>
+        <td colspan="2">31/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">f14fd57</td>
+        <td colspan="2">feat: added get all favorite games and get by id favorite games</td>
+        <td colspan="2">-</td>
+        <td colspan="2">31/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">b5bc3f0</td>
+        <td colspan="2">Merge branch 'feature/subscription' into develop</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">c699046</td>
+        <td colspan="2">feat: add SubscriptionRepository.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">53de8d4</td>
+        <td colspan="2">feat: add SubscriptionQueryService.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">fc49cc4</td>
+        <td colspan="2">feat: add SubscriptionCommandService.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">7b6ad32</td>
+        <td colspan="2">feat: add PaymentRepository.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">5a233af</td>
+        <td colspan="2">feat: add PaymentQueryService.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+</table>
+
+## 5.2.3.4. Spring Testing Suite Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Committed on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d93e1a1</td>
+        <td colspan="2">feat: fix the endpoints</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">341d723</td>
+        <td colspan="2">feat: added bounded</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">f14fd57</td>
+        <td colspan="2">feat: added get all favorite games and get by id favorite games</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">53de8d4</td>
+        <td colspan="2">feat: add SubscriptionQueryService.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">fc49cc4</td>
+        <td colspan="2">feat: add SubscriptionCommandService.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">7b6ad32</td>
+        <td colspan="2">feat: add PaymentRepository.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">Create GetGameByTitleAndDeveloperQuery</td>
+        <td colspan="2">feat: Create GetGameByTitleAndDeveloperQuery</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">Create GetGameByIdQuery</td>
+        <td colspan="2">feat: Create GetGameByIdQuery</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">Create GameQueryServiceImpl</td>
+        <td colspan="2">feat: Create GameQueryServiceImpl</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">fix: fix the endpoint favoriteGame for view</td>
+        <td colspan="2">fix: fix the endpoint favoriteGame for view the endpoint "http://localhost:8080/swagger-ui.html"</td>
+        <td colspan="2">-</td>
+        <td colspan="2">31/10/2024</td>
+    </tr>
+</table>
+
 ## 5.2.3.5. Execution Evidence for Sprint Review
 
+Para este tercer entregable, hemos elaborado la creación de los endpoints necesarios para nuestro backend. De tal modo, se podrán visualizar estos mismos en swagger.
+- **Games Endpoint**: Se implementó el endpoint de games (POST Y GET).
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/Endpoints_evidence_01.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Favorite Games Endpoint**: Se implementó el endpoint de Favorite Games (POST Y GET).
+  <p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/Endpoints_evidence_02.jpg" style="width:700px; height:auto;" alt="">
+</p>
+  
+- **login-register Endpoint**: Se implementó el endpoint de login-register (POST Y GET).
+  <p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/Endpoints_evidence_03.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **profile Endpoints**: Se implementó el endpoint de profile (POST Y GET).
+  <p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/Endpoints_evidence_01.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Subscription Endpoints**: Se implementó el endpoint de subscription (POST Y GET).
+  <p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/Endpoints_evidence_01.jpg" style="width:700px; height:auto;" alt="">
+</p>
+  
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review
 
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Detalles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Games</td>
+      <td>Endpoint en donde se obtienen los juegos de los usuarios de la aplicación</td>
+    </tr>
+    <tr>
+      <td>Profile</td>
+      <td>Endpoint en donde se obtienen los perfiles de los usuarios de la aplicación</td>
+    </tr>
+    <tr>
+      <td>login</td>
+      <td>Endpoint en donde se obtienen los usurios de la plataforma</td>
+    </tr>
+    <tr>
+      <td>register</td>
+      <td>Endpoint en donde se obtienen los registros de los usuarios de la plataforma</td>
+    </tr>
+    <tr>
+      <td>subscription</td>
+      <td>Endpoint en donde se obtienen las suscripciones de los usuarios de la plataforma</td>
+    </tr>
+    <tr>
+      <td>payment</td>
+      <td>Endpoint en donde se obtienen los pagos de los usuarios de la plataforma</td>
+    </tr>
+  </tbody>
+</table>
+
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3, a continuación se detallará paso a paso el procedimiento del despliegue:
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence01.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Primero, ejecutamos el comando “run” representado por un ícono de play: "Run - VortexPlatformApplication"
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence02.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Visualización en la terminal:
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence03_.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Carpetas creadas:
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/folders.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Visualización de los EndPoints:
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence04.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence05.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence06.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Visualización de los Schemas:
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/schema/schema01.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/schema/schema02.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/schema/schema32.png" style="width:700px; height:auto;" alt="">
+</p>
 
 ## 5.2.3.8. Team Collaboration Insight during Sprint
 
 ## 5.3. Validation Interviews
 ## 5.3.1. Diseño de Entrevistas
+
+**Segmento Objetivo: Gamers Entusiasta**
+- **Datos demográficos:**
+  - ¿Cuál es tu nombre?
+  - ¿Qué edad tienes?
+  - ¿En qué distrito resides? 
+  - ¿Cuál es tu apellido?
+
+- **Datos obtenidos:**
+  - ¿Qué te gustó y mejorarías en la Landing Page como gamer?
+
+  - ¿Qué te gustó y mejorarías en la aplicación web como gamer?
+
+---
+
+**Segmento Objetivo: Desarrolladores de Videojuegos**
+
+- **Datos demográficos:**
+  - ¿Cuál es tu nombre?
+  - ¿Qué edad tienes?
+  - ¿En qué distrito resides? 
+  - ¿Cuál es tu apellido?
+
+- **Datos obtenidos:**
+- ¿Qué te gustó y mejorarías en la Landing Page como desarrollador de videojuegos?
+- ¿Qué te gustó y mejorarías en la aplicación web como desarrollador de videojuegos?
+
 ## 5.3.2. Registro de Entrevistas
+
+**Segmento Objetivo: Gamers Entusiastas**
+- **Entrevista #1**
+  
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Bruno Chaud Carbajal</th>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>24 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Chorrillos</td>
+  </tr>
+  <tr>
+    <td>Estado Civil</td>
+    <td>Soltero</td>
+  </tr>
+  <tr>
+    <td>Familia</td>
+    <td>No tiene hijos</td>
+  </tr>
+  <tr>
+    <td>Ocupación</td>
+    <td>Estudiante universitario</td>
+  </tr>
+  <tr>
+    <td>URL</td>
+    <td><>Entrevistas Generales</a></td>
+  </tr>
+  <tr>
+    <td>Inicio de entrevista</td>
+    <td>7:54</td>
+  </tr>
+  <tr>
+    <td>Fin de entrevista</td>
+    <td>14:28</td>
+  </tr>
+</table>
+ 
+**¿Qué te gustó y mejorarías en la Landing Page como gamer?**
+**¿Qué te gustó y mejorarías en la aplicación web como gamer?**
+
 ## 5.3.3. Evaluaciones según heurísticas
 ## 5.4. Video About-the-Product
 
 ## Conclusiones
-La primera entrega ha permitido establecer una base sólida tanto conceptual como técnica para el desarrollo del sistema. Se logró identificar claramente la problemática y necesidades del usuario mediante entrevistas y análisis, lo que ayudó a la creación de historias de usuario y un product backlog bien estructurado. El equipo implementó un flujo de trabajo eficiente con Gitflow y Conventional Commits, asegurando orden en el desarrollo y colaboración a través de GitHub. Además, se avanzó en el diseño visual y la funcionalidad inicial de la landing page, con una propuesta centrada en la experiencia del usuario. La documentación fue realizada cuidadosamente siguiendo el formato APA, garantizando coherencia y claridad en todo el informe. Esto proporciona una dirección clara para las próximas etapas del proyecto.
+-La primera entrega ha permitido establecer una base sólida tanto conceptual como técnica para el desarrollo del sistema. Se logró identificar claramente la problemática y necesidades del usuario mediante entrevistas y análisis, lo que ayudó a la creación de historias de usuario y un product backlog bien estructurado. El equipo implementó un flujo de trabajo eficiente con Gitflow y Conventional Commits, asegurando orden en el desarrollo y colaboración a través de GitHub. Además, se avanzó en el diseño visual y la funcionalidad inicial de la landing page, con una propuesta centrada en la experiencia del usuario. La documentación fue realizada cuidadosamente siguiendo el formato APA, garantizando coherencia y claridad en todo el informe. Esto proporciona una dirección clara para las próximas etapas del proyecto.
+
+- La segunda entrega nos ha permitido llevar a la practica lo aprendido en clase para poder implementar, desarrollar y desplegar nuestro frontend. Desde la creacion de endpoints y db.json como fake api. Aseguramos orden en el desarrollo y creemos que los puntos a mejorar se tomarán seriamente en cuenta para la tercera entrega de nuestro proyecto.
+
+- La tercera entrega implementa y proporciona una base sólida para una aplicación de gestión de juegos, ofreciendo las funcionalidades necesarias para listar, buscar, y gestionar tanto juegos como las preferencias de juegos de los usuarios. La estructura establecida también permitiendonos prosperar de una mejor manera ante entregas anteriores.
 
 ## Referencias bibliográficas
 1. Ariely, D. (2008). Predictably irrational: The hidden forces that shape our decisions. HarperCollins.
@@ -1193,3 +1684,5 @@ La primera entrega ha permitido establecer una base sólida tanto conceptual com
 [Structurizr: Link dónde se elaboró lo relacionado al Domain-Driven Software Architecture](https://www.structurizr.com/workspace/94886/dsl)
 
 [Lucidchart: Link dónde se elaboró el diagrama de clases y diagrama de base de datos](https://lucid.app/lucidchart/5b93f4de-6135-4dcb-9f66-3f7f3fb2f005/edit?viewport_loc=-504%2C665%2C4992%2C2421%2C0_0&invitationId=inv_9f021ed4-6889-4f14-a487-05dd6b693eff)
+
+[Frontend: Link del repositorio del Frontend](https://vortex-2469f.web.app)
