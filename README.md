@@ -217,9 +217,26 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>Torres, Andrés:</strong> Explicó el desarrollo del profile y del header (toolbar), destacando los aspectos técnicos y visuales de manera accesible para todos los miembros.  
         <br><br>
         <strong>Riega, José:</strong> Describió el apartado del home, mostrando cómo se renderizan los juegos, logrando que la audiencia comprendiera tanto los aspectos visuales como técnicos.
-      </td>
+        <br><br>
+        <strong>TB2:</strong>
+        <br><br>
+        <strong>Quijandría, Vicente:</strong> Se encargó de los endpoints para el inicio de sesión y el registro, asegurando que la autenticación fuera segura y fácil de usar
+        <br><br>
+        <strong>Lizano, Fernando:</strong> Elaboró los endpoints para las suscripciones y también gestionó el desarrollo del sprint 3, asegurando el cumplimiento de los objetivos. Además, participó en la mejora del frontend, colaborando para lograr una interfaz más intuitiva y funcional.
+        <br><br>
+        <strong>Rentería, Yasser:</strong> Desarrolló los endpoints para los usuarios y ayudó en la corrección del reporte, garantizando precisión en la presentación de los datos. También contribuyó en la mejora del frontend, enfocándose en detalles que optimizaron la experiencia del usuario.
+        <br><br>
+        <strong>Torres, Andrés:</strong> Se ocupó de crear los endpoints para los juegos favoritos, trabajando en que fueran accesibles y fáciles de integrar para otros desarrolladores del equipo.
+        <br><br>
+        <strong>Riega, José:</strong> Trabajó en los endpoints para los juegos, cuidando la documentación y optimización para su integración en el sistema. Asimismo, colaboró en el frontend, aportando ideas y ajustes que mejoraron la usabilidad de la plataforma.
       <td>
+        <strong>TP:</strong>
+        <br><br>
         El equipo ha demostrado su capacidad para comunicar eficazmente de manera oral a diferentes audiencias, adaptando su lenguaje y estilo de acuerdo con el contexto y la comprensión de los oyentes. Esta habilidad ha facilitado una mejor colaboración interna y ha asegurado que los mensajes clave se transmitan con precisión.
+        <br><br>
+        <strong>TB2:</strong>
+        <br><br>
+        El equipo desarrolló una serie de endpoints esenciales, abarcando funcionalidades clave como gestión de usuarios, suscripciones, juegos y autenticación, y trabajó en mejoras de frontend para optimizar la experiencia del usuario. Durante el proceso, se priorizó una comunicación efectiva para que todos los miembros comprendieran los objetivos y alinearan sus contribuciones, asegurando una integración fluida entre el backend y la interfaz de usuario. Asimismo, el reporte fue revisado y ajustado para presentar la información con precisión, facilitando la comprensión de las funcionalidades a diferentes rangos de audiencia.
       </td>
     </tr>
     <tr>
@@ -236,9 +253,26 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>Torres, Andrés:</strong> Elaboró informes escritos sobre el desarrollo del profile y el header, utilizando un tono técnico pero accesible, para que tanto desarrolladores como miembros del equipo no técnicos pudieran comprender.  
         <br><br>
         <strong>Riega, José:</strong> Describió detalladamente el proceso de desarrollo del home, proporcionando documentación clara sobre cómo se muestran los juegos y cómo funciona la interfaz.
+        <strong>TB2:</strong>
+        <br><br>
+        <strong>Quijandría, Vicente:</strong> Se encargó de los endpoints para el inicio de sesión y el registro, asegurando que la autenticación fuera segura y fácil de usar
+        <br><br>
+        <strong>Lizano, Fernando:</strong> Elaboré los endpoints para las suscripciones y organicé el desarrollo del sprint 3, documentando cada proceso y resultado de manera detallada para garantizar que todos comprendieran las especificaciones. Además, apoyé en el frontend, aportando en la documentación técnica para optimizar la presentación de la interfaz.
+        <br><br>
+        <strong>Rentería, Yasser:</strong> Creé los endpoints para la gestión de usuarios y participé en la revisión del reporte, asegurándome de que la documentación fuera clara y precisa. También colaboré en mejorar el frontend y contribuí a la elaboración de notas explicativas para usuarios y desarrolladores.
+        <br><br>
+        <strong>Torres, Andrés:</strong> Trabajé en los endpoints para los juegos favoritos, asegurando una documentación completa y accesible, dirigida tanto a desarrolladores como a usuarios interesados en entender la funcionalidad.
+        <br><br>
+        <strong>Riega, José:</strong> Diseñé los endpoints para la funcionalidad de juegos, y me enfoqué en que cada uno estuviera documentado de manera comprensible. Apoyé en la mejora del frontend, ajustando la presentación para facilitar la comprensión del uso de la plataforma.
       </td>
       <td>
+        <strong>TP:</strong>
+        <br><br>
         El equipo ha demostrado una comunicación escrita efectiva, adaptando el tono, el nivel de detalle y la estructura según la audiencia, lo que ha garantizado que los mensajes sean claros y comprensibles para todos los interesados, sin importar su nivel de conocimiento técnico.
+        <br><br>
+        <strong>TB2:</strong>
+        <br><br>
+        El equipo desarrolló y documentó una serie de endpoints clave para la plataforma, cubriendo funcionalidades de usuarios, juegos, suscripciones y autenticación. Cada miembro se encargó de que los procesos y resultados quedaran bien documentados, con explicaciones claras y orientadas a audiencias técnicas y no técnicas. También se revisó el reporte general, manteniendo una estructura precisa y accesible para facilitar la comprensión de los avances y funcionalidades. Además, en el frontend, se trabajó en una presentación optimizada que incluyera documentación y guías, garantizando una comunicación escrita efectiva y adecuada para diferentes audiencias.
       </td>
     </tr>
   </tbody>
