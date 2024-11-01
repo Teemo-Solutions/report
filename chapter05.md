@@ -1530,7 +1530,80 @@ Visualización de los Schemas:
 
 ## 5.3. Validation Interviews
 ## 5.3.1. Diseño de Entrevistas
+
+**Segmento Objetivo: Gamers Entusiasta**
+- **Datos demográficos:**
+  - ¿Cuál es tu nombre?
+  - ¿Qué edad tienes?
+  - ¿En qué distrito resides? 
+  - ¿Cuál es tu apellido?
+
+- **Datos obtenidos:**
+  - ¿Qué te gustó y mejorarías en la Landing Page como gamer?
+
+  - ¿Qué te gustó y mejorarías en la aplicación web como gamer?
+
+---
+
+**Segmento Objetivo: Desarrolladores de Videojuegos**
+
+- **Datos demográficos:**
+  - ¿Cuál es tu nombre?
+  - ¿Qué edad tienes?
+  - ¿En qué distrito resides? 
+  - ¿Cuál es tu apellido?
+
+- **Datos obtenidos:**
+- ¿Qué te gustó y mejorarías en la Landing Page como desarrollador de videojuegos?
+- ¿Qué te gustó y mejorarías en la aplicación web como desarrollador de videojuegos?
+
 ## 5.3.2. Registro de Entrevistas
+
+**Segmento Objetivo: Gamers Entusiastas**
+- **Entrevista #1**
+  
+<table>
+  <tr>
+    <th>Nombre</th>
+    <th>Bruno Chaud Carbajal</th>
+  </tr>
+  <tr>
+    <td>Edad</td>
+    <td>24 años</td>
+  </tr>
+  <tr>
+    <td>Distrito</td>
+    <td>Chorrillos</td>
+  </tr>
+  <tr>
+    <td>Estado Civil</td>
+    <td>Soltero</td>
+  </tr>
+  <tr>
+    <td>Familia</td>
+    <td>No tiene hijos</td>
+  </tr>
+  <tr>
+    <td>Ocupación</td>
+    <td>Estudiante universitario</td>
+  </tr>
+  <tr>
+    <td>URL</td>
+    <td><>Entrevistas Generales</a></td>
+  </tr>
+  <tr>
+    <td>Inicio de entrevista</td>
+    <td>7:54</td>
+  </tr>
+  <tr>
+    <td>Fin de entrevista</td>
+    <td>14:28</td>
+  </tr>
+</table>
+ 
+**¿Qué te gustó y mejorarías en la Landing Page como gamer?**
+**¿Qué te gustó y mejorarías en la aplicación web como gamer?**
+
 ## 5.3.3. Evaluaciones según heurísticas
 ## 5.4. Video About-the-Product
 
