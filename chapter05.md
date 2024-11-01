@@ -1481,6 +1481,14 @@ Para este tercer entregable, hemos elaborado la creación de los endpoints neces
       <td>register</td>
       <td>Endpoint en donde se obtienen los registros de los usuarios de la plataforma</td>
     </tr>
+    <tr>
+      <td>subscription</td>
+      <td>Endpoint en donde se obtienen las suscripciones de los usuarios de la plataforma</td>
+    </tr>
+    <tr>
+      <td>payment</td>
+      <td>Endpoint en donde se obtienen los pagos de los usuarios de la plataforma</td>
+    </tr>
   </tbody>
 </table>
 
