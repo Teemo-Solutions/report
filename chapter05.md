@@ -1548,6 +1548,10 @@ Visualización de los Schemas:
 
 ## 5.2.3.8. Team Collaboration Insight during Sprint
 
+<p align="center">
+  <img src="assets/chapter05/commits.png" style="width:700px; height:auto;" alt="">
+</p>
+
 ## 5.3. Validation Interviews
 ## 5.3.1. Diseño de Entrevistas
 
