@@ -1177,6 +1177,77 @@ Para este segundo entregable, hemos elaborado la aplicación web. De tal modo, s
 
 ## 5.2.3.2. Sprint Backlog 3
 
+<table>
+    <tr>
+        <th colspan="3">Sprint #</th>
+        <th colspan="10">Sprint 3</th>
+    </tr>
+    <tr>
+        <td colspan="3">User Story</td>
+        <td colspan="10">Work-Item/Task</td>
+    </tr>
+    <tr>
+        <td colspan="1">Id</td>
+        <td colspan="2">Title</td>
+        <td colspan="1">Id</td>
+        <td colspan="2">Title</td>
+        <td colspan="3">Description</td>
+        <td colspan="1">Estimation</td>
+        <td colspan="2">Assigned To</td>
+        <td colspan="1">Status (To-do/InProcess/To-Review/Done)</td>
+    </tr>
+    <tr>
+        <td>US54</td>
+        <td colspan="2">API para Login de Usuarios</td>
+        <td>1</td>
+        <td colspan="2">Añadir información relevante de la aplicación</td>
+        <td colspan="3">Como usuario de la aplicación, quiero poder autenticarme ingresando mis credenciales para acceder a mis datos personales de forma segura.</td>
+        <td>2</td>
+        <td colspan="2">Vicente</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US55</td>
+        <td colspan="2">API para Registro de Nuevos Usuarios</td>
+        <td>2</td>
+        <td colspan="2">Añadir imágenes y gráficos relevantes</td>
+        <td colspan="3">Como nuevo usuario de la aplicación, quiero poder registrarme proporcionando mis datos básicos para crear una cuenta y acceder a las funcionalidades de la aplicación.</td>
+        <td>1</td>
+        <td colspan="2">Vicente</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US56</td>
+        <td colspan="2">API para Perfil de Usuario</td>
+        <td>3</td>
+        <td colspan="2">Añadir una tipografía fácil de leer y con un tamaño adecuado</td>
+        <td colspan="3">Como usuario autenticado, quiero poder ver y actualizar mi perfil para mantener mi información personal actualizada en la aplicación.</td>
+        <td>1</td>
+        <td colspan="2">Yasser</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US57</td>
+        <td colspan="2">API para Juegos Favoritos</td>
+        <td>4</td>
+        <td colspan="2">Gestionar favoritos</td>
+        <td colspan="3">Como usuario autenticado, quiero poder gestionar mis juegos favoritos para acceder rápidamente a los juegos que más me interesan.</td>
+        <td>2</td>
+        <td colspan="2">Andrés y José</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US58</td>
+        <td colspan="2">API para Gestión de Suscripciones</td>
+        <td>5</td>
+        <td colspan="2">Renovación de suscripciones</td>
+        <td colspan="3">Como usuario de la aplicación, quiero gestionar mi suscripción para acceder a los beneficios de mi plan y renovar cuando sea necesario.</td>
+        <td>3</td>
+        <td colspan="2">Fernando</td>
+        <td>Done</td>
+    </tr>
+</table>
+
 ## 5.2.3.3. Development Evidence for Sprint Review
 
 ## 5.2.3.5. Execution Evidence for Sprint Review
