@@ -1083,6 +1083,34 @@ Para este segundo entregable, hemos elaborado la aplicación web. De tal modo, s
 
 ## 5.2.2.6. Services Documentation Evidence for Sprint Review
 
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Detalles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Users</td>
+      <td>Endpoint que contiene los datos del fake api para usuarios</td>
+    </tr>
+    <tr>
+      <td>Gamers</td>
+      <td>Endpoint que contiene los datos del fake api para los gamers</td>
+    </tr>
+    <tr>
+      <td>Developers</td>
+      <td>Endpoint que contiene los datos del fake api para los desarrolladores</td>
+    </tr>
+    <tr>
+      <td>Games</td>
+      <td>Endpoint que contiene el fake api de juegos</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## 5.2.2.7. Software Deployment Evidence for Sprint Review
 
 ## 5.2.2.8. Team Collaboration Insight during Sprint 
