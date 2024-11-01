@@ -991,7 +991,7 @@ Las actividades para el presente Sprint se repartieron con base en las secciones
     </tr>
 </table>
 
-## Spring Testing Suite Evidence for Sprint Review
+## 5.2.2.4. Spring Testing Suite Evidence for Sprint Review
 
 <table>
     <tr>
@@ -1330,6 +1330,99 @@ Para este segundo entregable, hemos elaborado la aplicación web. De tal modo, s
         <td colspan="2">feat: add PaymentQueryService.java</td>
         <td colspan="2">-</td>
         <td colspan="2">30/10/2024</td>
+    </tr>
+</table>
+
+## 5.2.3.4. Spring Testing Suite Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Committed on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d93e1a1</td>
+        <td colspan="2">feat: fix the endpoints</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">341d723</td>
+        <td colspan="2">feat: added bounded</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">f14fd57</td>
+        <td colspan="2">feat: added get all favorite games and get by id favorite games</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">53de8d4</td>
+        <td colspan="2">feat: add SubscriptionQueryService.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">fc49cc4</td>
+        <td colspan="2">feat: add SubscriptionCommandService.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">7b6ad32</td>
+        <td colspan="2">feat: add PaymentRepository.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">Create GetGameByTitleAndDeveloperQuery</td>
+        <td colspan="2">feat: Create GetGameByTitleAndDeveloperQuery</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">Create GetGameByIdQuery</td>
+        <td colspan="2">feat: Create GetGameByIdQuery</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">Create GameQueryServiceImpl</td>
+        <td colspan="2">feat: Create GameQueryServiceImpl</td>
+        <td colspan="2">-</td>
+        <td colspan="2">01/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">fix: fix the endpoint favoriteGame for view</td>
+        <td colspan="2">fix: fix the endpoint favoriteGame for view the endpoint "http://localhost:8080/swagger-ui.html"</td>
+        <td colspan="2">-</td>
+        <td colspan="2">31/10/2024</td>
     </tr>
 </table>
 
