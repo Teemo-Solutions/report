@@ -1250,6 +1250,89 @@ Para este segundo entregable, hemos elaborado la aplicación web. De tal modo, s
 
 ## 5.2.3.3. Development Evidence for Sprint Review
 
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">d93e1a1</td>
+        <td colspan="2">feat: fix the endpoints</td>
+        <td colspan="2">-</td>
+        <td colspan="2">31/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">341d723</td>
+        <td colspan="2">feat: added bounded</td>
+        <td colspan="2">-</td>
+        <td colspan="2">31/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">f14fd57</td>
+        <td colspan="2">feat: added get all favorite games and get by id favorite games</td>
+        <td colspan="2">-</td>
+        <td colspan="2">31/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">b5bc3f0</td>
+        <td colspan="2">Merge branch 'feature/subscription' into develop</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">c699046</td>
+        <td colspan="2">feat: add SubscriptionRepository.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">53de8d4</td>
+        <td colspan="2">feat: add SubscriptionQueryService.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">fc49cc4</td>
+        <td colspan="2">feat: add SubscriptionCommandService.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">7b6ad32</td>
+        <td colspan="2">feat: add PaymentRepository.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">5a233af</td>
+        <td colspan="2">feat: add PaymentQueryService.java</td>
+        <td colspan="2">-</td>
+        <td colspan="2">30/10/2024</td>
+    </tr>
+</table>
+
 ## 5.2.3.5. Execution Evidence for Sprint Review
 
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review
