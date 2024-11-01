@@ -1630,6 +1630,10 @@ Visualización de los Schemas:
 ## Conclusiones
 La primera entrega ha permitido establecer una base sólida tanto conceptual como técnica para el desarrollo del sistema. Se logró identificar claramente la problemática y necesidades del usuario mediante entrevistas y análisis, lo que ayudó a la creación de historias de usuario y un product backlog bien estructurado. El equipo implementó un flujo de trabajo eficiente con Gitflow y Conventional Commits, asegurando orden en el desarrollo y colaboración a través de GitHub. Además, se avanzó en el diseño visual y la funcionalidad inicial de la landing page, con una propuesta centrada en la experiencia del usuario. La documentación fue realizada cuidadosamente siguiendo el formato APA, garantizando coherencia y claridad en todo el informe. Esto proporciona una dirección clara para las próximas etapas del proyecto.
 
+- La segunda entrega nos ha permitido llevar a la practica lo aprendido en clase para poder implementar, desarrollar y desplegar nuestro frontend. Desde la creacion de endpoints y db.json como fake api. Aseguramos orden en el desarrollo y creemos que los puntos a mejorar se tomarán seriamente en cuenta para la tercera entrega de nuestro proyecto.
+
+- La tercera entrega implementa y proporciona una base sólida para una aplicación de gestión de juegos, ofreciendo las funcionalidades necesarias para listar, buscar, y gestionar tanto juegos como las preferencias de juegos de los usuarios. La estructura establecida también permitiendonos prosperar de una mejor manera ante entregas anteriores.
+
 ## Referencias bibliográficas
 1. Ariely, D. (2008). Predictably irrational: The hidden forces that shape our decisions. HarperCollins.
 
