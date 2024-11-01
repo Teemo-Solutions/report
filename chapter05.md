@@ -1428,6 +1428,32 @@ Para este segundo entregable, hemos elaborado la aplicación web. De tal modo, s
 
 ## 5.2.3.5. Execution Evidence for Sprint Review
 
+Para este tercer entregable, hemos elaborado la creación de los endpoints necesarios para nuestro backend. De tal modo, se podrán visualizar estos mismos en swagger.
+- **Games Endpoint**: Se implementó el endpoint de games (POST Y GET).
+  <p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/Endpoints_evidence_01.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Favorite Games Endpoint**: Se implementó el endpoint de Favorite Games (POST Y GET).
+  <p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/Endpoints_evidence_02.jpg" style="width:700px; height:auto;" alt="">
+</p>
+  
+- **login-register Endpoint**: Se implementó el endpoint de login-register (POST Y GET).
+  <p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/Endpoints_evidence_03.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **profile Endpoints**: Se implementó el endpoint de profile (POST Y GET).
+  <p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/Endpoints_evidence_01.jpg" style="width:700px; height:auto;" alt="">
+</p>
+
+- **Subscription Endpoints**: Se implementó el endpoint de subscription (POST Y GET).
+  <p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/Endpoints_evidence_01.jpg" style="width:700px; height:auto;" alt="">
+</p>
+  
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review
