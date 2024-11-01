@@ -1430,7 +1430,8 @@ Para este segundo entregable, hemos elaborado la aplicación web. De tal modo, s
 
 Para este tercer entregable, hemos elaborado la creación de los endpoints necesarios para nuestro backend. De tal modo, se podrán visualizar estos mismos en swagger.
 - **Games Endpoint**: Se implementó el endpoint de games (POST Y GET).
-  <p align="center">
+
+<p align="center">
   <img src="assets/chapter05/sprint/sprint03/evidences/Endpoints_evidence_01.jpg" style="width:700px; height:auto;" alt="">
 </p>
 
@@ -1457,6 +1458,46 @@ Para este tercer entregable, hemos elaborado la creación de los endpoints neces
 ## 5.2.3.6. Services Documentation Evidence for Sprint Review
 
 ## 5.2.3.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3, a continuación se detallará paso a paso el procedimiento del despliegue:
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence01.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Primero, ejecutamos el comando “run” representado por un ícono de play: "Run - VortexPlatformApplication"
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence02.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Visualización en la terminal:
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence03_.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Carpetas creadas:
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/folders.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Visualización de los EndPoints:
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence04.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence05.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence06.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Visualización de los Schemas:
 
 ## 5.2.3.8. Team Collaboration Insight during Sprint
 
