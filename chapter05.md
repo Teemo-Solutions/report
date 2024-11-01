@@ -1122,6 +1122,59 @@ Para este segundo entregable, hemos elaborado la aplicación web. De tal modo, s
 
 ## 5.2.3.1. Sprint Planning 3
 
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 3</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-10-28</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">7:00 pm</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Fernando Jesus</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Fernando, Andrés, José, Vicente y Yasser.
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 3 Review Summary</td>
+    <td colspan="8">Se acordó la elaboración del Backend, además de dividirnos los puntos para su elaboración</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 3 Retrospective Summary</td>
+    <td colspan="8">Todos los integrantes mencionaron tener aciertos en partes del código y en otras partes poder mejorar sus habilidades realizando el Backend</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 3 Goal</td>
+    <td colspan="8"> El objetivo del presente Sprint es en desarrollar el backend y mejorar el fronted. Para unirlo y demostrar los user stories propuestos y por haber para este sprint planing.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">4 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">4 Story Points</td>
+</tr>
+</table>
+
 ## 5.2.3.2. Sprint Backlog 3
 
 ## 5.2.3.3. Development Evidence for Sprint Review
