@@ -1636,6 +1636,17 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EeKc-EVj
 
 ## 5.3.3. Evaluaciones según heurísticas
 ## 5.4. Video About-the-Product
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EXK7QU1wO59Pm31ZrMf1hSoBlwRL8ank641sE9_pvc2Kcw?e=hMDm5S&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+https://youtu.be/WnbEm3H_2x4
+
+<p align="center">
+  <img src="assets/chapter05/Product.PNG" style="width:700px; height:auto;" alt="">
+</p>
+
+00:00 - 02:28
+
+El video presenta la página de inicio del proyecto Teemo Solutions, destacando su función como plataforma de distribución de videojuegos con planes de suscripción y testimonios positivos de desarrolladores y gamers; también se muestra cómo crear un perfil de usuario.
 
 ## Conclusiones
 -La primera entrega ha permitido establecer una base sólida tanto conceptual como técnica para el desarrollo del sistema. Se logró identificar claramente la problemática y necesidades del usuario mediante entrevistas y análisis, lo que ayudó a la creación de historias de usuario y un product backlog bien estructurado. El equipo implementó un flujo de trabajo eficiente con Gitflow y Conventional Commits, asegurando orden en el desarrollo y colaboración a través de GitHub. Además, se avanzó en el diseño visual y la funcionalidad inicial de la landing page, con una propuesta centrada en la experiencia del usuario. La documentación fue realizada cuidadosamente siguiendo el formato APA, garantizando coherencia y claridad en todo el informe. Esto proporciona una dirección clara para las próximas etapas del proyecto.
