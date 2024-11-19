@@ -1586,7 +1586,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EeKc-EVj
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EeKc-EVjWedCl4CkrQNNuakBlKZ-9ZAqnnWmWeRj9h-lHA?e=o3RZWv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 <p align="center">
-  <img src="assets/chapter05/Validación.png" style="width:700px; height:auto;" alt="">
+  <img src="assets/chapter05/Validación.PNG" style="width:700px; height:auto;" alt="">
 </p>
 
 **Segmento Objetivo: Gamers Entusiastas**
