@@ -75,6 +75,22 @@ FECHA: SETIEMBRE 2024
         Para la segunda entrega, se realizaron mejoras significativas en el informe tras la retroalimentación recibida en la primera entrega. Además, se llevó a cabo la planificación detallada para la elaboración del frontend del proyecto, logrando completar parcialmente su desarrollo. Estos avances reflejan un enfoque más estructurado y eficiente en el proceso de trabajo.      
       </td>
     </tr>
+    <tr>
+      <td>Tercera Entrega TB2</td>
+      <td>28/03/2024</td>
+      <td>Todos los integrantes del equipo</td>
+      <td>
+        En el proyecto, se realizaron múltiples avances significativos. En el área de frontend, se implementaron mejoras que optimizaron la experiencia del usuario y la interfaz visual, las cuales fueron acompañadas por su despliegue exitoso, asegurando la disponibilidad del producto en línea. Además, se trabajó en la optimización del sistema de reportes, mejorando tanto su funcionalidad como su presentación para facilitar el análisis de datos. Como parte de la comunicación y promoción del proyecto, se desarrollaron videos que presentan tanto al equipo como al producto, lo que permitió destacar la visión y propósito del proyecto de manera profesional. Paralelamente, cada integrante contribuyó con testimonios que añadieron un toque personal al desarrollo del proyecto, fortaleciendo su identidad y cohesión. Por último, se creó la documentación de Swagger, incluyendo la definición de los endpoints, lo cual asegura una comunicación clara y estructurada para los desarrolladores, mejorando la interoperabilidad del sistema. Estos avances representan un paso importante hacia el éxito del proyecto.  
+      </td>
+    </tr>
+    <tr>
+      <td>Cuarta Entrega TF</td>
+      <td>28/03/2024</td>
+      <td>Todos los integrantes del equipo</td>
+      <td>
+        En este sprint se llevaron a cabo importantes avances para fortalecer su funcionalidad y cumplimiento de objetivos. En el frontend, se implementaron mejoras sustanciales que optimizaron tanto la experiencia del usuario como la estética y usabilidad de la interfaz, asegurando su despliegue exitoso. En paralelo, el backend pasó por un proceso de refactorización, lo que permitió simplificar y optimizar el código, mejorando el rendimiento y la mantenibilidad del sistema. Además, se logró desplegar la base de datos de manera efectiva, asegurando su integración y disponibilidad para el sistema en producción. Uno de los hitos clave fue establecer la conectividad fluida entre el frontend y el backend, garantizando la correcta comunicación y funcionalidad entre ambos componentes. Por último, se realizó una corrección significativa del informe del proyecto, ajustándolo conforme a las observaciones y requisitos pendientes del TB2, lo que aseguró un entregable más robusto y alineado con los estándares esperados. Estos esfuerzos integrales representan un avance sólido y coordinado en la evolución del proyecto.     
+      </td>
+    </tr>
   </tbody>
 </table>
 
