@@ -1583,6 +1583,11 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EeKc-EVj
 - ¿Qué te gustó y mejorarías en la aplicación web como desarrollador de videojuegos?
 
 ## 5.3.2. Registro de Entrevistas
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EeKc-EVjWedCl4CkrQNNuakBlKZ-9ZAqnnWmWeRj9h-lHA?e=o3RZWv&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+<p align="center">
+  <img src="assets/chapter05/Validación.png" style="width:700px; height:auto;" alt="">
+</p>
 
 **Segmento Objetivo: Gamers Entusiastas**
 - **Entrevista #1**
