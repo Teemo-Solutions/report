@@ -69,7 +69,7 @@ FECHA: SETIEMBRE 2024
     </tr>
     <tr>
       <td>Segunda Entrega TP1</td>
-      <td>28/03/2024</td>
+      <td>25/09/2024</td>
       <td>Todos los integrantes del equipo</td>
       <td>
         Para la segunda entrega, se realizaron mejoras significativas en el informe tras la retroalimentación recibida en la primera entrega. Además, se llevó a cabo la planificación detallada para la elaboración del frontend del proyecto, logrando completar parcialmente su desarrollo. Estos avances reflejan un enfoque más estructurado y eficiente en el proceso de trabajo.      
@@ -77,7 +77,7 @@ FECHA: SETIEMBRE 2024
     </tr>
     <tr>
       <td>Tercera Entrega TB2</td>
-      <td>28/03/2024</td>
+      <td>19/11/2024</td>
       <td>Todos los integrantes del equipo</td>
       <td>
         En el proyecto, se realizaron múltiples avances significativos. En el área de frontend, se implementaron mejoras que optimizaron la experiencia del usuario y la interfaz visual, las cuales fueron acompañadas por su despliegue exitoso, asegurando la disponibilidad del producto en línea. Además, se trabajó en la optimización del sistema de reportes, mejorando tanto su funcionalidad como su presentación para facilitar el análisis de datos. Como parte de la comunicación y promoción del proyecto, se desarrollaron videos que presentan tanto al equipo como al producto, lo que permitió destacar la visión y propósito del proyecto de manera profesional. Paralelamente, cada integrante contribuyó con testimonios que añadieron un toque personal al desarrollo del proyecto, fortaleciendo su identidad y cohesión. Por último, se creó la documentación de Swagger, incluyendo la definición de los endpoints, lo cual asegura una comunicación clara y estructurada para los desarrolladores, mejorando la interoperabilidad del sistema. Estos avances representan un paso importante hacia el éxito del proyecto.  
