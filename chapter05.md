@@ -1112,6 +1112,10 @@ Para este segundo entregable, hemos elaborado la aplicación web. De tal modo, s
 
 ## 5.2.2.7. Software Deployment Evidence for Sprint Review
 
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence04.png" style="width:700px; height:auto;" alt="">
+</p>
+
 ## 5.2.2.8. Team Collaboration Insight during Sprint 
 
 <p align="center">
