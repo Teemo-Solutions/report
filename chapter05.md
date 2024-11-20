@@ -1552,6 +1552,389 @@ Visualización de los Schemas:
   <img src="assets/chapter05/commits.png" style="width:700px; height:auto;" alt="">
 </p>
 
+
+## 5.2.4 Sprint 4
+
+## 5.2.4.1. Sprint Planning 4
+
+<table>
+<tr>
+    <th colspan="5">Sprint #</th>
+    <th colspan="9">Sprint 4</th>
+  </tr>
+      <tr>
+    <td colspan="13">Sprint Planning Background</td>
+  </tr>
+  <tr>
+    <td colspan="5">Date</td>
+    <td colspan="8">2024-11-17</td>
+</tr>
+  <tr>
+    <td colspan="5">Time</td>
+    <td colspan="8">7:00 pm</td>
+  </tr>
+  <tr>
+    <td colspan="5">Location</td>
+    <td colspan="8">Via Discord</td>
+<tr>
+    <td colspan="5">Prepared By</td>
+    <td colspan="8">Fernando Jesus</td>
+</tr>
+<tr>
+    <td colspan="5">Attendees (to planning meeting)</td>
+    <td colspan="8">Fernando, Andrés, José, Vicente y Yasser.
+</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 4 Review Summary</td>
+    <td colspan="8">Se acordó la última versión para el backend y la mejora de puntos del frontend</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n – 4 Retrospective Summary</td>
+    <td colspan="8">Todos los integrantes mencionaron tener aciertos en partes del código y en otras partes poder mejorar sus habilidades realizando el Backend y Frontend</td>
+</tr>
+<tr>
+    <td colspan="13">Sprint Goal & User Stories</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint 4 Goal</td>
+    <td colspan="8"> El objetivo del presente Sprint es en desarrollar la versión final del backend y mejorar el fronted. Para unirlo junto con la landing page y demostrar los user stories propuestos y por haber para este sprint planing.</td>
+</tr>
+<tr>
+    <td colspan="5">Sprint n Velocity</td>
+    <td colspan="8">4 story points</td>
+</tr>
+<tr>
+    <td colspan="5">Sum of Story Points</td>
+    <td colspan="8">4 Story Points</td>
+</tr>
+</table>
+
+## 5.2.4.2. Sprint Backlog 4
+
+<table>
+    <tr>
+        <th colspan="3">Sprint #</th>
+        <th colspan="10">Sprint 4</th>
+    </tr>
+    <tr>
+        <td colspan="3">User Story</td>
+        <td colspan="10">Work-Item/Task</td>
+    </tr>
+    <tr>
+        <td colspan="1">Id</td>
+        <td colspan="2">Title</td>
+        <td colspan="1">Id</td>
+        <td colspan="2">Title</td>
+        <td colspan="3">Description</td>
+        <td colspan="1">Estimation</td>
+        <td colspan="2">Assigned To</td>
+        <td colspan="1">Status (To-do/InProcess/To-Review/Done)</td>
+    </tr>
+    <tr>
+        <td>US01</td>
+        <td colspan="2">Filtrado de Juegos por Género</td>
+        <td>1</td>
+        <td colspan="2">Añadir funcionalidad de filtrado</td>
+        <td colspan="3">Como gamer, quiero poder filtrar juegos por género para encontrar rápidamente aquellos que me interesan.</td>
+        <td>2</td>
+        <td colspan="2">José</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US06</td>
+        <td colspan="2">Búsqueda de Juegos por Palabra Clave</td>
+        <td>2</td>
+        <td colspan="2">Implementar barra de búsqueda</td>
+        <td colspan="3">Como gamer, quiero buscar juegos usando palabras clave para encontrar juegos específicos rápidamente.</td>
+        <td>1</td>
+        <td colspan="2">José</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US13</td>
+        <td colspan="2">Compartir Reseñas de Juegos</td>
+        <td>3</td>
+        <td colspan="2">Diseñar y habilitar sección de reseñas</td>
+        <td colspan="3">Como gamer, quiero compartir reseñas de los juegos que he jugado para ayudar a otros jugadores a decidir si quieren probarlos.</td>
+        <td>1</td>
+        <td colspan="2">Yasser y Vicente</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US15</td>
+        <td colspan="2">Personalización de Perfil de Jugador</td>
+        <td>4</td>
+        <td colspan="2">Añadir opciones de personalización</td>
+        <td colspan="3">Como gamer, quiero personalizar mi perfil en la plataforma para reflejar mis gustos y mostrar mi progreso en los juegos.</td>
+        <td>2</td>
+        <td colspan="2">Fernando y Andrés</td>
+        <td>Done</td>
+    </tr>
+    <tr>
+        <td>US21</td>
+        <td colspan="2">Publicar Juego Indie</td>
+        <td>5</td>
+        <td colspan="2">Crear módulo de publicación</td>
+        <td colspan="3">Como desarrollador, quiero poder publicar mi juego indie en la plataforma para llegar a una audiencia más amplia.</td>
+        <td>3</td>
+        <td colspan="2">Fernando y José</td>
+        <td>Done</td>
+    </tr>
+</table>
+
+
+## 5.2.4.3. Development Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Commited on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">f28de8f</td>
+        <td colspan="2">refactor(POM): added more dependencies in pom file</td>
+        <td colspan="2">-</td>
+        <td colspan="2">19/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">e522d3f</td>
+        <td colspan="2">Merge branch 'feature/IAM' into develop</td>
+        <td colspan="2">-</td>
+        <td colspan="2">19/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">feature/games</td>
+        <td colspan="2">0eae675</td>
+        <td colspan="2">feat(games): added to update and delete a game</td>
+        <td colspan="2">-</td>
+        <td colspan="2">19/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">7798f91</td>
+        <td colspan="2">feat(IAM): implemented web security and tokenization</td>
+        <td colspan="2">-</td>
+        <td colspan="2">19/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">b671b52</td>
+        <td colspan="2">feat: update game-list.component.ts</td>
+        <td colspan="2">-</td>
+        <td colspan="2">19/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">c661693</td>
+        <td colspan="2">feat: update game-details.component.ts</td>
+        <td colspan="2">-</td>
+        <td colspan="2">19/11/2024</td>
+    </tr>
+</table>
+
+
+## 5.2.4.4. Spring Testing Suite Evidence for Sprint Review
+
+<table>
+    <tr>
+        <th colspan="2">Repository</th>
+        <th colspan="2">Branch</th>
+        <th colspan="2">Commit Id</th>
+        <th colspan="2">Commit Message</th>
+        <th colspan="2">Commit Message Body</th>
+        <th colspan="2">Committed on (Date)</th>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">Create GetGameByTitleAndDeveloperQuery</td>
+        <td colspan="2">feat: Create GetGameByTitleAndDeveloperQuery</td>
+        <td colspan="2">-</td>
+        <td colspan="2">19/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">Create GetGameByIdQuery</td>
+        <td colspan="2">feat: Create GetGameByIdQuery</td>
+        <td colspan="2">-</td>
+        <td colspan="2">19/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">Create GameQueryServiceImpl</td>
+        <td colspan="2">feat: Create GameQueryServiceImpl</td>
+        <td colspan="2">-</td>
+        <td colspan="2">19/11/2024</td>
+    </tr>
+    <tr>
+        <td colspan="2">Teemo-Solutions/vortex-platform</td>
+        <td colspan="2">develop</td>
+        <td colspan="2">fix: fix the endpoint favoriteGame for view</td>
+        <td colspan="2">fix: fix the endpoint favoriteGame for view the endpoint "http://localhost:8080/swagger-ui.html"</td>
+        <td colspan="2">19/11/2024</td>
+    </tr>
+</table>
+
+
+## 5.2.4.5. Execution Evidence for Sprint Review
+
+<p align="center">
+  <img src="assets/chapter05/f319ff4a-8c87-408c-9849-603d306e9de7.jpeg" style="width:700px; height:auto;" alt="">
+</p>
+
+En este apartado se hace presenta la ejecución del frontend.
+
+[Frontend: Link del repositorio del Frontend](https://vortex-2469f.web.app)
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence04.png" style="width:700px; height:auto;" alt="">
+</p>
+
+[Backend desplegado](https://vortexapi-gsbngnf7eyheaaek.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/)
+
+
+## 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Detalles</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/api/v1/favorite-games</td>
+      <td>Obtiene los juegos favoritos con parámetros</td>
+    </tr>
+    <tr>
+      <td>/api/v1/favorite-games/{id}</td>
+      <td>Obtiene un juego favorito por su ID</td>
+    </tr>
+    <tr>
+      <td>/api/v1/games</td>
+      <td>Obtiene los juegos disponibles</td>
+    </tr>
+    <tr>
+      <td>/api/v1/games/{id}</td>
+      <td>Obtiene un juego por su ID</td>
+    </tr>
+    <tr>
+      <td>/api/v1/profiles</td>
+      <td>Obtiene todos los perfiles</td>
+    </tr>
+    <tr>
+      <td>/api/v1/profiles/{id}</td>
+      <td>Obtiene un perfil por su ID</td>
+    </tr>
+    <tr>
+      <td>/api/v1/users</td>
+      <td>Obtiene todos los usuarios registrados</td>
+    </tr>
+    <tr>
+      <td>/api/v1/users/{id}</td>
+      <td>Obtiene un usuario por su ID</td>
+    </tr>
+    <tr>
+      <td>/api/v1/users/search</td>
+      <td>Busca un usuario por su correo electrónico</td>
+    </tr>
+    <tr>
+      <td>/api/v1/subscriptions</td>
+      <td>Obtiene todas las suscripciones</td>
+    </tr>
+    <tr>
+      <td>/api/v1/subscriptions/{id}</td>
+      <td>Obtiene una suscripción por su ID</td>
+    </tr>
+    <tr>
+      <td>/api/v1/payments</td>
+      <td>Obtiene todos los pagos registrados</td>
+    </tr>
+    <tr>
+      <td>/api/v1/payments/{id}</td>
+      <td>Obtiene un pago por su ID</td>
+    </tr>
+  </tbody>
+</table>
+
+
+## 5.2.4.7. Software Deployment Evidence for Sprint Review
+
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 3, a continuación se detallará paso a paso el procedimiento del despliegue:
+
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence01.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Primero, ejecutamos el comando “run” representado por un ícono de play: "Run - VortexPlatformApplication"
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence02.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Visualización en la terminal:
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence03_.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Carpetas creadas:
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/folders.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Visualización de los EndPoints:
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence04.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence05.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/evidences/evidence06.png" style="width:700px; height:auto;" alt="">
+</p>
+
+Visualización de los Schemas:
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/schema/schema01.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/schema/schema02.png" style="width:700px; height:auto;" alt="">
+</p>
+
+<p align="center">
+  <img src="assets/chapter05/sprint/sprint03/schema/schema32.png" style="width:700px; height:auto;" alt="">
+</p>
+
+## 5.2.4.8. Team Collaboration Insight during Sprint
+
+<p align="center">
+  <img src="assets/chapter05/commits.png" style="width:700px; height:auto;" alt="">
+</p>
+
 ## 5.3. Validation Interviews
 ## 5.3.1. Diseño de Entrevistas
 https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EeKc-EVjWedCl4CkrQNNuakBlKZ-9ZAqnnWmWeRj9h-lHA?e=5lk4kE
@@ -1619,7 +2002,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214130_upc_edu_pe/EeKc-EVj
   </tr>
   <tr>
     <td>URL</td>
-    <td><>Entrevistas Generales</a></td>
+    <td><>Entrevistas Generales</td>
   </tr>
   <tr>
     <td>Inicio de entrevista</td>
@@ -1649,42 +2032,62 @@ https://youtu.be/WnbEm3H_2x4
 El video presenta la página de inicio del proyecto Teemo Solutions, destacando su función como plataforma de distribución de videojuegos con planes de suscripción y testimonios positivos de desarrolladores y gamers; también se muestra cómo crear un perfil de usuario.
 
 ## Conclusiones
--La primera entrega ha permitido establecer una base sólida tanto conceptual como técnica para el desarrollo del sistema. Se logró identificar claramente la problemática y necesidades del usuario mediante entrevistas y análisis, lo que ayudó a la creación de historias de usuario y un product backlog bien estructurado. El equipo implementó un flujo de trabajo eficiente con Gitflow y Conventional Commits, asegurando orden en el desarrollo y colaboración a través de GitHub. Además, se avanzó en el diseño visual y la funcionalidad inicial de la landing page, con una propuesta centrada en la experiencia del usuario. La documentación fue realizada cuidadosamente siguiendo el formato APA, garantizando coherencia y claridad en todo el informe. Esto proporciona una dirección clara para las próximas etapas del proyecto.
+- La primera entrega ha permitido establecer una base sólida tanto conceptual como técnica para el desarrollo del sistema. Se logró identificar claramente la problemática y necesidades del usuario mediante entrevistas y análisis, lo que ayudó a la creación de historias de usuario y un product backlog bien estructurado. El equipo implementó un flujo de trabajo eficiente con Gitflow y Conventional Commits, asegurando orden en el desarrollo y colaboración a través de GitHub. Además, se avanzó en el diseño visual y la funcionalidad inicial de la landing page, con una propuesta centrada en la experiencia del usuario. La documentación fue realizada cuidadosamente siguiendo el formato APA, garantizando coherencia y claridad en todo el informe. Esto proporciona una dirección clara para las próximas etapas del proyecto.
 
-- La segunda entrega nos ha permitido llevar a la practica lo aprendido en clase para poder implementar, desarrollar y desplegar nuestro frontend. Desde la creacion de endpoints y db.json como fake api. Aseguramos orden en el desarrollo y creemos que los puntos a mejorar se tomarán seriamente en cuenta para la tercera entrega de nuestro proyecto.
+
+- La segunda entrega nos ha permitido llevar a la práctica lo aprendido en clase para poder implementar, desarrollar y desplegar nuestro frontend. Desde la creacion de endpoints y db.json como fake api. Aseguramos orden en el desarrollo y creemos que los puntos a mejorar se tomarán seriamente en cuenta para la tercera entrega de nuestro proyecto.
+
 
 - La tercera entrega implementa y proporciona una base sólida para una aplicación de gestión de juegos, ofreciendo las funcionalidades necesarias para listar, buscar, y gestionar tanto juegos como las preferencias de juegos de los usuarios. La estructura establecida también permitiendonos prosperar de una mejor manera ante entregas anteriores.
+
+
+- La cuarta entrega y última entrega se completaron la actualización y despliegue de los endpoints, asegurando una comunicación óptima entre los componentes del sistema, y se desplegó la base de datos garantizando un almacenamiento seguro y eficiente. Además, se mejoró parte del frontend para optimizar la experiencia del usuario y se logró integrar completamente la landing page, el frontend y el backend, estableciendo un flujo de datos efectivo y consistente. Estas acciones concluyen el proyecto con un sistema funcional, listo para operar en un entorno real y cumplir con los objetivos planteados.
 
 ## Referencias bibliográficas
 1. Ariely, D. (2008). Predictably irrational: The hidden forces that shape our decisions. HarperCollins.
 
+
 2. Gothelf, J., & Seiden, J. (2013). Lean UX: Applying lean principles to improve user experience. O'Reilly Media.
+
 
 3. Kelley, T., & Kelley, D. (2013). Creative confidence: Unleashing the creative potential within us all. Crown Business.
 
+
 4. Meyer, C., & Schwager, A. (2007). Understanding customer experience. Harvard Business Review, 85(2), 116-126.
+
 
 5. Ries, E. (2011). The lean startup: How today's entrepreneurs use continuous innovation to create radically successful businesses. Crown Business.
 
+
 6. Snyder, C. (2013). Paper prototyping: The fast and easy way to design and refine user interfaces. Morgan Kaufmann.
+
 
 7. Contributors, M. o. J. T. A. B. (s.f.). Bootstrap. https://getbootstrap.com/
 
+
 8. Conventional commits. (s.f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/
+
 
 9. Figma Community: Explore templates, plugins, and widgets published by the community. (s.f.). Figma. https://www.figma.com/community
 
+
 10. Free Line Icons for Designers and Developers - Lineicons. (2021, 23 mayo). Lineicons. https://lineicons.com/
+
 
 11. Pallerols, X. M. (2022, 18 noviembre). Qué es el Responsive Design y por qué tu web debería serlo. Thinking For Innovation. https://www.iebschool.com/blog/que-es-responsive-web-design-analitica-usabilidad/
 
+
 12. _ESIC Business & Marketing School. (s.f.). HTML5: qué es, características y cómo funciona. ESIC. https://www.esic.edu/rethink/tecnologia/html5-que-es-caracteristicas-y-como-funciona-c#:~:text=El%20HTML5%20es%20un%20est%C3%A1ndar,%2C%20estilo%20de%20letra%2C%20etc.
+
 
 13. CSS | MDN. (2024, 6 junio). MDN Web Docs. https://developer.mozilla.org/es/docs/Web/CSS
 
+
 14. JavaScript | MDN. (2023, 24 julio). MDN Web Docs. https://developer.mozilla.org/es/docs/Web/JavaScript
 
+
 15. Atlassian. (s.f.). Flujo de trabajo de Gitflow | Atlassian Git Tutorial. https://www.atlassian.com/es/git/tutorials/comparing-workflows/gitflow-workflow#:~:text=%C2%BFQu%C3%A9%20es%20Gitflow%3F,vez%20y%20quien%20lo%20populariz%C3%B3.
+
 
 ## Anexos
 
@@ -1707,3 +2110,5 @@ El video presenta la página de inicio del proyecto Teemo Solutions, destacando 
 [Lucidchart: Link dónde se elaboró el diagrama de clases y diagrama de base de datos](https://lucid.app/lucidchart/5b93f4de-6135-4dcb-9f66-3f7f3fb2f005/edit?viewport_loc=-504%2C665%2C4992%2C2421%2C0_0&invitationId=inv_9f021ed4-6889-4f14-a487-05dd6b693eff)
 
 [Frontend: Link del repositorio del Frontend](https://vortex-2469f.web.app)
+
+[Backend:Link del repositorio de los endpoints desplegados](https://vortexapi-gsbngnf7eyheaaek.canadacentral-01.azurewebsites.net/swagger-ui/index.html#/)

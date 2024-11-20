@@ -193,6 +193,34 @@ Puedes acceder al contenido del repositorio pulsando sobre el siguiente ícono:
         - [5.2.1.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5216-services-documentation-evidence-for-sprint-review)
         - [5.2.1.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5217-software-deployment-evidence-for-sprint-review)
         - [5.2.1.8. Team Collaboration Insights during Sprint](/chapter05.md#5218-team-collaboration-insights-during-sprint)
+    - [5.2.2. Sprint 2](/chapter05.md#522-sprint-2)
+      - [5.2.2.1. Sprint Planning 2](/chapter05.md#5221-sprint-planning-2)
+      - [5.2.2.2. Sprint Backlog 2](/chapter05.md#5222-sprint-backlog-2)
+      - [5.2.2.3. Development Evidence for Sprint Review](/chapter05.md#5223-development-evidence-for-sprint-review)
+      - [5.2.2.4. Testing Suite Evidence for Sprint Review](/chapter05.md#5224-spring-testing-suite-evidence-for-sprint-review)
+      - [5.2.2.5. Execution Evidence for Sprint Review](/chapter05.md#5225-execution-evidence-for-sprint-review)
+      - [5.2.2.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5226-services-documentation-evidence-for-sprint-review)
+      - [5.2.2.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5227-software-deployment-evidence-for-sprint-review)
+      - [5.2.2.8. Team Collaboration Insights during Sprint](/chapter05.md#5228-team-collaboration-insight-during-sprint-)
+    - [5.2.3. Sprint 3](/chapter05.md#523-sprint-3)
+        - [5.2.3.1. Sprint Planning 3](/chapter05.md#5231-sprint-planning-3)
+        - [5.2.3.2. Sprint Backlog 3](/chapter05.md#5232-sprint-backlog-3)
+        - [5.2.3.3. Development Evidence for Sprint Review](/chapter05.md#5233-development-evidence-for-sprint-review)
+        - [5.2.3.4. Testing Suite Evidence for Sprint Review](/chapter05.md#5234-spring-testing-suite-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](/chapter05.md#5235-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5236-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5237-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](/chapter05.md#5238-team-collaboration-insight-during-sprint)
+    - [5.2.4. Sprint 4](/chapter05.md#523-sprint-4)
+        - [5.2.3.1. Sprint Planning 4](/chapter05.md#5241-sprint-planning-4)
+        - [5.2.3.2. Sprint Backlog 4](/chapter05.md#5242-sprint-backlog-4)
+        - [5.2.3.3. Development Evidence for Sprint Review](/chapter05.md#5243-development-evidence-for-sprint-review)
+        - [5.2.3.4. Testing Suite Evidence for Sprint Review](/chapter05.md#5244-spring-testing-suite-evidence-for-sprint-review)
+        - [5.2.3.5. Execution Evidence for Sprint Review](/chapter05.md#5245-execution-evidence-for-sprint-review)
+        - [5.2.3.6. Services Documentation Evidence for Sprint Review](/chapter05.md#5246-services-documentation-evidence-for-sprint-review)
+        - [5.2.3.7. Software Deployment Evidence for Sprint Review](/chapter05.md#5247-software-deployment-evidence-for-sprint-review)
+        - [5.2.3.8. Team Collaboration Insights during Sprint](/chapter05.md#5248-team-collaboration-insight-during-sprint)
+
 
 ### [Conclusiones](/chapter05.md)
 - [Conclusiones y recomendaciones](/chapter05.md#conclusiones)
@@ -245,7 +273,19 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>Torres, Andrés:</strong> Se ocupó de crear los endpoints para los juegos favoritos, trabajando en que fueran accesibles y fáciles de integrar para otros desarrolladores del equipo.
         <br><br>
         <strong>Riega, José:</strong> Trabajó en los endpoints para los juegos, cuidando la documentación y optimización para su integración en el sistema. Asimismo, colaboró en el frontend, aportando ideas y ajustes que mejoraron la usabilidad de la plataforma.
-      <td>
+<br><br>
+    <strong>TF:</strong>
+    <br><br>
+    <strong>Lizano, Fernando:</strong> Comunicó de manera efectiva las correcciones realizadas en el frontend, detallando cómo mejoraron la funcionalidad y experiencia del usuario.  
+    <br><br>
+    <strong>Rentería, Yasser:</strong> Explicó las correcciones realizadas en el backend, asegurando que todos los miembros del equipo entendieran los cambios y su impacto en la funcionalidad general.  
+    <br><br>
+    <strong>Torres, Andrés:</strong> Presentó la implementación del IAM (Identity and Access Management) en el backend, explicando su integración y beneficios en la seguridad del sistema.  
+    <br><br>
+    <strong>Quijandría, Vicente:</strong> Expuso los avances generales del backend, enfocándose en la optimización de procesos y asegurando que fueran comprendidos por todo el equipo.  
+    <br><br>
+    <strong>Riega, José:</strong> Detalló las mejoras realizadas en el frontend, mostrando cómo estos ajustes mejoraron la interfaz y optimizaron la experiencia de usuario.      
+<td>
         <strong>TP:</strong>
         <br><br>
         El equipo ha demostrado su capacidad para comunicar eficazmente de manera oral a diferentes audiencias, adaptando su lenguaje y estilo de acuerdo con el contexto y la comprensión de los oyentes. Esta habilidad ha facilitado una mejor colaboración interna y ha asegurado que los mensajes clave se transmitan con precisión.
@@ -253,7 +293,11 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>TB2:</strong>
         <br><br>
         El equipo desarrolló una serie de endpoints esenciales, abarcando funcionalidades clave como gestión de usuarios, suscripciones, juegos y autenticación, y trabajó en mejoras de frontend para optimizar la experiencia del usuario. Durante el proceso, se priorizó una comunicación efectiva para que todos los miembros comprendieran los objetivos y alinearan sus contribuciones, asegurando una integración fluida entre el backend y la interfaz de usuario. Asimismo, el reporte fue revisado y ajustado para presentar la información con precisión, facilitando la comprensión de las funcionalidades a diferentes rangos de audiencia.
-      </td>
+      <br><br>
+        <strong>TF:</strong>
+        <br><br>
+        El equipo demostró correcciones finales en el backend, optimizando los endpoints y asegurando su correcto funcionamiento, además de desplegarlo junto co
+</td>
     </tr>
     <tr>
       <td>Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
@@ -280,7 +324,19 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>Torres, Andrés:</strong> Trabajé en los endpoints para los juegos favoritos, asegurando una documentación completa y accesible, dirigida tanto a desarrolladores como a usuarios interesados en entender la funcionalidad.
         <br><br>
         <strong>Riega, José:</strong> Diseñé los endpoints para la funcionalidad de juegos, y me enfoqué en que cada uno estuviera documentado de manera comprensible. Apoyé en la mejora del frontend, ajustando la presentación para facilitar la comprensión del uso de la plataforma.
-      </td>
+<br><br>
+<strong>TF:</strong>
+        <br><br>
+        <strong>Quijandría, Vicente:</strong> Desarrolló mejoras en el backend, garantizando su estabilidad y rendimiento.  
+        <br><br>
+        <strong>Lizano, Fernando:</strong> Elaboró correcciones en el frontend, optimizando la interfaz para una mejor experiencia de usuario.  
+        <br><br>
+        <strong>Rentería, Yasser:</strong> Realizó correcciones en el backend, enfocándose en optimizar la funcionalidad existente.  
+        <br><br>
+        <strong>Torres, Andrés:</strong> Implementó el sistema de IAM (Identity and Access Management) en el backend, fortaleciendo la seguridad y control de acceso.  
+        <br><br>
+        <strong>Riega, José:</strong> Contribuyó en la mejora del frontend, afinando detalles visuales y funcionales.
+</td>
       <td>
         <strong>TP:</strong>
         <br><br>
@@ -289,7 +345,11 @@ En la siguiente tabla se visualiza cómo las tareas de cada integrante contribuy
         <strong>TB2:</strong>
         <br><br>
         El equipo desarrolló y documentó una serie de endpoints clave para la plataforma, cubriendo funcionalidades de usuarios, juegos, suscripciones y autenticación. Cada miembro se encargó de que los procesos y resultados quedaran bien documentados, con explicaciones claras y orientadas a audiencias técnicas y no técnicas. También se revisó el reporte general, manteniendo una estructura precisa y accesible para facilitar la comprensión de los avances y funcionalidades. Además, en el frontend, se trabajó en una presentación optimizada que incluyera documentación y guías, garantizando una comunicación escrita efectiva y adecuada para diferentes audiencias.
-      </td>
+        <br><br>
+        <strong>TF:</strong>
+        <br><br>
+        El equipo realizó correcciones finales en el backend, optimizando los endpoints y asegurando su correcto funcionamiento, además de desplegarlo junto con la base de datos para garantizar la estabilidad del sistema. Se verificó la conexión entre todos los componentes desarrollados, integrando el backend, la base de datos, la landing page y el frontend, logrando una plataforma completamente funcional y alineada con los objetivos del proyecto. La documentación fue revisada y ajustada para facilitar su comprensión, garantizando que tanto audiencias técnicas como no técnicas puedan entender los avances y la operatividad del sistema.
+    </td>
     </tr>
   </tbody>
 </table>
